@@ -1,0 +1,9 @@
+@echo off
+echo 正在安装所需的Python依赖...
+pip install requests beautifulsoup4 pandas
+if %ERRORLEVEL% NEQ 0 (
+    echo 安装失败，尝试使用清华镜像源...
+    pip install -i https://pypi.tuna.tsinghua.edu.cn/simple requests beautifulsoup4 pandas
+)
+echo 依赖安装完成！按任意键退出...
+pause

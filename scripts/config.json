@@ -1,0 +1,14 @@
+{
+    "base_url": "http://tians.06kd.mlkj888.cn/s/shizu",
+    "min_index": 1,
+    "max_index": 50,
+    "min_delay": 5,
+    "max_delay": 15,
+    "results_file": "website_results.txt",
+    "log_file": "website_tracker.log",
+    "title_sample_rate": 5,
+    "max_retries": 3,
+    "retry_delay": 20,
+    "anti_crawl_wait_min": 15,
+    "anti_crawl_wait_max": 30
+}
