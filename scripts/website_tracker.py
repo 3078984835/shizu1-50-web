@@ -283,6 +283,65 @@ def main():
         sys.exit(0)
 
 if __name__ == "__main__":
+
     logging.info("开始运行网站追踪器...")
     main()
     logging.info("网站追踪完成!")
+
+    # 统计结束后，自动对比上次和本次结果，生成更新提醒
+    def load_latest_results(results_file):
+        """读取结果文件，返回每个shizu编号的最新跳转URL字典"""
+        result_map = {}
+        if not os.path.exists(results_file):
+            return result_map
+        with open(results_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                if line.strip() == '' or line.startswith('时间戳'):
+                    continue
+                parts = line.strip().split(',')
+                if len(parts) < 6:
+                    continue
+                shizu_id = parts[1]
+                redirect_url = parts[3]
+                status = parts[5]
+                # 只记录成功的
+                if status == '成功':
+                    result_map[shizu_id] = redirect_url
+        return result_map
+
+    # 保存上次结果快照
+    SNAPSHOT_FILE = 'website_results_snapshot.json'
+    UPDATE_NOTICE_FILE = 'website_update_notice.txt'
+
+    # 读取上次快照
+    if os.path.exists(SNAPSHOT_FILE):
+        with open(SNAPSHOT_FILE, 'r', encoding='utf-8') as f:
+            last_snapshot = json.load(f)
+    else:
+        last_snapshot = {}
+
+    # 读取本次最新结果
+    latest_results = load_latest_results(RESULTS_FILE)
+
+    # 对比，找出有变化的shizu编号
+    updated_sites = []
+    for shizu_id, new_url in latest_results.items():
+        old_url = last_snapshot.get(shizu_id)
+        if old_url and old_url != new_url:
+            updated_sites.append((shizu_id, old_url, new_url))
+
+    # 写入更新提醒日志
+    if updated_sites:
+        with open(UPDATE_NOTICE_FILE, 'a', encoding='utf-8') as f:
+            f.write(f"\n==== {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} 检测到更新 ====" + '\n')
+            for shizu_id, old_url, new_url in updated_sites:
+                f.write(f"{shizu_id} 跳转URL发生变化\n  上次: {old_url}\n  本次: {new_url}\n")
+        print(f"检测到 {len(updated_sites)} 个网站有更新，详情见 {UPDATE_NOTICE_FILE}")
+        logging.info(f"检测到 {len(updated_sites)} 个网站有更新，详情见 {UPDATE_NOTICE_FILE}")
+    else:
+        print("本次未检测到网站跳转URL变化。")
+        logging.info("本次未检测到网站跳转URL变化。")
+
+    # 更新快照文件
+    with open(SNAPSHOT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(latest_results, f, ensure_ascii=False, indent=2)
