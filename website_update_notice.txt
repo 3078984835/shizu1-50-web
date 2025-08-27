@@ -1,0 +1,32 @@
+
+==== 2025-08-27 22:03:47 检测到更新 ====
+shizu11 跳转URL发生变化
+  上次: https://qw.landou.cc/2025/08/22/%e7%81%af%e7%ae%a1/
+  本次: http://mtvod.meituan.net/save-video/xqdvrX0L8r6r0iuQvN30f-2l5ggxhNi7XNB2Xqlsy8Y=_video_compressed.mp4?sign=1757135327-32466-0-659dc237baf6ea035d336006e42564f4
+shizu12 跳转URL发生变化
+  上次: http://mtvod.meituan.net/save-video/10FGcWMRIhs9w0_rD339qB2uALtcIoLKB-wY77R3N1s=_video.mp4?sign=1756812314-86048-0-87307509c0d3b77241db21d30553744f
+  本次: http://mtvod.meituan.net/save-video/cIL3oUgHqG-zwkEPbbT-3lnO8Ot3EFpg66BI56nv1I4=_video_compressed.mp4?sign=1757135327-32466-0-ee577d929caafef90c6d56f02de39ef3
+shizu13 跳转URL发生变化
+  上次: http://mtvod.meituan.net/save-video/vQS3RmOrAXafRGuSqzO-zmKKNiM9qj_Jf84feDP-QTo=_video.mp4?sign=1756812388-22690-0-d0188e72d4b3b9250d251d980b2e79a0
+  本次: http://mtvod.meituan.net/save-video/2o9cdbUkDD8QDnFeXBaj9ugSNgbPaJDLfe_AH58W9O0=_video_compressed.mp4?sign=1757135327-32466-0-b2985c13c49bd7c20fd67e3b9e3a3963
+shizu14 跳转URL发生变化
+  上次: http://mtvod.meituan.net/save-video/NB6qptF1J9wO12tnw66BYeYxnu33OrRjSnCfMgn6-sk=_video_compressed.mp4?sign=1756812444-99516-0-7cc31755e537ef3bb07bf242440ad45e
+  本次: http://mtvod.meituan.net/save-video/FnPviTjL2TzjgYvDlZfWCJ5jKVDWQKbK5JwIw39sOxk=_video_compressed.mp4?sign=1757135327-32466-0-8b47da82c9cf32cf479ea6a8df8fde92
+shizu15 跳转URL发生变化
+  上次: http://mtvod.meituan.net/save-video/_SYO9p_OQsnZlMS3hdFqaMja3Qncqi7JZjAETAVXv8Y=_video.mp4?sign=1756812493-71977-0-6b634fb56bfaa1c4d63a321cdde8cc98
+  本次: http://mtvod.meituan.net/save-video/AC-N2akGnrluAbMLjSnnWGRApgOhwyH9vZu-dFFevtE=_video_compressed.mp4?sign=1757135431-96034-0-ea74af95ca7c238d2fa2e97f2a512cf2
+shizu16 跳转URL发生变化
+  上次: http://mtvod.meituan.net/save-video/vGpj1FtERhpFP7MwwQl8HUXWbcpElI7fw1l0ABcyh-I=_video.mp4?sign=1756813706-60514-0-ef239ab377c9579727df00ff9a25b84f
+  本次: http://mtvod.meituan.net/save-video/lSw5fQYdA5Gf9Jmtmo31QQw85FqQPJP1KM6nBjJ8FKQ=_video_compressed.mp4?sign=1757145102-1373-0-7ca0af562d55ddab46673df2e1c8a3cd
+shizu17 跳转URL发生变化
+  上次: http://mtvod.meituan.net/save-video/dooTZZG7zflqURmMmrNl0AcAyFThy3u1e4IOLU9XItQ=_video.mp4?sign=1756813768-65820-0-15e6b81ba8758d819f77f4f0bbc79742
+  本次: http://mtvod.meituan.net/save-video/2gJNqP-BMQ8lAtbXrPIvMRufXfB3xS68ZMGYXWfyY7Y=_video_compressed.mp4?sign=1757145171-81592-0-8be784b963442b3fb600b57d7e009475
+shizu18 跳转URL发生变化
+  上次: http://mtvod.meituan.net/save-video/TpgKjuVEbdEsCHaoCHqmiScq1g-lNl2gmmEf6TxTmjU=_video_compressed.mp4?sign=1756813935-95436-0-d3f3b18622356ab4316641031b2708a0
+  本次: http://mtvod.meituan.net/save-video/tKyPqBEDsJKfENq2HJLbZPgYGgLNHlDuFlWoKBtkHXk=_video_compressed.mp4?sign=1757145213-37837-0-d1b0eeb5ff3be6f54f57a0d3083ccfc9
+shizu19 跳转URL发生变化
+  上次: http://mtvod.meituan.net/save-video/S_7WLdp7VHcBRtI_sDdV3J8LE_XOaphHQJoYVhllgbY=_video.mp4?sign=1756814085-76494-0-49d6fef7586fd03fd916d96a3b9ee6f1
+  本次: http://mtvod.meituan.net/save-video/bUvTxxp78k2RTEG9BF-imQds7oJN9uU4ZxBjFATOwOU=_video.mp4?sign=1757145289-42949-0-f407a0f85bf3702848549aae76d94017
+shizu20 跳转URL发生变化
+  上次: http://mtvod.meituan.net/save-video/Nlcu0iGKA4pFGwcOmKUAAqMwalzNyKdelYkEOVCHUko=_video.mp4?sign=1756814085-76494-0-241b6026db6dab4942cdea4c8cd4052a
+  本次: http://mtvod.meituan.net/save-video/UYQmcIT3WUEGWR_gvkcK7gjF1VdSfPW3tdHwx_hRWvc=_video.mp4?sign=1757145403-84446-0-9cf9a70b778c245300babd5ad395aae9

@@ -1133,3 +1133,326 @@
 2025-08-26 00:27:19,972 - INFO - 等待 5.68 秒...
 2025-08-26 00:27:25,653 - INFO - 网站追踪完成!
 2025-08-26 00:27:25,654 - INFO - 本次未检测到网站跳转URL变化。
+2025-08-26 19:24:33,750 - INFO - 开始运行网站追踪器...
+2025-08-26 19:24:33,751 - INFO - 已加载进度: 上次处理到 shizu50
+2025-08-26 19:24:33,751 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu1 (尝试 1/3)
+2025-08-26 19:24:35,516 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-26 19:24:35,516 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-26 19:24:35,517 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-26 19:24:35,518 - INFO - 进度已保存: 当前处理到 shizu0
+2025-08-26 19:24:35,518 - WARNING - 触发反爬机制，等待 28.95 秒后重试...
+2025-08-26 19:25:04,464 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu1 (尝试 2/3)
+2025-08-26 19:25:04,553 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/a6S7fFDRSv5fG4Wql89WB044OIvWNPJNQL97NacRO7U=_video_compressed.mp4?sign=1756990894-94291-0-8a0fdcdd9ef45fc29ffffdd3f07b4fc3
+2025-08-26 19:25:04,554 - INFO - 已记录: shizu1 -> http://mtvod.meituan.net/save-video/a6S7fFDRSv5fG4Wql89WB044OIvWNPJNQL97NacRO7U=_video_compressed.mp4?sign=1756990894-94291-0-8a0fdcdd9ef45fc29ffffdd3f07b4fc3
+2025-08-26 19:25:04,555 - INFO - 等待 5.46 秒...
+2025-08-26 19:25:10,012 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu2 (尝试 1/3)
+2025-08-26 19:25:10,101 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-26 19:25:10,102 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-26 19:25:10,102 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-26 19:25:10,104 - INFO - 进度已保存: 当前处理到 shizu1
+2025-08-26 19:25:10,104 - WARNING - 触发反爬机制，等待 28.40 秒后重试...
+2025-08-26 19:25:38,505 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu2 (尝试 2/3)
+2025-08-26 19:25:38,587 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/3pKKiNTk-TuQXWZp-lc66Y2JIa0iw3vNFnW6wehW67w=_video_compressed.mp4?sign=1756990894-94291-0-7b7e2d36681b4edac418a658ca1f8589
+2025-08-26 19:25:38,588 - INFO - 已记录: shizu2 -> http://mtvod.meituan.net/save-video/3pKKiNTk-TuQXWZp-lc66Y2JIa0iw3vNFnW6wehW67w=_video_compressed.mp4?sign=1756990894-94291-0-7b7e2d36681b4edac418a658ca1f8589
+2025-08-26 19:25:38,588 - INFO - 等待 11.28 秒...
+2025-08-26 19:25:49,873 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu3 (尝试 1/3)
+2025-08-26 19:25:49,965 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-26 19:25:49,965 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-26 19:25:49,965 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-26 19:25:49,966 - INFO - 进度已保存: 当前处理到 shizu2
+2025-08-26 19:25:49,967 - WARNING - 触发反爬机制，等待 24.11 秒后重试...
+2025-08-26 19:26:14,078 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu3 (尝试 2/3)
+2025-08-26 19:26:14,165 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/AFCZZENu1saRKum7RwxeYt9LljHMINUrzr6-l5TiwR0=_video_compressed.mp4?sign=1756990894-94291-0-8e7cb174fe7eae8802b9b1a2af4fba73
+2025-08-26 19:26:14,167 - INFO - 已记录: shizu3 -> http://mtvod.meituan.net/save-video/AFCZZENu1saRKum7RwxeYt9LljHMINUrzr6-l5TiwR0=_video_compressed.mp4?sign=1756990894-94291-0-8e7cb174fe7eae8802b9b1a2af4fba73
+2025-08-26 19:26:14,167 - INFO - 等待 7.26 秒...
+2025-08-26 19:26:21,423 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu4 (尝试 1/3)
+2025-08-26 19:26:21,509 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-26 19:26:21,509 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-26 19:26:21,510 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-26 19:26:21,511 - INFO - 进度已保存: 当前处理到 shizu3
+2025-08-26 19:26:21,511 - WARNING - 触发反爬机制，等待 24.18 秒后重试...
+2025-08-26 19:26:45,697 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu4 (尝试 2/3)
+2025-08-26 19:26:45,789 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/qEXcwC1gyLX23PRY0Hh8YQCHVI79O6bTTt_xjZJdLVE=_video_compressed.mp4?sign=1756990894-94291-0-3e9154a53602703992a432dfc8dc801b
+2025-08-26 19:26:45,791 - INFO - 已记录: shizu4 -> http://mtvod.meituan.net/save-video/qEXcwC1gyLX23PRY0Hh8YQCHVI79O6bTTt_xjZJdLVE=_video_compressed.mp4?sign=1756990894-94291-0-3e9154a53602703992a432dfc8dc801b
+2025-08-26 19:26:45,791 - INFO - 等待 13.02 秒...
+2025-08-26 19:26:58,815 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu5 (尝试 1/3)
+2025-08-26 19:26:58,907 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-26 19:26:58,908 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-26 19:26:58,909 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-26 19:26:58,910 - INFO - 进度已保存: 当前处理到 shizu4
+2025-08-26 19:26:58,911 - WARNING - 触发反爬机制，等待 21.17 秒后重试...
+2025-08-27 21:51:11,069 - INFO - 开始运行网站追踪器...
+2025-08-27 21:51:11,070 - INFO - 已加载进度: 上次处理到 shizu4
+2025-08-27 21:51:11,071 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu5 (尝试 1/3)
+2025-08-27 21:51:11,237 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 21:51:11,237 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 21:51:11,237 - WARNING - 检测到反爬机制，连续失败: 2
+2025-08-27 21:51:11,240 - INFO - 进度已保存: 当前处理到 shizu4
+2025-08-27 21:51:11,240 - WARNING - 触发反爬机制，等待 27.00 秒后重试...
+2025-08-27 21:51:38,243 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu5 (尝试 2/3)
+2025-08-27 21:51:38,321 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/F94aSRSgPNuPHqqQUNDxRoFBtFOjluy5Uu8DjGYh2DQ=_video_compressed.mp4?sign=1756991050-42572-0-cccf27b2b7737abcd48e17910dde8200
+2025-08-27 21:51:44,784 - INFO - 已记录: shizu5 -> http://mtvod.meituan.net/save-video/F94aSRSgPNuPHqqQUNDxRoFBtFOjluy5Uu8DjGYh2DQ=_video_compressed.mp4?sign=1756991050-42572-0-cccf27b2b7737abcd48e17910dde8200
+2025-08-27 21:51:44,785 - INFO - 进度已保存: 当前处理到 shizu5
+2025-08-27 21:51:44,786 - INFO - 等待 10.21 秒...
+2025-08-27 21:51:54,998 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu6 (尝试 1/3)
+2025-08-27 21:51:55,103 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/2ko6ki24HMMgINtK8K2EJMAoPTwlXRQ-wErhkn_Zwu8=_video.mp4?sign=1756998307-4396-0-274ccfa6622dbc382f0522a6d00f80cb
+2025-08-27 21:51:55,104 - INFO - 已记录: shizu6 -> http://mtvod.meituan.net/save-video/2ko6ki24HMMgINtK8K2EJMAoPTwlXRQ-wErhkn_Zwu8=_video.mp4?sign=1756998307-4396-0-274ccfa6622dbc382f0522a6d00f80cb
+2025-08-27 21:51:55,104 - INFO - 等待 12.82 秒...
+2025-08-27 21:52:07,925 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu7 (尝试 1/3)
+2025-08-27 21:52:08,016 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/wJb3421R85qTgbfVq-N6yHadG4ahn2FLpzMBQV4W8Ms=_video_compressed.mp4?sign=1756998486-51216-0-534d839a63af61fcf48328838d42ac6f
+2025-08-27 21:52:08,017 - INFO - 已记录: shizu7 -> http://mtvod.meituan.net/save-video/wJb3421R85qTgbfVq-N6yHadG4ahn2FLpzMBQV4W8Ms=_video_compressed.mp4?sign=1756998486-51216-0-534d839a63af61fcf48328838d42ac6f
+2025-08-27 21:52:08,018 - INFO - 等待 6.67 秒...
+2025-08-27 21:52:14,690 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu8 (尝试 1/3)
+2025-08-27 21:52:14,777 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/yt2DRQV2qvtu-3BJ-dke_h_KPlUGMzd-_mxXYfb8u1Y=_video_compressed.mp4?sign=1756998543-4712-0-3dd5922e1e6342df3f6eeca8fbfc8800
+2025-08-27 21:52:14,778 - INFO - 已记录: shizu8 -> http://mtvod.meituan.net/save-video/yt2DRQV2qvtu-3BJ-dke_h_KPlUGMzd-_mxXYfb8u1Y=_video_compressed.mp4?sign=1756998543-4712-0-3dd5922e1e6342df3f6eeca8fbfc8800
+2025-08-27 21:52:14,778 - INFO - 等待 11.95 秒...
+2025-08-27 21:52:26,733 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu9 (尝试 1/3)
+2025-08-27 21:52:26,810 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/3m0Mzhv9TdC4j2kEZ_XsXGUn-wGULEPwnCzBqICCME4=_video.mp4?sign=1756998657-51222-0-d4be9fe1a08c9b36a5e01153aecbaf7d
+2025-08-27 21:52:26,811 - INFO - 已记录: shizu9 -> http://mtvod.meituan.net/save-video/3m0Mzhv9TdC4j2kEZ_XsXGUn-wGULEPwnCzBqICCME4=_video.mp4?sign=1756998657-51222-0-d4be9fe1a08c9b36a5e01153aecbaf7d
+2025-08-27 21:52:26,812 - INFO - 等待 10.37 秒...
+2025-08-27 21:52:37,180 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu10 (尝试 1/3)
+2025-08-27 21:52:37,257 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/DgbG5SXD9c48gUzT4XAhpjasLFZXhJhFaXyfeJNnOws=_video.mp4?sign=1756998706-16721-0-0ee33dedd58a1183f015b56da29449ba
+2025-08-27 21:52:38,276 - INFO - 已记录: shizu10 -> http://mtvod.meituan.net/save-video/DgbG5SXD9c48gUzT4XAhpjasLFZXhJhFaXyfeJNnOws=_video.mp4?sign=1756998706-16721-0-0ee33dedd58a1183f015b56da29449ba
+2025-08-27 21:52:38,277 - INFO - 进度已保存: 当前处理到 shizu10
+2025-08-27 21:52:38,277 - INFO - 等待 5.74 秒...
+2025-08-27 21:52:44,016 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu11 (尝试 1/3)
+2025-08-27 21:52:44,103 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/xqdvrX0L8r6r0iuQvN30f-2l5ggxhNi7XNB2Xqlsy8Y=_video_compressed.mp4?sign=1757135327-32466-0-659dc237baf6ea035d336006e42564f4
+2025-08-27 21:52:44,104 - INFO - 已记录: shizu11 -> http://mtvod.meituan.net/save-video/xqdvrX0L8r6r0iuQvN30f-2l5ggxhNi7XNB2Xqlsy8Y=_video_compressed.mp4?sign=1757135327-32466-0-659dc237baf6ea035d336006e42564f4
+2025-08-27 21:52:44,104 - INFO - 等待 10.50 秒...
+2025-08-27 21:52:54,603 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu12 (尝试 1/3)
+2025-08-27 21:52:54,683 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/cIL3oUgHqG-zwkEPbbT-3lnO8Ot3EFpg66BI56nv1I4=_video_compressed.mp4?sign=1757135327-32466-0-ee577d929caafef90c6d56f02de39ef3
+2025-08-27 21:52:54,684 - INFO - 已记录: shizu12 -> http://mtvod.meituan.net/save-video/cIL3oUgHqG-zwkEPbbT-3lnO8Ot3EFpg66BI56nv1I4=_video_compressed.mp4?sign=1757135327-32466-0-ee577d929caafef90c6d56f02de39ef3
+2025-08-27 21:52:54,684 - INFO - 等待 6.47 秒...
+2025-08-27 21:53:01,150 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu13 (尝试 1/3)
+2025-08-27 21:53:01,230 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/2o9cdbUkDD8QDnFeXBaj9ugSNgbPaJDLfe_AH58W9O0=_video_compressed.mp4?sign=1757135327-32466-0-b2985c13c49bd7c20fd67e3b9e3a3963
+2025-08-27 21:53:01,231 - INFO - 已记录: shizu13 -> http://mtvod.meituan.net/save-video/2o9cdbUkDD8QDnFeXBaj9ugSNgbPaJDLfe_AH58W9O0=_video_compressed.mp4?sign=1757135327-32466-0-b2985c13c49bd7c20fd67e3b9e3a3963
+2025-08-27 21:53:01,231 - INFO - 等待 8.34 秒...
+2025-08-27 21:53:09,569 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu14 (尝试 1/3)
+2025-08-27 21:53:09,657 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/FnPviTjL2TzjgYvDlZfWCJ5jKVDWQKbK5JwIw39sOxk=_video_compressed.mp4?sign=1757135327-32466-0-8b47da82c9cf32cf479ea6a8df8fde92
+2025-08-27 21:53:09,658 - INFO - 已记录: shizu14 -> http://mtvod.meituan.net/save-video/FnPviTjL2TzjgYvDlZfWCJ5jKVDWQKbK5JwIw39sOxk=_video_compressed.mp4?sign=1757135327-32466-0-8b47da82c9cf32cf479ea6a8df8fde92
+2025-08-27 21:53:09,658 - INFO - 等待 10.93 秒...
+2025-08-27 21:53:20,589 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu15 (尝试 1/3)
+2025-08-27 21:53:20,665 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 21:53:20,665 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 21:53:20,666 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 21:53:20,667 - INFO - 进度已保存: 当前处理到 shizu14
+2025-08-27 21:53:20,667 - WARNING - 触发反爬机制，等待 21.30 秒后重试...
+2025-08-27 21:53:41,973 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu15 (尝试 2/3)
+2025-08-27 21:53:42,075 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/AC-N2akGnrluAbMLjSnnWGRApgOhwyH9vZu-dFFevtE=_video_compressed.mp4?sign=1757135431-96034-0-ea74af95ca7c238d2fa2e97f2a512cf2
+2025-08-27 21:53:43,839 - INFO - 已记录: shizu15 -> http://mtvod.meituan.net/save-video/AC-N2akGnrluAbMLjSnnWGRApgOhwyH9vZu-dFFevtE=_video_compressed.mp4?sign=1757135431-96034-0-ea74af95ca7c238d2fa2e97f2a512cf2
+2025-08-27 21:53:43,840 - INFO - 进度已保存: 当前处理到 shizu15
+2025-08-27 21:53:43,840 - INFO - 等待 12.99 秒...
+2025-08-27 21:53:56,827 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu16 (尝试 1/3)
+2025-08-27 21:53:56,928 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/lSw5fQYdA5Gf9Jmtmo31QQw85FqQPJP1KM6nBjJ8FKQ=_video_compressed.mp4?sign=1757145102-1373-0-7ca0af562d55ddab46673df2e1c8a3cd
+2025-08-27 21:53:56,929 - INFO - 已记录: shizu16 -> http://mtvod.meituan.net/save-video/lSw5fQYdA5Gf9Jmtmo31QQw85FqQPJP1KM6nBjJ8FKQ=_video_compressed.mp4?sign=1757145102-1373-0-7ca0af562d55ddab46673df2e1c8a3cd
+2025-08-27 21:53:56,929 - INFO - 等待 14.78 秒...
+2025-08-27 21:54:11,711 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu17 (尝试 1/3)
+2025-08-27 21:54:11,804 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 21:54:11,804 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 21:54:11,805 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 21:54:11,806 - INFO - 进度已保存: 当前处理到 shizu16
+2025-08-27 21:54:11,807 - WARNING - 触发反爬机制，等待 19.31 秒后重试...
+2025-08-27 21:54:31,115 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu17 (尝试 2/3)
+2025-08-27 21:54:31,198 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/2gJNqP-BMQ8lAtbXrPIvMRufXfB3xS68ZMGYXWfyY7Y=_video_compressed.mp4?sign=1757145171-81592-0-8be784b963442b3fb600b57d7e009475
+2025-08-27 21:54:31,199 - INFO - 已记录: shizu17 -> http://mtvod.meituan.net/save-video/2gJNqP-BMQ8lAtbXrPIvMRufXfB3xS68ZMGYXWfyY7Y=_video_compressed.mp4?sign=1757145171-81592-0-8be784b963442b3fb600b57d7e009475
+2025-08-27 21:54:31,199 - INFO - 等待 10.32 秒...
+2025-08-27 21:54:41,524 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu18 (尝试 1/3)
+2025-08-27 21:54:41,636 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/tKyPqBEDsJKfENq2HJLbZPgYGgLNHlDuFlWoKBtkHXk=_video_compressed.mp4?sign=1757145213-37837-0-d1b0eeb5ff3be6f54f57a0d3083ccfc9
+2025-08-27 21:54:41,637 - INFO - 已记录: shizu18 -> http://mtvod.meituan.net/save-video/tKyPqBEDsJKfENq2HJLbZPgYGgLNHlDuFlWoKBtkHXk=_video_compressed.mp4?sign=1757145213-37837-0-d1b0eeb5ff3be6f54f57a0d3083ccfc9
+2025-08-27 21:54:41,637 - INFO - 等待 10.36 秒...
+2025-08-27 21:54:52,001 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu19 (尝试 1/3)
+2025-08-27 21:54:52,085 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/bUvTxxp78k2RTEG9BF-imQds7oJN9uU4ZxBjFATOwOU=_video.mp4?sign=1757145289-42949-0-f407a0f85bf3702848549aae76d94017
+2025-08-27 21:54:52,086 - INFO - 已记录: shizu19 -> http://mtvod.meituan.net/save-video/bUvTxxp78k2RTEG9BF-imQds7oJN9uU4ZxBjFATOwOU=_video.mp4?sign=1757145289-42949-0-f407a0f85bf3702848549aae76d94017
+2025-08-27 21:54:52,087 - INFO - 等待 7.29 秒...
+2025-08-27 21:54:59,381 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu20 (尝试 1/3)
+2025-08-27 21:54:59,465 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 21:54:59,466 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 21:54:59,466 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 21:54:59,467 - INFO - 进度已保存: 当前处理到 shizu19
+2025-08-27 21:54:59,468 - WARNING - 触发反爬机制，等待 29.71 秒后重试...
+2025-08-27 21:55:29,183 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu20 (尝试 2/3)
+2025-08-27 21:55:29,278 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/UYQmcIT3WUEGWR_gvkcK7gjF1VdSfPW3tdHwx_hRWvc=_video.mp4?sign=1757145403-84446-0-9cf9a70b778c245300babd5ad395aae9
+2025-08-27 21:55:31,063 - INFO - 已记录: shizu20 -> http://mtvod.meituan.net/save-video/UYQmcIT3WUEGWR_gvkcK7gjF1VdSfPW3tdHwx_hRWvc=_video.mp4?sign=1757145403-84446-0-9cf9a70b778c245300babd5ad395aae9
+2025-08-27 21:55:31,065 - INFO - 进度已保存: 当前处理到 shizu20
+2025-08-27 21:55:31,065 - INFO - 等待 14.51 秒...
+2025-08-27 21:55:45,576 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu21 (尝试 1/3)
+2025-08-27 21:55:45,652 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 21:55:45,653 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 21:55:45,653 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 21:55:45,655 - INFO - 进度已保存: 当前处理到 shizu20
+2025-08-27 21:55:45,655 - WARNING - 触发反爬机制，等待 22.09 秒后重试...
+2025-08-27 21:56:07,748 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu21 (尝试 2/3)
+2025-08-27 21:56:07,829 - INFO - 重定向URL: https://docs.qingque.cn/file/eZQCjghPUw5mlzkrWrurkQrn6
+2025-08-27 21:56:07,830 - INFO - 已记录: shizu21 -> https://docs.qingque.cn/file/eZQCjghPUw5mlzkrWrurkQrn6
+2025-08-27 21:56:07,831 - INFO - 等待 14.97 秒...
+2025-08-27 21:56:22,798 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu22 (尝试 1/3)
+2025-08-27 21:56:22,887 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 21:56:22,888 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 21:56:22,888 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 21:56:22,889 - INFO - 进度已保存: 当前处理到 shizu21
+2025-08-27 21:56:22,890 - WARNING - 触发反爬机制，等待 28.22 秒后重试...
+2025-08-27 21:56:51,113 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu22 (尝试 2/3)
+2025-08-27 21:56:51,207 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/DNx5pxMdiBcC-722taroTFAY-ixuonrsoSiVZeaPHVI=_video.mp4?sign=1756894977-59640-0-356ef9286ec835a6ac2f9b06a9ff2df3
+2025-08-27 21:56:51,208 - INFO - 已记录: shizu22 -> http://mtvod.meituan.net/save-video/DNx5pxMdiBcC-722taroTFAY-ixuonrsoSiVZeaPHVI=_video.mp4?sign=1756894977-59640-0-356ef9286ec835a6ac2f9b06a9ff2df3
+2025-08-27 21:56:51,208 - INFO - 等待 8.04 秒...
+2025-08-27 21:56:59,252 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu23 (尝试 1/3)
+2025-08-27 21:56:59,343 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/or-p0qz3L3RAh2fd7rt25AXkc1haOsvYGKKQNvDLTVY=_video.mp4?sign=1756866780-25299-0-20edf8d8e85da89aa299f85d586ad458
+2025-08-27 21:56:59,344 - INFO - 已记录: shizu23 -> http://mtvod.meituan.net/save-video/or-p0qz3L3RAh2fd7rt25AXkc1haOsvYGKKQNvDLTVY=_video.mp4?sign=1756866780-25299-0-20edf8d8e85da89aa299f85d586ad458
+2025-08-27 21:56:59,344 - INFO - 等待 8.62 秒...
+2025-08-27 21:57:07,970 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu24 (尝试 1/3)
+2025-08-27 21:57:08,062 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/iDhHrDjpWa4w05KfZs2hDrST-I516uST3e7F1HMCRBo=_video.mp4?sign=1756866780-25299-0-e6501acc03cd2aaf5847d9f943342c60
+2025-08-27 21:57:08,063 - INFO - 已记录: shizu24 -> http://mtvod.meituan.net/save-video/iDhHrDjpWa4w05KfZs2hDrST-I516uST3e7F1HMCRBo=_video.mp4?sign=1756866780-25299-0-e6501acc03cd2aaf5847d9f943342c60
+2025-08-27 21:57:08,063 - INFO - 等待 13.08 秒...
+2025-08-27 21:57:21,143 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu25 (尝试 1/3)
+2025-08-27 21:57:21,222 - INFO - 重定向URL: https://docs.qingque.cn/d/home/eZQBUjFARpigaNf87b9rT_zwz
+2025-08-27 21:57:21,418 - INFO - 已记录: shizu25 -> https://docs.qingque.cn/d/home/eZQBUjFARpigaNf87b9rT_zwz
+2025-08-27 21:57:21,419 - INFO - 进度已保存: 当前处理到 shizu25
+2025-08-27 21:57:21,419 - INFO - 等待 14.04 秒...
+2025-08-27 21:57:35,461 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu26 (尝试 1/3)
+2025-08-27 21:57:35,544 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/0yLQ8qA0yXKwhV1EqZuZw9wtueTN6aQZzQtrTlNKFfc=_video_compressed.mp4?sign=1756895354-40933-0-28c93c48597fb134d7d653c0a834ee88
+2025-08-27 21:57:35,545 - INFO - 已记录: shizu26 -> http://mtvod.meituan.net/save-video/0yLQ8qA0yXKwhV1EqZuZw9wtueTN6aQZzQtrTlNKFfc=_video_compressed.mp4?sign=1756895354-40933-0-28c93c48597fb134d7d653c0a834ee88
+2025-08-27 21:57:35,545 - INFO - 等待 10.56 秒...
+2025-08-27 21:57:46,105 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu27 (尝试 1/3)
+2025-08-27 21:57:46,185 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/fDVDU4OiZBTX-ijXwVoodqC5YndKpw9J3R8Rzzl9qJY=_video_compressed.mp4?sign=1756895354-40933-0-d6b5793009df6a1be7e156ce79047a08
+2025-08-27 21:57:46,186 - INFO - 已记录: shizu27 -> http://mtvod.meituan.net/save-video/fDVDU4OiZBTX-ijXwVoodqC5YndKpw9J3R8Rzzl9qJY=_video_compressed.mp4?sign=1756895354-40933-0-d6b5793009df6a1be7e156ce79047a08
+2025-08-27 21:57:46,186 - INFO - 等待 8.20 秒...
+2025-08-27 21:57:54,388 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu28 (尝试 1/3)
+2025-08-27 21:57:54,475 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/GupPJtKUvu5-1kDNUP0w82lPRjfJrB-DohXQKm1OInM=_video_compressed.mp4?sign=1756895354-40933-0-581dc39fc4ccf67c3be5c548985f770e
+2025-08-27 21:57:54,476 - INFO - 已记录: shizu28 -> http://mtvod.meituan.net/save-video/GupPJtKUvu5-1kDNUP0w82lPRjfJrB-DohXQKm1OInM=_video_compressed.mp4?sign=1756895354-40933-0-581dc39fc4ccf67c3be5c548985f770e
+2025-08-27 21:57:54,477 - INFO - 等待 5.77 秒...
+2025-08-27 21:58:00,251 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu29 (尝试 1/3)
+2025-08-27 21:58:00,343 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/G-Jrakgo8pPIoRsyasyO0yW4Cey9pUsWfMePg-1H-Hk=_video_compressed.mp4?sign=1756895472-28946-0-c7300d520096050fc890650ffe9a40e3
+2025-08-27 21:58:00,344 - INFO - 已记录: shizu29 -> http://mtvod.meituan.net/save-video/G-Jrakgo8pPIoRsyasyO0yW4Cey9pUsWfMePg-1H-Hk=_video_compressed.mp4?sign=1756895472-28946-0-c7300d520096050fc890650ffe9a40e3
+2025-08-27 21:58:00,345 - INFO - 等待 14.45 秒...
+2025-08-27 21:58:14,800 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu30 (尝试 1/3)
+2025-08-27 21:58:14,880 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 21:58:14,881 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 21:58:14,881 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 21:58:14,882 - INFO - 进度已保存: 当前处理到 shizu29
+2025-08-27 21:58:14,882 - WARNING - 触发反爬机制，等待 19.30 秒后重试...
+2025-08-27 21:58:34,183 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu30 (尝试 2/3)
+2025-08-27 21:58:34,280 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/qkz0PgfDJZCqkDdV59ladWqScv1lw3eE7BqZsh73gRQ=_video_compressed.mp4?sign=1756895472-28946-0-1c65a81ed7f87eb886340b6b646bda21
+2025-08-27 21:58:34,460 - ERROR - 获取页面标题时出错: 404 Client Error: Not Found for url: http://mtvod.meituan.net/save-video/qkz0PgfDJZCqkDdV59ladWqScv1lw3eE7BqZsh73gRQ=_video_compressed.mp4?sign=1756895472-28946-0-1c65a81ed7f87eb886340b6b646bda21
+2025-08-27 21:58:34,461 - INFO - 已记录: shizu30 -> http://mtvod.meituan.net/save-video/qkz0PgfDJZCqkDdV59ladWqScv1lw3eE7BqZsh73gRQ=_video_compressed.mp4?sign=1756895472-28946-0-1c65a81ed7f87eb886340b6b646bda21
+2025-08-27 21:58:34,462 - INFO - 进度已保存: 当前处理到 shizu30
+2025-08-27 21:58:34,462 - INFO - 等待 7.73 秒...
+2025-08-27 21:58:42,197 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu31 (尝试 1/3)
+2025-08-27 21:58:42,284 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/8-REHTUMsYYQKSrIyYHtAjb76kxLL3_IeFVMQFjlyes=_video_compressed.mp4?sign=1756905117-16068-0-f327060618cc28d84caeef83f7e8ed94
+2025-08-27 21:58:42,285 - INFO - 已记录: shizu31 -> http://mtvod.meituan.net/save-video/8-REHTUMsYYQKSrIyYHtAjb76kxLL3_IeFVMQFjlyes=_video_compressed.mp4?sign=1756905117-16068-0-f327060618cc28d84caeef83f7e8ed94
+2025-08-27 21:58:42,285 - INFO - 等待 13.37 秒...
+2025-08-27 21:58:55,659 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu32 (尝试 1/3)
+2025-08-27 21:58:55,755 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/arNSvCZgewLdmi--Yk2I3UuMvThyQ3W4qs6lOx42IkA=_video_compressed.mp4?sign=1756905151-25977-0-1b0cb877c4ece34bb9b64b6b9f48d307
+2025-08-27 21:58:55,756 - INFO - 已记录: shizu32 -> http://mtvod.meituan.net/save-video/arNSvCZgewLdmi--Yk2I3UuMvThyQ3W4qs6lOx42IkA=_video_compressed.mp4?sign=1756905151-25977-0-1b0cb877c4ece34bb9b64b6b9f48d307
+2025-08-27 21:58:55,756 - INFO - 等待 7.55 秒...
+2025-08-27 21:59:03,310 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu33 (尝试 1/3)
+2025-08-27 21:59:03,395 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/xb_vpxCBumuHQpO6ae9HgDQyFfzyEemba0dHe5xhdVI=_video_compressed.mp4?sign=1756905260-15025-0-dd829ca18fc1f0e0abaac70302491277
+2025-08-27 21:59:03,396 - INFO - 已记录: shizu33 -> http://mtvod.meituan.net/save-video/xb_vpxCBumuHQpO6ae9HgDQyFfzyEemba0dHe5xhdVI=_video_compressed.mp4?sign=1756905260-15025-0-dd829ca18fc1f0e0abaac70302491277
+2025-08-27 21:59:03,396 - INFO - 等待 10.82 秒...
+2025-08-27 21:59:14,214 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu34 (尝试 1/3)
+2025-08-27 21:59:14,303 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/mXa52onoCCMRLL_97Wj76JGWl4i7KtfK_o-C50sogLk=_video.mp4?sign=1756905260-15025-0-09bbd46e83865c8e47e31be17b5944c0
+2025-08-27 21:59:14,304 - INFO - 已记录: shizu34 -> http://mtvod.meituan.net/save-video/mXa52onoCCMRLL_97Wj76JGWl4i7KtfK_o-C50sogLk=_video.mp4?sign=1756905260-15025-0-09bbd46e83865c8e47e31be17b5944c0
+2025-08-27 21:59:14,304 - INFO - 等待 10.04 秒...
+2025-08-27 21:59:24,343 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu35 (尝试 1/3)
+2025-08-27 21:59:24,426 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/fNJV6EbtG-7_sC3oSDUtGQqr_jVnso1_Fc-SKMDBL2U=_video.mp4?sign=1756905458-90112-0-89d098b1b955e347525e394c8ed9e45b
+2025-08-27 21:59:24,512 - ERROR - 获取页面标题时出错: 404 Client Error: Not Found for url: http://mtvod.meituan.net/save-video/fNJV6EbtG-7_sC3oSDUtGQqr_jVnso1_Fc-SKMDBL2U=_video.mp4?sign=1756905458-90112-0-89d098b1b955e347525e394c8ed9e45b
+2025-08-27 21:59:24,513 - INFO - 已记录: shizu35 -> http://mtvod.meituan.net/save-video/fNJV6EbtG-7_sC3oSDUtGQqr_jVnso1_Fc-SKMDBL2U=_video.mp4?sign=1756905458-90112-0-89d098b1b955e347525e394c8ed9e45b
+2025-08-27 21:59:24,514 - INFO - 进度已保存: 当前处理到 shizu35
+2025-08-27 21:59:24,514 - INFO - 等待 8.77 秒...
+2025-08-27 21:59:33,285 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu36 (尝试 1/3)
+2025-08-27 21:59:33,375 - INFO - 重定向URL: https://ocn6im4pu01o.feishu.cn/file/CIRmbIMkIorHKGx3xFdcGdj4nZR?from=from_copylink
+2025-08-27 21:59:33,376 - INFO - 已记录: shizu36 -> https://ocn6im4pu01o.feishu.cn/file/CIRmbIMkIorHKGx3xFdcGdj4nZR?from=from_copylink
+2025-08-27 21:59:33,376 - INFO - 等待 11.36 秒...
+2025-08-27 21:59:44,736 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu37 (尝试 1/3)
+2025-08-27 21:59:44,823 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 21:59:44,824 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 21:59:44,824 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 21:59:44,825 - INFO - 进度已保存: 当前处理到 shizu36
+2025-08-27 21:59:44,826 - WARNING - 触发反爬机制，等待 21.84 秒后重试...
+2025-08-27 22:00:06,670 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu37 (尝试 2/3)
+2025-08-27 22:00:06,762 - INFO - 重定向URL: https://ocn6im4pu01o.feishu.cn/file/GlrwbF2ZgoMLwIxgBfFcIlAFnKe?from=from_copylink
+2025-08-27 22:00:06,763 - INFO - 已记录: shizu37 -> https://ocn6im4pu01o.feishu.cn/file/GlrwbF2ZgoMLwIxgBfFcIlAFnKe?from=from_copylink
+2025-08-27 22:00:06,763 - INFO - 等待 7.80 秒...
+2025-08-27 22:00:14,566 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu38 (尝试 1/3)
+2025-08-27 22:00:14,658 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/UVniTkP0m-RmfQ4xXSdqs1K4R9O8sbnwpuMKj4SPjUg=_video.mp4?sign=1756627366-46012-0-006e4bb80e7b2e8df3bcaaa9f10c4c2d
+2025-08-27 22:00:14,659 - INFO - 已记录: shizu38 -> http://mtvod.meituan.net/save-video/UVniTkP0m-RmfQ4xXSdqs1K4R9O8sbnwpuMKj4SPjUg=_video.mp4?sign=1756627366-46012-0-006e4bb80e7b2e8df3bcaaa9f10c4c2d
+2025-08-27 22:00:14,659 - INFO - 等待 9.80 秒...
+2025-08-27 22:00:24,464 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu39 (尝试 1/3)
+2025-08-27 22:00:24,557 - INFO - 重定向URL: https://ocn6im4pu01o.feishu.cn/file/AcI9ba2tuoA2utxpR1yc6GprnRh?from=from_copylink
+2025-08-27 22:00:24,559 - INFO - 已记录: shizu39 -> https://ocn6im4pu01o.feishu.cn/file/AcI9ba2tuoA2utxpR1yc6GprnRh?from=from_copylink
+2025-08-27 22:00:24,559 - INFO - 等待 6.92 秒...
+2025-08-27 22:00:31,478 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu40 (尝试 1/3)
+2025-08-27 22:00:31,556 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 22:00:31,557 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 22:00:31,557 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 22:00:31,558 - INFO - 进度已保存: 当前处理到 shizu39
+2025-08-27 22:00:31,558 - WARNING - 触发反爬机制，等待 25.14 秒后重试...
+2025-08-27 22:00:56,700 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu40 (尝试 2/3)
+2025-08-27 22:00:56,787 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/Q5U3afTOkfRfSYtVPu6KqfSuKBmwvKimdTL5yH5aE8c=_video.mp4?sign=1756627493-64473-0-f781653515b3f496e83bd1c93e29383b
+2025-08-27 22:00:56,882 - ERROR - 获取页面标题时出错: 404 Client Error: Not Found for url: http://mtvod.meituan.net/save-video/Q5U3afTOkfRfSYtVPu6KqfSuKBmwvKimdTL5yH5aE8c=_video.mp4?sign=1756627493-64473-0-f781653515b3f496e83bd1c93e29383b
+2025-08-27 22:00:56,884 - INFO - 已记录: shizu40 -> http://mtvod.meituan.net/save-video/Q5U3afTOkfRfSYtVPu6KqfSuKBmwvKimdTL5yH5aE8c=_video.mp4?sign=1756627493-64473-0-f781653515b3f496e83bd1c93e29383b
+2025-08-27 22:00:56,884 - INFO - 进度已保存: 当前处理到 shizu40
+2025-08-27 22:00:56,885 - INFO - 等待 7.30 秒...
+2025-08-27 22:01:01,172 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu41 (尝试 1/3)
+2025-08-27 22:01:01,254 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/OFbcJnke38jJlluAu-UqRAtDRAVQ7RfeqZmwG7QYJEg=_video.mp4?sign=1756641654-18518-0-27d10b50caa10b10e688c16aba9dbce2
+2025-08-27 22:01:01,255 - INFO - 已记录: shizu41 -> http://mtvod.meituan.net/save-video/OFbcJnke38jJlluAu-UqRAtDRAVQ7RfeqZmwG7QYJEg=_video.mp4?sign=1756641654-18518-0-27d10b50caa10b10e688c16aba9dbce2
+2025-08-27 22:01:01,255 - INFO - 等待 13.02 秒...
+2025-08-27 22:01:14,277 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu42 (尝试 1/3)
+2025-08-27 22:01:14,427 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/ghhl_55ygh32rarj5IwthAD2AXoBh-I2MNQVZ3UZrRI=_video.mp4?sign=1756641729-7955-0-949484d15b5ea97406aca9577da57346
+2025-08-27 22:01:14,429 - INFO - 已记录: shizu42 -> http://mtvod.meituan.net/save-video/ghhl_55ygh32rarj5IwthAD2AXoBh-I2MNQVZ3UZrRI=_video.mp4?sign=1756641729-7955-0-949484d15b5ea97406aca9577da57346
+2025-08-27 22:01:14,429 - INFO - 等待 7.84 秒...
+2025-08-27 22:01:22,269 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu43 (尝试 1/3)
+2025-08-27 22:01:22,355 - INFO - 重定向URL: https://ocn6im4pu01o.feishu.cn/file/SFsxbGGRAoBiNpx7vHOcXDXtnFc?from=from_copylink
+2025-08-27 22:01:22,356 - INFO - 已记录: shizu43 -> https://ocn6im4pu01o.feishu.cn/file/SFsxbGGRAoBiNpx7vHOcXDXtnFc?from=from_copylink
+2025-08-27 22:01:22,357 - INFO - 等待 14.19 秒...
+2025-08-27 22:01:36,552 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu44 (尝试 1/3)
+2025-08-27 22:01:36,630 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 22:01:36,630 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 22:01:36,631 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 22:01:36,632 - INFO - 进度已保存: 当前处理到 shizu43
+2025-08-27 22:01:36,632 - WARNING - 触发反爬机制，等待 22.03 秒后重试...
+2025-08-27 22:01:58,659 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu44 (尝试 2/3)
+2025-08-27 22:01:58,774 - INFO - 重定向URL: http://mtvod-bd.meituan.net/save-video/icikNkUlvl0wHQ6M7kojS4GEwXyYdF7xZkfFN75xVE8=_video_compressed.mp4?sign=1756642125-12339-0-bc5c7b4377be2d3e3a858ab9039a180f
+2025-08-27 22:01:58,775 - INFO - 已记录: shizu44 -> http://mtvod-bd.meituan.net/save-video/icikNkUlvl0wHQ6M7kojS4GEwXyYdF7xZkfFN75xVE8=_video_compressed.mp4?sign=1756642125-12339-0-bc5c7b4377be2d3e3a858ab9039a180f
+2025-08-27 22:01:58,775 - INFO - 等待 11.74 秒...
+2025-08-27 22:02:10,512 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu45 (尝试 1/3)
+2025-08-27 22:02:10,613 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 22:02:10,613 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 22:02:10,614 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 22:02:10,615 - INFO - 进度已保存: 当前处理到 shizu44
+2025-08-27 22:02:10,615 - WARNING - 触发反爬机制，等待 15.38 秒后重试...
+2025-08-27 22:02:26,000 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu45 (尝试 2/3)
+2025-08-27 22:02:26,128 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/EN2CAbe0n2fhIjkwH8_EKyvEKVgAnWeL6Kn9rhkNuSg=_video.mp4?sign=1756642176-30240-0-488af586aecc284bbe4bf5bc35a81b74
+2025-08-27 22:02:26,311 - ERROR - 获取页面标题时出错: 404 Client Error: Not Found for url: http://mtvod.meituan.net/save-video/EN2CAbe0n2fhIjkwH8_EKyvEKVgAnWeL6Kn9rhkNuSg=_video.mp4?sign=1756642176-30240-0-488af586aecc284bbe4bf5bc35a81b74
+2025-08-27 22:02:26,312 - INFO - 已记录: shizu45 -> http://mtvod.meituan.net/save-video/EN2CAbe0n2fhIjkwH8_EKyvEKVgAnWeL6Kn9rhkNuSg=_video.mp4?sign=1756642176-30240-0-488af586aecc284bbe4bf5bc35a81b74
+2025-08-27 22:02:26,313 - INFO - 进度已保存: 当前处理到 shizu45
+2025-08-27 22:02:26,313 - INFO - 等待 13.58 秒...
+2025-08-27 22:02:39,896 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu46 (尝试 1/3)
+2025-08-27 22:02:39,978 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/iXb9MyUVo5HHgoiHMv5mDE-gFPd4Wg-Pi0aKmST-qBw=_video_compressed.mp4?sign=1756689748-97402-0-6a04f20e7b0b56dbb3e29a65126586ef
+2025-08-27 22:02:39,979 - INFO - 已记录: shizu46 -> http://mtvod.meituan.net/save-video/iXb9MyUVo5HHgoiHMv5mDE-gFPd4Wg-Pi0aKmST-qBw=_video_compressed.mp4?sign=1756689748-97402-0-6a04f20e7b0b56dbb3e29a65126586ef
+2025-08-27 22:02:39,980 - INFO - 等待 13.50 秒...
+2025-08-27 22:02:53,476 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu47 (尝试 1/3)
+2025-08-27 22:02:53,563 - INFO - 重定向URL: https://v.qq.com/txp/iframe/player.html?bullet=false&vid=o3093bo2s1n
+2025-08-27 22:02:53,563 - WARNING - 检测到反爬机制！跳转到了腾讯视频播放页面
+2025-08-27 22:02:53,564 - WARNING - 检测到反爬机制，连续失败: 1
+2025-08-27 22:02:53,565 - INFO - 进度已保存: 当前处理到 shizu46
+2025-08-27 22:02:53,565 - WARNING - 触发反爬机制，等待 23.63 秒后重试...
+2025-08-27 22:03:17,195 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu47 (尝试 2/3)
+2025-08-27 22:03:17,282 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/86042yuXGpk04dC-iU8fAy3J9SKrlEvsN-BgCwYX6Mo=_video.mp4?sign=1756689798-43385-0-172e2d19970ea0af30893ea3901ff289
+2025-08-27 22:03:17,283 - INFO - 已记录: shizu47 -> http://mtvod.meituan.net/save-video/86042yuXGpk04dC-iU8fAy3J9SKrlEvsN-BgCwYX6Mo=_video.mp4?sign=1756689798-43385-0-172e2d19970ea0af30893ea3901ff289
+2025-08-27 22:03:17,283 - INFO - 等待 9.82 秒...
+2025-08-27 22:03:27,106 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu48 (尝试 1/3)
+2025-08-27 22:03:27,201 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/6xiBOhDTb3X87ACtwmPXcYm7hQczNp6XzNN4UmWgWzI=_video.mp4?sign=1756689856-67209-0-3e8565faa74684f1d7e4e4a7fd1d121e
+2025-08-27 22:03:27,202 - INFO - 已记录: shizu48 -> http://mtvod.meituan.net/save-video/6xiBOhDTb3X87ACtwmPXcYm7hQczNp6XzNN4UmWgWzI=_video.mp4?sign=1756689856-67209-0-3e8565faa74684f1d7e4e4a7fd1d121e
+2025-08-27 22:03:27,203 - INFO - 等待 6.20 秒...
+2025-08-27 22:03:33,405 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu49 (尝试 1/3)
+2025-08-27 22:03:33,486 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/z6yjp6ENRLHu8hUbNAVxmbiFRhym72Z462Nx7be55Do=_video.mp4?sign=1756689907-66095-0-9988ae372ae0d324aba3622358dc9264
+2025-08-27 22:03:33,487 - INFO - 已记录: shizu49 -> http://mtvod.meituan.net/save-video/z6yjp6ENRLHu8hUbNAVxmbiFRhym72Z462Nx7be55Do=_video.mp4?sign=1756689907-66095-0-9988ae372ae0d324aba3622358dc9264
+2025-08-27 22:03:33,487 - INFO - 等待 8.95 秒...
+2025-08-27 22:03:42,443 - INFO - 处理 http://tians.06kd.mlkj888.cn/s/shizu50 (尝试 1/3)
+2025-08-27 22:03:42,529 - INFO - 重定向URL: http://mtvod.meituan.net/save-video/I2gd9jlKE23vYNRK0R9hA6M24-EQ1xIkG2TwIPbqDuQ=_video.mp4?sign=1756689964-80802-0-b939dbfea57a92d1c33621b5e74260bb
+2025-08-27 22:03:42,637 - ERROR - 获取页面标题时出错: 404 Client Error: Not Found for url: http://mtvod.meituan.net/save-video/I2gd9jlKE23vYNRK0R9hA6M24-EQ1xIkG2TwIPbqDuQ=_video.mp4?sign=1756689964-80802-0-b939dbfea57a92d1c33621b5e74260bb
+2025-08-27 22:03:42,638 - INFO - 已记录: shizu50 -> http://mtvod.meituan.net/save-video/I2gd9jlKE23vYNRK0R9hA6M24-EQ1xIkG2TwIPbqDuQ=_video.mp4?sign=1756689964-80802-0-b939dbfea57a92d1c33621b5e74260bb
+2025-08-27 22:03:42,639 - INFO - 进度已保存: 当前处理到 shizu50
+2025-08-27 22:03:42,639 - INFO - 等待 5.19 秒...
+2025-08-27 22:03:47,825 - INFO - 网站追踪完成!
+2025-08-27 22:03:47,828 - INFO - 检测到 10 个网站有更新，详情见 website_update_notice.txt
