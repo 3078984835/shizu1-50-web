@@ -1,23 +1,58 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+网站追踪器 - 重构版本
+功能：跟踪网站跳转URL变化，生成统一格式的输出文件
+作者：AI Assistant
+日期：2025-08-28
+"""
+
 import requests
 import time
 import random
-from datetime import datetime, timedelta
-from urllib.parse import urlparse
 import os
 import json
 import sys
-from bs4 import BeautifulSoup
 import logging
+from datetime import datetime
+from urllib.parse import urlparse
+from typing import Dict, List, Tuple, Optional
+from dataclasses import dataclass
+from bs4 import BeautifulSoup
 
-# 加载配置
-try:
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    config_path = os.path.join(script_dir, "config.json")
-    with open(config_path, "r", encoding="utf-8") as config_file:
-        config = json.load(config_file)
-except Exception as e:
-    print(f"无法加载配置文件: {e}")
-    config = {
+
+@dataclass
+class TrackerConfig:
+    """追踪器配置类"""
+    base_url: str
+    min_index: int
+    max_index: int
+    min_delay: int
+    max_delay: int
+    results_file: str
+    log_file: str
+    title_sample_rate: int
+    max_retries: int
+    retry_delay: int
+    anti_crawl_wait_min: int
+    anti_crawl_wait_max: int
+
+
+@dataclass
+class ProcessResult:
+    """处理结果类"""
+    timestamp: str
+    shizu_id: str
+    original_url: str
+    redirect_url: str
+    status: str
+    message: Optional[str] = None
+
+
+class ConfigManager:
+    """配置管理器"""
+    
+    DEFAULT_CONFIG = {
         "base_url": "http://tians.06kd.mlkj888.cn/s/shizu",
         "min_index": 1,
         "max_index": 50,
@@ -31,317 +66,455 @@ except Exception as e:
         "anti_crawl_wait_min": 120,
         "anti_crawl_wait_max": 300
     }
+    
+    @staticmethod
+    def load_config(config_path: str = "config.json") -> TrackerConfig:
+        """加载配置文件"""
+        try:
+            script_dir = os.path.dirname(os.path.abspath(__file__))
+            full_path = os.path.join(script_dir, config_path)
+            
+            with open(full_path, "r", encoding="utf-8") as f:
+                config_data = json.load(f)
+            
+            # 限制某些参数的最大值以确保安全
+            config_data["max_retries"] = min(config_data.get("max_retries", 3), 3)
+            config_data["retry_delay"] = min(config_data.get("retry_delay", 20), 30)
+            config_data["anti_crawl_wait_min"] = min(config_data.get("anti_crawl_wait_min", 15), 15)
+            config_data["anti_crawl_wait_max"] = min(config_data.get("anti_crawl_wait_max", 30), 30)
+            
+            return TrackerConfig(**config_data)
+            
+        except Exception as e:
+            logging.warning(f"无法加载配置文件: {e}，使用默认配置")
+            return TrackerConfig(**ConfigManager.DEFAULT_CONFIG)
 
-# 配置日志
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(config["log_file"], encoding='utf-8'),
-        logging.StreamHandler()
-    ]
-)
 
-# 从配置中获取参数
-BASE_URL = config["base_url"]
-RESULTS_FILE = config["results_file"]
-MIN_DELAY = config["min_delay"]
-MAX_DELAY = config["max_delay"]
-MIN_INDEX = config["min_index"]
-MAX_INDEX = config["max_index"]
-TITLE_SAMPLE_RATE = config["title_sample_rate"]
-MAX_RETRIES = min(config.get("max_retries", 3), 3)  # 确保最大重试次数不超过3次
-RETRY_DELAY = min(config.get("retry_delay", 20), 30)  # 确保重试延迟不超过30秒
-ANTI_CRAWL_WAIT_MIN = min(config.get("anti_crawl_wait_min", 15), 15)
-ANTI_CRAWL_WAIT_MAX = min(config.get("anti_crawl_wait_max", 30), 30)
-
-# 状态跟踪
-retry_counts = {}
-last_successful_run = datetime.now()
-consecutive_failures = 0
-
-def get_random_user_agent():
-    """返回一个随机的用户代理字符串"""
-    user_agents = [
+class NetworkUtils:
+    """网络工具类"""
+    
+    USER_AGENTS = [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15",
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55",
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
     ]
-    return random.choice(user_agents)
-
-def get_redirect_url(url):
-    """获取URL重定向后的最终URL"""
-    try:
-        headers = {
-            "User-Agent": get_random_user_agent(),
-            "Referer": "http://tians.06kd.mlkj888.cn/",
-        }
-        
-        # 禁用重定向自动跟踪
-        response = requests.get(url, headers=headers, allow_redirects=False, timeout=10)
-        
-        if 300 <= response.status_code < 400:
-            redirect_url = response.headers.get('Location')
-            logging.info(f"重定向URL: {redirect_url}")
+    
+    @staticmethod
+    def get_random_user_agent() -> str:
+        """获取随机用户代理"""
+        return random.choice(NetworkUtils.USER_AGENTS)
+    
+    @staticmethod
+    def get_redirect_url(url: str) -> Optional[str]:
+        """获取URL重定向后的最终URL"""
+        try:
+            headers = {
+                "User-Agent": NetworkUtils.get_random_user_agent(),
+                "Referer": "http://tians.06kd.mlkj888.cn/",
+            }
             
-            # 检查是否触发了反爬机制（腾讯视频播放页面）
-            if redirect_url and "v.qq.com/txp/iframe/player.html" in redirect_url:
-                logging.warning("检测到反爬机制！跳转到了腾讯视频播放页面")
-                return "ANTI_CRAWL_DETECTED"
+            response = requests.get(url, headers=headers, allow_redirects=False, timeout=10)
             
-            # 判断是否是相对URL
-            if redirect_url and not redirect_url.startswith('http'):
-                parsed_url = urlparse(url)
-                base_url = f"{parsed_url.scheme}://{parsed_url.netloc}"
-                redirect_url = base_url + redirect_url
+            # 处理HTTP重定向
+            if 300 <= response.status_code < 400:
+                redirect_url = response.headers.get('Location')
+                logging.info(f"重定向URL: {redirect_url}")
+                
+                # 检查反爬机制
+                if redirect_url and "v.qq.com/txp/iframe/player.html" in redirect_url:
+                    logging.warning("检测到反爬机制！")
+                    return "ANTI_CRAWL_DETECTED"
+                
+                # 处理相对URL
+                if redirect_url and not redirect_url.startswith('http'):
+                    parsed_url = urlparse(url)
+                    base_url = f"{parsed_url.scheme}://{parsed_url.netloc}"
+                    redirect_url = base_url + redirect_url
+                
+                return redirect_url
             
-            return redirect_url
-        else:
-            # 检查页面中的meta刷新重定向
-            soup = BeautifulSoup(response.text, 'html.parser')
+            # 处理Meta刷新重定向
+            redirect_url = NetworkUtils._parse_meta_refresh(response.text)
+            if redirect_url:
+                logging.info(f"Meta刷新重定向: {redirect_url}")
+                if not redirect_url.startswith('http'):
+                    parsed_url = urlparse(url)
+                    base_url = f"{parsed_url.scheme}://{parsed_url.netloc}"
+                    redirect_url = base_url + redirect_url
+                return redirect_url
+            
+            logging.info(f"没有找到重定向，状态码: {response.status_code}")
+            return url
+            
+        except Exception as e:
+            logging.error(f"获取重定向URL时出错: {e}")
+            return None
+    
+    @staticmethod
+    def _parse_meta_refresh(html_content: str) -> Optional[str]:
+        """解析Meta刷新重定向"""
+        try:
+            soup = BeautifulSoup(html_content, 'html.parser')
             meta_refresh = soup.find('meta', attrs={'http-equiv': lambda x: x and x.lower() == 'refresh'})
             
             if meta_refresh and 'content' in meta_refresh.attrs:
                 content = meta_refresh['content']
                 if 'url=' in content.lower():
-                    redirect_url = content.split('url=', 1)[1].strip()
-                    logging.info(f"Meta刷新重定向: {redirect_url}")
-                    
-                    # 判断是否是相对URL
-                    if not redirect_url.startswith('http'):
-                        parsed_url = urlparse(url)
-                        base_url = f"{parsed_url.scheme}://{parsed_url.netloc}"
-                        redirect_url = base_url + redirect_url
-                    
-                    return redirect_url
-            
-            logging.info(f"没有找到重定向，状态码: {response.status_code}")
-            return url
-    except Exception as e:
-        logging.error(f"获取重定向URL时出错: {e}")
+                    return content.split('url=', 1)[1].strip()
+        except Exception:
+            pass
         return None
+    
+    @staticmethod
+    def get_page_title(url: str) -> str:
+        """获取页面标题"""
+        try:
+            headers = {"User-Agent": NetworkUtils.get_random_user_agent()}
+            response = requests.get(url, headers=headers, timeout=10)
+            response.raise_for_status()
+            
+            soup = BeautifulSoup(response.text, 'html.parser')
+            title = soup.title.string if soup.title else "无标题"
+            return title.strip()
+        except Exception as e:
+            logging.error(f"获取页面标题时出错: {e}")
+            return "获取标题失败"
 
-def get_page_title(url):
-    """尝试获取页面标题"""
-    try:
-        headers = {"User-Agent": get_random_user_agent()}
-        response = requests.get(url, headers=headers, timeout=10)
-        response.raise_for_status()
+
+class FileManager:
+    """文件管理器"""
+    
+    @staticmethod
+    def ensure_file_exists(filepath: str, header: str):
+        """确保文件存在，如果不存在则创建"""
+        if not os.path.exists(filepath):
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(f"{header}\n\n")
+    
+    @staticmethod
+    def write_result(filepath: str, result: ProcessResult):
+        """写入处理结果到文件"""
+        with open(filepath, 'a', encoding='utf-8') as f:
+            f.write(f"时间戳: {result.timestamp}\n")
+            f.write(f"直连网站: {result.original_url}\n")
+            f.write(f"跳转网站: {result.redirect_url}\n")
+            f.write(f"shizu编号: {result.shizu_id}\n")
+            if result.message:
+                f.write(f"备注: {result.message}\n")
+            f.write("---\n")
+    
+    @staticmethod
+    def load_progress(progress_file: str = "tracker_progress.json") -> Optional[Dict]:
+        """加载处理进度"""
+        try:
+            if os.path.exists(progress_file):
+                with open(progress_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                logging.info(f"已加载进度: 上次处理到 {data.get('last_index', 'unknown')}")
+                return data
+        except Exception as e:
+            logging.error(f"加载进度时出错: {e}")
+        return None
+    
+    @staticmethod
+    def save_progress(progress_file: str, current_index: int, consecutive_failures: int):
+        """保存处理进度"""
+        data = {
+            "last_index": current_index,
+            "timestamp": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+            "consecutive_failures": consecutive_failures
+        }
+        try:
+            with open(progress_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            logging.info(f"进度已保存: 当前处理到 shizu{current_index}")
+        except Exception as e:
+            logging.error(f"保存进度时出错: {e}")
+
+
+class ResultAnalyzer:
+    """结果分析器"""
+    
+    @staticmethod
+    def load_results_from_file(filepath: str) -> Dict[str, str]:
+        """从结果文件中加载最新结果"""
+        result_map = {}
+        if not os.path.exists(filepath):
+            return result_map
         
-        soup = BeautifulSoup(response.text, 'html.parser')
-        title = soup.title.string if soup.title else "无标题"
-        return title.strip()
-    except Exception as e:
-        logging.error(f"获取页面标题时出错: {e}")
-        return "获取标题失败"
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            records = content.split('---')
+            for record in records:
+                record = record.strip()
+                if not record or '时间戳:' not in record:
+                    continue
+                
+                shizu_id, redirect_url = None, None
+                for line in record.split('\n'):
+                    line = line.strip()
+                    if line.startswith('shizu编号:'):
+                        shizu_id = line.split(':', 1)[1].strip()
+                    elif line.startswith('跳转网站:'):
+                        redirect_url = line.split(':', 1)[1].strip()
+                
+                # 只记录成功跳转的结果
+                if (shizu_id and redirect_url and 
+                    redirect_url not in ['触发反爬机制', '获取失败', '处理出错', '超过最大重试次数']):
+                    result_map[shizu_id] = redirect_url
+                    
+        except Exception as e:
+            logging.error(f"读取结果文件时出错: {e}")
+            
+        return result_map
+    
+    @staticmethod
+    def compare_results(old_results: Dict[str, str], new_results: Dict[str, str]) -> List[Tuple[str, str, str]]:
+        """比较新旧结果，找出变化的网站"""
+        updated_sites = []
+        for shizu_id, new_url in new_results.items():
+            old_url = old_results.get(shizu_id)
+            if old_url and old_url != new_url:
+                updated_sites.append((shizu_id, old_url, new_url))
+        return updated_sites
 
-def save_progress(current_index):
-    """保存当前进度到文件"""
-    progress_file = "tracker_progress.json"
-    data = {
-        "last_index": current_index,
-        "timestamp": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-        "consecutive_failures": consecutive_failures
-    }
-    try:
-        with open(progress_file, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        logging.info(f"进度已保存: 当前处理到 shizu{current_index}")
-    except Exception as e:
-        logging.error(f"保存进度时出错: {e}")
 
-def load_progress():
-    """从文件加载进度"""
-    progress_file = "tracker_progress.json"
-    try:
-        if os.path.exists(progress_file):
-            with open(progress_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            logging.info(f"已加载进度: 上次处理到 shizu{data['last_index']}")
-            return data
-    except Exception as e:
-        logging.error(f"加载进度时出错: {e}")
-    return None
+class WebsiteTracker:
+    """网站追踪器主类"""
+    
+    def __init__(self, config: TrackerConfig):
+        self.config = config
+        self.retry_counts = {}
+        self.consecutive_failures = 0
+        self._setup_logging()
+        
+        # 确保必要文件存在
+        FileManager.ensure_file_exists(self.config.results_file, "=== 网站跳转结果记录 ===")
+        
+    def _setup_logging(self):
+        """设置日志"""
+        logging.basicConfig(
+            level=logging.INFO,
+            format='%(asctime)s - %(levelname)s - %(message)s',
+            handlers=[
+                logging.FileHandler(self.config.log_file, encoding='utf-8'),
+                logging.StreamHandler()
+            ]
+        )
+    
+    def _create_result(self, shizu_id: str, original_url: str, redirect_url: str, status: str, message: str = None) -> ProcessResult:
+        """创建处理结果对象"""
+        return ProcessResult(
+            timestamp=datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+            shizu_id=shizu_id,
+            original_url=original_url,
+            redirect_url=redirect_url,
+            status=status,
+            message=message
+        )
+    
+    def _wait_with_backoff(self, base_delay: float, multiplier: float = 1.0):
+        """带退避算法的等待"""
+        delay = min(base_delay * multiplier, 30.0)  # 最大等待30秒
+        logging.info(f"等待 {delay:.2f} 秒...")
+        time.sleep(delay)
+    
+    def process_single_url(self, index: int) -> bool:
+        """处理单个URL，返回是否成功"""
+        url = f"{self.config.base_url}{index}"
+        shizu_id = f"shizu{index}"
+        current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        
+        # 检查重试次数
+        retry_count = self.retry_counts.get(index, 0)
+        if retry_count >= self.config.max_retries:
+            logging.warning(f"已达到最大重试次数 ({self.config.max_retries}) 对于 {shizu_id}，跳过...")
+            result = self._create_result(shizu_id, url, "超过最大重试次数", "skipped")
+            FileManager.write_result(self.config.results_file, result)
+            return True  # 跳过算作处理完成
+        
+        try:
+            logging.info(f"处理 {url} (尝试 {retry_count + 1}/{self.config.max_retries})")
+            redirect_url = NetworkUtils.get_redirect_url(url)
+            
+            if redirect_url == "ANTI_CRAWL_DETECTED":
+                return self._handle_anti_crawl(index, url, shizu_id)
+            elif redirect_url:
+                return self._handle_success(index, url, shizu_id, redirect_url)
+            else:
+                return self._handle_failure(index, url, shizu_id, "获取失败")
+                
+        except Exception as e:
+            logging.error(f"处理URL时出错: {e}")
+            return self._handle_failure(index, url, shizu_id, "处理出错")
+    
+    def _handle_anti_crawl(self, index: int, url: str, shizu_id: str) -> bool:
+        """处理反爬机制"""
+        self.consecutive_failures += 1
+        self.retry_counts[index] = self.retry_counts.get(index, 0) + 1
+        
+        logging.warning(f"检测到反爬机制，连续失败: {self.consecutive_failures}")
+        
+        result = self._create_result(shizu_id, url, "触发反爬机制", "retry_needed")
+        FileManager.write_result(self.config.results_file, result)
+        
+        # 使用退避算法等待
+        wait_factor = min(self.consecutive_failures, 1.5)
+        base_delay = random.uniform(self.config.anti_crawl_wait_min, self.config.anti_crawl_wait_max)
+        self._wait_with_backoff(base_delay, wait_factor)
+        
+        return False  # 需要重试
+    
+    def _handle_success(self, index: int, url: str, shizu_id: str, redirect_url: str) -> bool:
+        """处理成功情况"""
+        self.consecutive_failures = 0
+        self.retry_counts[index] = 0
+        
+        result = self._create_result(shizu_id, url, redirect_url, "success")
+        FileManager.write_result(self.config.results_file, result)
+        
+        logging.info(f"已记录: {shizu_id} -> {redirect_url}")
+        return True
+    
+    def _handle_failure(self, index: int, url: str, shizu_id: str, error_type: str) -> bool:
+        """处理失败情况"""
+        self.retry_counts[index] = self.retry_counts.get(index, 0) + 1
+        logging.warning(f"无法获取重定向URL: {url} - {error_type}")
+        
+        result = self._create_result(shizu_id, url, error_type, "failed")
+        FileManager.write_result(self.config.results_file, result)
+        
+        if self.retry_counts[index] >= self.config.max_retries:
+            return True  # 达到最大重试次数，算作完成
+        
+        return False  # 需要重试
+    
+    def run(self):
+        """运行追踪器"""
+        logging.info("开始运行网站追踪器...")
+        
+        # 加载进度
+        progress = FileManager.load_progress()
+        start_index = (progress['last_index'] + 1 
+                      if progress and progress['last_index'] < self.config.max_index 
+                      else self.config.min_index)
+        self.consecutive_failures = progress['consecutive_failures'] if progress else 0
+        
+        print(f"开始处理：从 shizu{start_index} 到 shizu{self.config.max_index}")
+        
+        try:
+            current_index = start_index
+            while current_index <= self.config.max_index:
+                success = self.process_single_url(current_index)
+                
+                if success:
+                    # 处理成功，移动到下一个
+                    if current_index % 5 == 0:
+                        FileManager.save_progress("tracker_progress.json", current_index, self.consecutive_failures)
+                    
+                    # 随机延迟
+                    delay = random.uniform(self.config.min_delay, self.config.max_delay)
+                    self._wait_with_backoff(delay)
+                    
+                    current_index += 1
+                # 如果失败，会在下次循环中重试同一个URL
+                
+        except KeyboardInterrupt:
+            logging.info("检测到用户中断，保存进度后退出...")
+            FileManager.save_progress("tracker_progress.json", current_index - 1, self.consecutive_failures)
+            print(f"\n程序已暂停。下次运行时将从 shizu{current_index} 继续。")
+            sys.exit(0)
+        
+        logging.info("网站追踪完成!")
+
+
+class UpdateNotifier:
+    """更新通知器"""
+    
+    def __init__(self, config: TrackerConfig):
+        self.config = config
+        self.snapshot_file = 'website_results_snapshot.json'
+        self.update_notice_file = 'website_update_notice.txt'
+        
+        # 确保更新通知文件存在
+        FileManager.ensure_file_exists(self.update_notice_file, "=== 网站更新差异记录 ===")
+    
+    def check_and_notify_updates(self):
+        """检查并通知更新"""
+        # 读取上次快照
+        old_results = self._load_snapshot()
+        
+        # 读取本次最新结果
+        new_results = ResultAnalyzer.load_results_from_file(self.config.results_file)
+        
+        # 比较结果
+        updated_sites = ResultAnalyzer.compare_results(old_results, new_results)
+        
+        if updated_sites:
+            self._write_update_notice(updated_sites)
+            print(f"检测到 {len(updated_sites)} 个网站有更新，详情见 {self.update_notice_file}")
+            logging.info(f"检测到 {len(updated_sites)} 个网站有更新，详情见 {self.update_notice_file}")
+        else:
+            print("本次未检测到网站跳转URL变化。")
+            logging.info("本次未检测到网站跳转URL变化。")
+        
+        # 更新快照
+        self._save_snapshot(new_results)
+    
+    def _load_snapshot(self) -> Dict[str, str]:
+        """加载快照"""
+        if os.path.exists(self.snapshot_file):
+            try:
+                with open(self.snapshot_file, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except Exception as e:
+                logging.error(f"读取快照文件时出错: {e}")
+        return {}
+    
+    def _save_snapshot(self, results: Dict[str, str]):
+        """保存快照"""
+        try:
+            with open(self.snapshot_file, 'w', encoding='utf-8') as f:
+                json.dump(results, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            logging.error(f"保存快照文件时出错: {e}")
+    
+    def _write_update_notice(self, updated_sites: List[Tuple[str, str, str]]):
+        """写入更新通知"""
+        timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        
+        with open(self.update_notice_file, 'a', encoding='utf-8') as f:
+            f.write(f"\n==== {timestamp} 检测到更新 ====\n\n")
+            
+            for shizu_id, old_url, new_url in updated_sites:
+                shizu_num = shizu_id.replace('shizu', '')
+                original_url = f"{self.config.base_url}{shizu_num}"
+                
+                f.write(f"时间戳: {timestamp}\n")
+                f.write(f"直连网站: {original_url}\n")
+                f.write(f"跳转网站: {new_url}\n")
+                f.write(f"shizu编号: {shizu_id}\n")
+                f.write(f"变化说明: 从 {old_url} 更新到 {new_url}\n")
+                f.write("---\n")
+
 
 def main():
-    global consecutive_failures
+    """主函数"""
+    # 加载配置
+    config = ConfigManager.load_config()
     
-    # 确保结果文件存在，如果不存在则创建
-    if not os.path.exists(RESULTS_FILE):
-        with open(RESULTS_FILE, 'w', encoding='utf-8') as f:
-            f.write("时间戳,链接编号,原始URL,跳转URL,页面标题,状态\n")
+    # 创建并运行追踪器
+    tracker = WebsiteTracker(config)
+    tracker.run()
     
-    # 尝试加载之前的进度
-    progress = load_progress()
-    i = progress['last_index'] + 1 if progress and progress['last_index'] < MAX_INDEX else MIN_INDEX
-    consecutive_failures = progress['consecutive_failures'] if progress else 0
-    
-    print(f"开始处理：从 shizu{i} 到 shizu{MAX_INDEX}")
-    
-    try:
-        while i <= MAX_INDEX:
-            try:
-                url = f"{BASE_URL}{i}"
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                
-                # 检查是否已经尝试过这个URL太多次
-                retry_count = retry_counts.get(i, 0)
-                if retry_count >= MAX_RETRIES:
-                    logging.warning(f"已达到最大重试次数 ({MAX_RETRIES}) 对于 shizu{i}，跳过...")
-                    with open(RESULTS_FILE, 'a', encoding='utf-8') as f:
-                        f.write(f"{current_time},shizu{i},{url},超过最大重试次数,N/A,跳过\n")
-                    i += 1
-                    continue
-                
-                logging.info(f"处理 {url} (尝试 {retry_count + 1}/{MAX_RETRIES})")
-                redirect_url = get_redirect_url(url)
-                
-                # 检查是否触发了反爬机制
-                if redirect_url == "ANTI_CRAWL_DETECTED":
-                    consecutive_failures += 1
-                    retry_counts[i] = retry_count + 1
-                    
-                    logging.warning(f"检测到反爬机制，连续失败: {consecutive_failures}")
-                    
-                    # 记录触发反爬机制的情况
-                    with open(RESULTS_FILE, 'a', encoding='utf-8') as f:
-                        f.write(f"{current_time},shizu{i},{url},触发反爬机制,N/A,需要重试\n")
-                    
-                    # 保存当前进度
-                    save_progress(i - 1)
-                    
-                    # 根据连续失败次数适度增加等待时间，但不超过30秒
-                    wait_factor = min(consecutive_failures, 1.5)  # 最多等待1.5倍时间
-                    long_delay = min(random.uniform(ANTI_CRAWL_WAIT_MIN, ANTI_CRAWL_WAIT_MAX) * wait_factor, 30)
-                    
-                    logging.warning(f"触发反爬机制，等待 {long_delay:.2f} 秒后重试...")
-                    time.sleep(long_delay)
-                    
-                    # 不增加索引，重新尝试同一个URL
-                    continue
-                    
-                elif redirect_url:
-                    # 重置连续失败计数
-                    consecutive_failures = 0
-                    retry_counts[i] = 0
-                    
-                    # 尝试获取页面标题，但不要过度访问
-                    title = "跳过标题获取" if i % TITLE_SAMPLE_RATE != 0 else get_page_title(redirect_url)
-                    
-                    # 将结果写入文件
-                    with open(RESULTS_FILE, 'a', encoding='utf-8') as f:
-                        f.write(f"{current_time},shizu{i},{url},{redirect_url},{title},成功\n")
-                    
-                    logging.info(f"已记录: shizu{i} -> {redirect_url}")
-                else:
-                    retry_counts[i] = retry_count + 1
-                    logging.warning(f"无法获取重定向URL: {url}")
-                    
-                    with open(RESULTS_FILE, 'a', encoding='utf-8') as f:
-                        f.write(f"{current_time},shizu{i},{url},获取失败,N/A,失败\n")
-                
-                # 每处理5个链接保存一次进度
-                if i % 5 == 0:
-                    save_progress(i)
-                
-                # 随机延迟，避免触发防爬机制
-                delay = random.uniform(MIN_DELAY, MAX_DELAY)
-                logging.info(f"等待 {delay:.2f} 秒...")
-                time.sleep(delay)
-                
-                # 成功处理后递增索引
-                i += 1
-                
-            except Exception as e:
-                logging.error(f"处理URL时出错: {e}")
-                
-                # 即使出错也添加记录
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                with open(RESULTS_FILE, 'a', encoding='utf-8') as f:
-                    f.write(f"{current_time},shizu{i},{BASE_URL}{i},处理出错,N/A,出错\n")
-                
-                # 记录重试次数
-                retry_counts[i] = retry_counts.get(i, 0) + 1
-                
-                # 出错后稍微延迟长一点，但不超过30秒
-                delay = min(random.uniform(MAX_DELAY, MAX_DELAY * 1.5), 30)
-                logging.warning(f"处理出错，等待 {delay:.2f} 秒后继续...")
-                time.sleep(delay)
-                
-                # 如果已经达到最大重试次数，则移动到下一个URL
-                if retry_counts[i] >= MAX_RETRIES:
-                    logging.warning(f"已达到最大重试次数 ({MAX_RETRIES}) 对于 shizu{i}，跳过...")
-                    i += 1
-                
-    except KeyboardInterrupt:
-        # 捕获Ctrl+C，保存进度后退出
-        logging.info("检测到用户中断，保存进度后退出...")
-        save_progress(i - 1)
-        print(f"\n程序已暂停。下次运行时将从 shizu{i} 继续。")
-        sys.exit(0)
+    # 检查更新并通知
+    notifier = UpdateNotifier(config)
+    notifier.check_and_notify_updates()
+
 
 if __name__ == "__main__":
-
-    logging.info("开始运行网站追踪器...")
     main()
-    logging.info("网站追踪完成!")
-
-    # 统计结束后，自动对比上次和本次结果，生成更新提醒
-    def load_latest_results(results_file):
-        """读取结果文件，返回每个shizu编号的最新跳转URL字典"""
-        result_map = {}
-        if not os.path.exists(results_file):
-            return result_map
-        with open(results_file, 'r', encoding='utf-8') as f:
-            for line in f:
-                if line.strip() == '' or line.startswith('时间戳'):
-                    continue
-                parts = line.strip().split(',')
-                if len(parts) < 6:
-                    continue
-                shizu_id = parts[1]
-                redirect_url = parts[3]
-                status = parts[5]
-                # 只记录成功的
-                if status == '成功':
-                    result_map[shizu_id] = redirect_url
-        return result_map
-
-    # 保存上次结果快照
-    SNAPSHOT_FILE = 'website_results_snapshot.json'
-    UPDATE_NOTICE_FILE = 'website_update_notice.txt'
-
-    # 读取上次快照
-    if os.path.exists(SNAPSHOT_FILE):
-        with open(SNAPSHOT_FILE, 'r', encoding='utf-8') as f:
-            last_snapshot = json.load(f)
-    else:
-        last_snapshot = {}
-
-    # 读取本次最新结果
-    latest_results = load_latest_results(RESULTS_FILE)
-
-    # 对比，找出有变化的shizu编号
-    updated_sites = []
-    for shizu_id, new_url in latest_results.items():
-        old_url = last_snapshot.get(shizu_id)
-        if old_url and old_url != new_url:
-            updated_sites.append((shizu_id, old_url, new_url))
-
-    # 写入更新提醒日志
-    if updated_sites:
-        with open(UPDATE_NOTICE_FILE, 'a', encoding='utf-8') as f:
-            f.write(f"\n==== {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} 检测到更新 ====" + '\n')
-            for shizu_id, old_url, new_url in updated_sites:
-                f.write(f"{shizu_id} 跳转URL发生变化\n  上次: {old_url}\n  本次: {new_url}\n")
-        print(f"检测到 {len(updated_sites)} 个网站有更新，详情见 {UPDATE_NOTICE_FILE}")
-        logging.info(f"检测到 {len(updated_sites)} 个网站有更新，详情见 {UPDATE_NOTICE_FILE}")
-    else:
-        print("本次未检测到网站跳转URL变化。")
-        logging.info("本次未检测到网站跳转URL变化。")
-
-    # 更新快照文件
-    with open(SNAPSHOT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(latest_results, f, ensure_ascii=False, indent=2)

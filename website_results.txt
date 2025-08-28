@@ -1,294 +1,517 @@
-2025-08-22 20:43:34,shizu1,http://tians.06kd.mlkj888.cn/s/shizu1,触发反爬机制,N/A,需要重试
-2025-08-22 20:47:18,shizu1,http://tians.06kd.mlkj888.cn/s/shizu1,http://mtvod.meituan.net/save-video/A55HTxJD5qjuTcb4-wxIDEOR7izxbSfqo2d9mWB-G9I=_video.mp4?sign=1756708873-84464-0-2a98af202b7cb74db4519b42216456aa,跳过标题获取,成功
-2025-08-22 20:47:37,shizu2,http://tians.06kd.mlkj888.cn/s/shizu2,触发反爬机制,N/A,需要重试
-2025-08-22 20:48:02,shizu2,http://tians.06kd.mlkj888.cn/s/shizu2,http://mtvod.meituan.net/save-video/LmtcjLXMkplqNuEe5ELAQB9wZIQrSI_x7E-O2fNYUJc=_video_compressed.mp4?sign=1756708873-84464-0-732274b2d29118516a386dfe08591b90,跳过标题获取,成功
-2025-08-22 20:48:10,shizu3,http://tians.06kd.mlkj888.cn/s/shizu3,http://mtvod.meituan.net/save-video/_-rL5q-NpD7xmbdnh6oHbrwfXI4yaDdG-BUHLg9sqU0=_video_compressed.mp4?sign=1756708873-84464-0-bf5913a27ea7905a868c38ee7b32977c,跳过标题获取,成功
-2025-08-22 20:48:16,shizu4,http://tians.06kd.mlkj888.cn/s/shizu4,触发反爬机制,N/A,需要重试
-2025-08-22 20:48:31,shizu4,http://tians.06kd.mlkj888.cn/s/shizu4,http://mtvod.meituan.net/save-video/qWU4SyHplZ-92QqaoawRkj-lu87bMHrRguD1aa5vOhM=_video_compressed.mp4?sign=1756708873-84464-0-6a272715d1a28df4bca854d496db924d,跳过标题获取,成功
-2025-08-22 20:48:45,shizu5,http://tians.06kd.mlkj888.cn/s/shizu5,http://mtvod.meituan.net/save-video/MoSjyhLrichQXmvjKkhBfauiYvlWxDN_KRZRTiC11nQ=_video.mp4?sign=1756709014-57889-0-5baef65eb63f3e979f0d6fc93bad10d6,无标题,成功
-2025-08-22 20:49:33,shizu6,http://tians.06kd.mlkj888.cn/s/shizu6,http://mtvod.meituan.net/save-video/_WI5AeFZ9ZEjJvQyEyDSiF9pidhvmgr2HJ4hqvPzz1s=_video_compressed.mp4?sign=1756719726-78648-0-5987ba29f98881bf94d893269475162f,跳过标题获取,成功
-2025-08-22 20:49:43,shizu7,http://tians.06kd.mlkj888.cn/s/shizu7,触发反爬机制,N/A,需要重试
-2025-08-22 20:50:10,shizu7,http://tians.06kd.mlkj888.cn/s/shizu7,http://mtvod.meituan.net/save-video/e9mkIL_k8bys-wsa21TqGO2GnYjPCa5liykYnKiX4sQ=_video_compressed.mp4?sign=1756719726-78648-0-1bcae4aba153574f9731eddc850a4271,跳过标题获取,成功
-2025-08-22 20:50:17,shizu8,http://tians.06kd.mlkj888.cn/s/shizu8,触发反爬机制,N/A,需要重试
-2025-08-22 20:50:34,shizu8,http://tians.06kd.mlkj888.cn/s/shizu8,http://mtvod.meituan.net/save-video/Z6GVBJhwyg1Fa6iyvvSsrnQoYdlOjVArVoXIFmD1piE=_video.mp4?sign=1756719726-78648-0-36fc15d6e024e230c4523948d6ac02b9,跳过标题获取,成功
-2025-08-22 20:50:41,shizu9,http://tians.06kd.mlkj888.cn/s/shizu9,http://mtvod.meituan.net/save-video/M3xnIBfktF6WU0kWNVuYRzAzTqWPUZNfVD3HzA4rkFo=_video_compressed.mp4?sign=1756719726-78648-0-3335875c166fd873b906f906a83e44bc,跳过标题获取,成功
-2025-08-22 20:50:48,shizu10,http://tians.06kd.mlkj888.cn/s/shizu10,触发反爬机制,N/A,需要重试
-2025-08-22 20:51:11,shizu10,http://tians.06kd.mlkj888.cn/s/shizu10,http://mtvod.meituan.net/save-video/IwROoTTX6IZlE-ufKuj_vfce30qoft-BZuOLnmHTsN8=_video.mp4?sign=1756719726-78648-0-140429c7fe7b39a0ba7d58bf97b844f9,无标题,成功
-2025-08-22 20:51:26,shizu11,http://tians.06kd.mlkj888.cn/s/shizu11,http://mtvod.meituan.net/save-video/WNnF56yV-o3fvjgFMj8IndUtHZCETcLU2k72taNTFvg=_video.mp4?sign=1756453432-84823-0-90289dab7eee6c319a9580d5b0ec22c8,跳过标题获取,成功
-2025-08-22 20:51:34,shizu12,http://tians.06kd.mlkj888.cn/s/shizu12,https://docs.qingque.cn/file/eZQAvmS21pkRBhJVEXS_oBcNq,跳过标题获取,成功
-2025-08-22 20:51:48,shizu13,http://tians.06kd.mlkj888.cn/s/shizu13,https://docs.qingque.cn/file/eZQDxDwXnUZNaWiwNsJtZocGO,跳过标题获取,成功
-2025-08-22 20:52:00,shizu14,http://tians.06kd.mlkj888.cn/s/shizu14,https://docs.qingque.cn/file/eZQCm9T4K0WPiioUqqwq39I-w,跳过标题获取,成功
-2025-08-22 20:52:09,shizu15,http://tians.06kd.mlkj888.cn/s/shizu15,http://mtvod.meituan.net/save-video/cbzO2nAIXGfstINk8ozwflktaOIF2qLPBrYwSFGUwKA=_video.mp4?sign=1756453548-1243-0-4c3dea9845df743f1c89acc2c77dcaee,获取标题失败,成功
-2025-08-22 20:52:16,shizu16,http://tians.06kd.mlkj888.cn/s/shizu16,触发反爬机制,N/A,需要重试
-2025-08-22 20:52:44,shizu16,http://tians.06kd.mlkj888.cn/s/shizu16,http://mtvod.meituan.net/save-video/Y539H8RgVJiLtuuKkhqZGuvx4QbDsY8XmXQzE3OyX9s=_video_compressed.mp4?sign=1756517155-3062-0-6a38fc65ce2e4fa02ec3feeb474d925a,跳过标题获取,成功
-2025-08-22 20:52:53,shizu17,http://tians.06kd.mlkj888.cn/s/shizu17,触发反爬机制,N/A,需要重试
-2025-08-22 20:53:20,shizu17,http://tians.06kd.mlkj888.cn/s/shizu17,http://mtvod.meituan.net/save-video/fsOeALq6UVV1Wgd5qrfCdG0QPXVv4lCVM28bQqn1a0o=_video_compressed.mp4?sign=1756517155-3062-0-26cefbbb7011309bb5f9aaba11904141,跳过标题获取,成功
-2025-08-22 20:53:26,shizu18,http://tians.06kd.mlkj888.cn/s/shizu18,http://mtvod.meituan.net/save-video/vJBJgtZhuSdCH1eTy9d5QzzJFDCG3DRhIOsGNIT6M8s=_video_compressed.mp4?sign=1756517155-3062-0-efea9a4b4bdf0482618e9438a37309ec,跳过标题获取,成功
-2025-08-22 20:53:38,shizu19,http://tians.06kd.mlkj888.cn/s/shizu19,http://mtvod.meituan.net/save-video/Dnj1MP2h5bWAV5sj6YIPn-cUt18ku6mc3h1GvShXaJM=_video_compressed.mp4?sign=1756517155-3062-0-aa1f700884feb20fb756ee193c3a07ce,跳过标题获取,成功
-2025-08-22 20:53:50,shizu20,http://tians.06kd.mlkj888.cn/s/shizu20,http://mtvod.meituan.net/save-video/ot9Q43tLbSsyrHFW30L-rm81ednvXq38r9JSMFxK8xg=_video.mp4?sign=1756547017-63736-0-c5e9db6529cdba3413f84154d05920d6,获取标题失败,成功
-2025-08-22 20:53:55,shizu21,http://tians.06kd.mlkj888.cn/s/shizu21,触发反爬机制,N/A,需要重试
-2025-08-22 20:54:12,shizu21,http://tians.06kd.mlkj888.cn/s/shizu21,http://mtvod.meituan.net/save-video/U5ItGZWThdW-KYFS19m6ncxQIrdRg1Qdb21llUDqhjI=_video_compressed.mp4?sign=1756537186-38722-0-8511f4ff599cdff42e8bf8ac6565aba5,跳过标题获取,成功
-2025-08-22 20:54:18,shizu22,http://tians.06kd.mlkj888.cn/s/shizu22,触发反爬机制,N/A,需要重试
-2025-08-22 20:54:41,shizu22,http://tians.06kd.mlkj888.cn/s/shizu22,http://mtvod.meituan.net/save-video/hWbC80BTF_YNBnPQR9rjAKmppffu0WFzn9xUfw0iX_k=_video_compressed.mp4?sign=1756537186-38722-0-62c29f7a1293a06d961bb1faab6b5ee8,跳过标题获取,成功
-2025-08-22 20:54:49,shizu23,http://tians.06kd.mlkj888.cn/s/shizu23,http://mtvod.meituan.net/save-video/HgMb34Lf3UX0zD5RziIc3t0PT0NTcUhoPxco4Ql73qc=_video.mp4?sign=1756547017-63736-0-29fcf6d8d2b6a74f153f5e285d4d590b,跳过标题获取,成功
-2025-08-22 20:54:58,shizu24,http://tians.06kd.mlkj888.cn/s/shizu24,http://mtvod.meituan.net/save-video/n3M33RATxJcX_aPNGrrtRNwrUKc6_1_10NpeM3WeLlw=_video.mp4?sign=1756537186-38722-0-52428fb30f16ee60aaa1be9c82e5c0e2,跳过标题获取,成功
-2025-08-22 20:55:03,shizu25,http://tians.06kd.mlkj888.cn/s/shizu25,http://mtvod.meituan.net/save-video/BaaDflflzh_XMncsx_RHIbCLlkmojL419raRgziPc-U=_video_compressed.mp4?sign=1756537186-38722-0-98d9f7455477cca6dd6eece053955d4b,获取标题失败,成功
-2025-08-22 20:55:10,shizu26,http://tians.06kd.mlkj888.cn/s/shizu26,触发反爬机制,N/A,需要重试
-2025-08-22 20:55:30,shizu26,http://tians.06kd.mlkj888.cn/s/shizu26,http://mtvod.meituan.net/save-video/d0xsbIOOGMSCPBh66JGkc-u-5EBx1Z_HnD0RYbKxfpc=_video.mp4?sign=1756601802-3759-0-0cad06adbc6c1a4da09f1bac34311282,跳过标题获取,成功
-2025-08-22 20:55:42,shizu27,http://tians.06kd.mlkj888.cn/s/shizu27,触发反爬机制,N/A,需要重试
-2025-08-22 20:56:09,shizu27,http://tians.06kd.mlkj888.cn/s/shizu27,http://mtvod.meituan.net/save-video/EInQgppXh6IHREAaYyfszV1Ys5Gj6sVENLKN3-5MNFE=_video.mp4?sign=1756546107-22944-0-bee65028725e1b0170c65be87da00844,跳过标题获取,成功
-2025-08-22 20:56:15,shizu28,http://tians.06kd.mlkj888.cn/s/shizu28,http://mtvod.meituan.net/save-video/U9z5w0-0vyRRhHzPe-mfS29M4Ms79FJ5dinb0f0C7jY=_video.mp4?sign=1756602039-3434-0-9223d8c255a27e56a073e4a7c92f41d9,跳过标题获取,成功
-2025-08-22 20:56:27,shizu29,http://tians.06kd.mlkj888.cn/s/shizu29,http://mtvod.meituan.net/save-video/q5sI3vonHjEV2pl_BI4iHBo-zfYp0CWlbMve0lvgCRo=_video.mp4?sign=1756546345-22405-0-ac8910e75868d010ff311d5ed7d080f8,跳过标题获取,成功
-2025-08-22 20:56:36,shizu30,http://tians.06kd.mlkj888.cn/s/shizu30,http://mtvod.meituan.net/save-video/xhdxIRbgcUrMALNx46SoHOwTGWNw9Rf2xY12PhNAPRk=_video.mp4?sign=1756546711-62554-0-b0a455164cfa341d9bf047aae594ff4b,获取标题失败,成功
-2025-08-22 20:56:49,shizu31,http://tians.06kd.mlkj888.cn/s/shizu31,http://mtvod.meituan.net/save-video/i2m_TNSDbTC3PJjm2grUvcYHkngbqw2gRVFlpH3FjsA=_video.mp4?sign=1756605124-54949-0-6c67a9a966d842592e6e48410eae233f,跳过标题获取,成功
-2025-08-22 20:56:55,shizu32,http://tians.06kd.mlkj888.cn/s/shizu32,触发反爬机制,N/A,需要重试
-2025-08-22 20:57:20,shizu32,http://tians.06kd.mlkj888.cn/s/shizu32,http://mtvod.meituan.net/save-video/bZytUpaQTv-Rt-OR8wQfmlPNi-itcGAYNGEr231WUgQ=_video.mp4?sign=1756605171-22097-0-d8ffb08fdc4dd8e9b9d0c08e1efe9d71,跳过标题获取,成功
-2025-08-22 20:57:28,shizu33,http://tians.06kd.mlkj888.cn/s/shizu33,http://mtvod.meituan.net/save-video/faE2xfkKX_Z56fgnvEhX0XWjyZx4RoYqCvhCUumGh7Q=_video.mp4?sign=1756605249-54489-0-f75f9b71df72fe3986437c7ecdafdc59,跳过标题获取,成功
-2025-08-22 20:57:37,shizu34,http://tians.06kd.mlkj888.cn/s/shizu34,http://mtvod.meituan.net/save-video/tHTeKpSJRNjDVvxiPf8EMoOmCSLLRSMZ-sTz7QMPolQ=_video.mp4?sign=1756605590-53768-0-969a4a338f8ae015cde62aae7670326a,跳过标题获取,成功
-2025-08-22 20:57:48,shizu35,http://tians.06kd.mlkj888.cn/s/shizu35,触发反爬机制,N/A,需要重试
-2025-08-22 20:58:16,shizu35,http://tians.06kd.mlkj888.cn/s/shizu35,http://mtvod.meituan.net/save-video/1fQFhnR7g9bBdTMvmctdQxIvKgoSUVpDRGgqug1wYpE=_video.mp4?sign=1756605660-67639-0-cd20184ffa10772b853272ed7d7ce74b,无标题,成功
-2025-08-22 20:58:34,shizu36,http://tians.06kd.mlkj888.cn/s/shizu36,https://ocn6im4pu01o.feishu.cn/file/CIRmbIMkIorHKGx3xFdcGdj4nZR?from=from_copylink,跳过标题获取,成功
-2025-08-22 20:58:47,shizu37,http://tians.06kd.mlkj888.cn/s/shizu37,https://ocn6im4pu01o.feishu.cn/file/GlrwbF2ZgoMLwIxgBfFcIlAFnKe?from=from_copylink,跳过标题获取,成功
-2025-08-22 20:58:55,shizu38,http://tians.06kd.mlkj888.cn/s/shizu38,http://mtvod.meituan.net/save-video/UVniTkP0m-RmfQ4xXSdqs1K4R9O8sbnwpuMKj4SPjUg=_video.mp4?sign=1756627366-46012-0-006e4bb80e7b2e8df3bcaaa9f10c4c2d,跳过标题获取,成功
-2025-08-22 20:59:03,shizu39,http://tians.06kd.mlkj888.cn/s/shizu39,https://ocn6im4pu01o.feishu.cn/file/AcI9ba2tuoA2utxpR1yc6GprnRh?from=from_copylink,跳过标题获取,成功
-2025-08-22 20:59:17,shizu40,http://tians.06kd.mlkj888.cn/s/shizu40,http://mtvod.meituan.net/save-video/Q5U3afTOkfRfSYtVPu6KqfSuKBmwvKimdTL5yH5aE8c=_video.mp4?sign=1756627493-64473-0-f781653515b3f496e83bd1c93e29383b,无标题,成功
-2025-08-22 20:59:26,shizu41,http://tians.06kd.mlkj888.cn/s/shizu41,http://mtvod.meituan.net/save-video/OFbcJnke38jJlluAu-UqRAtDRAVQ7RfeqZmwG7QYJEg=_video.mp4?sign=1756641654-18518-0-27d10b50caa10b10e688c16aba9dbce2,跳过标题获取,成功
-2025-08-22 20:59:36,shizu42,http://tians.06kd.mlkj888.cn/s/shizu42,http://mtvod.meituan.net/save-video/ghhl_55ygh32rarj5IwthAD2AXoBh-I2MNQVZ3UZrRI=_video.mp4?sign=1756641729-7955-0-949484d15b5ea97406aca9577da57346,跳过标题获取,成功
-2025-08-22 20:59:51,shizu43,http://tians.06kd.mlkj888.cn/s/shizu43,https://ocn6im4pu01o.feishu.cn/file/SFsxbGGRAoBiNpx7vHOcXDXtnFc?from=from_copylink,跳过标题获取,成功
-2025-08-22 21:00:05,shizu44,http://tians.06kd.mlkj888.cn/s/shizu44,http://mtvod-bd.meituan.net/save-video/icikNkUlvl0wHQ6M7kojS4GEwXyYdF7xZkfFN75xVE8=_video_compressed.mp4?sign=1756642125-12339-0-bc5c7b4377be2d3e3a858ab9039a180f,跳过标题获取,成功
-2025-08-22 21:00:17,shizu45,http://tians.06kd.mlkj888.cn/s/shizu45,http://mtvod.meituan.net/save-video/EN2CAbe0n2fhIjkwH8_EKyvEKVgAnWeL6Kn9rhkNuSg=_video.mp4?sign=1756642176-30240-0-488af586aecc284bbe4bf5bc35a81b74,无标题,成功
-2025-08-22 21:00:33,shizu46,http://tians.06kd.mlkj888.cn/s/shizu46,http://mtvod.meituan.net/save-video/iXb9MyUVo5HHgoiHMv5mDE-gFPd4Wg-Pi0aKmST-qBw=_video_compressed.mp4?sign=1756689748-97402-0-6a04f20e7b0b56dbb3e29a65126586ef,跳过标题获取,成功
-2025-08-22 21:00:46,shizu47,http://tians.06kd.mlkj888.cn/s/shizu47,http://mtvod.meituan.net/save-video/86042yuXGpk04dC-iU8fAy3J9SKrlEvsN-BgCwYX6Mo=_video.mp4?sign=1756689798-43385-0-172e2d19970ea0af30893ea3901ff289,跳过标题获取,成功
-2025-08-22 21:00:54,shizu48,http://tians.06kd.mlkj888.cn/s/shizu48,http://mtvod.meituan.net/save-video/6xiBOhDTb3X87ACtwmPXcYm7hQczNp6XzNN4UmWgWzI=_video.mp4?sign=1756689856-67209-0-3e8565faa74684f1d7e4e4a7fd1d121e,跳过标题获取,成功
-2025-08-22 21:01:05,shizu49,http://tians.06kd.mlkj888.cn/s/shizu49,http://mtvod.meituan.net/save-video/z6yjp6ENRLHu8hUbNAVxmbiFRhym72Z462Nx7be55Do=_video.mp4?sign=1756689907-66095-0-9988ae372ae0d324aba3622358dc9264,跳过标题获取,成功
-2025-08-22 21:01:17,shizu50,http://tians.06kd.mlkj888.cn/s/shizu50,http://mtvod.meituan.net/save-video/I2gd9jlKE23vYNRK0R9hA6M24-EQ1xIkG2TwIPbqDuQ=_video.mp4?sign=1756689964-80802-0-b939dbfea57a92d1c33621b5e74260bb,无标题,成功
-2025-08-22 21:34:44,shizu1,http://tians.06kd.mlkj888.cn/s/shizu1,触发反爬机制,N/A,需要重试
-2025-08-22 21:35:08,shizu1,http://tians.06kd.mlkj888.cn/s/shizu1,http://mtvod.meituan.net/save-video/A55HTxJD5qjuTcb4-wxIDEOR7izxbSfqo2d9mWB-G9I=_video.mp4?sign=1756708873-84464-0-2a98af202b7cb74db4519b42216456aa,跳过标题获取,成功
-2025-08-22 21:35:21,shizu2,http://tians.06kd.mlkj888.cn/s/shizu2,触发反爬机制,N/A,需要重试
-2025-08-22 21:35:49,shizu2,http://tians.06kd.mlkj888.cn/s/shizu2,http://mtvod.meituan.net/save-video/LmtcjLXMkplqNuEe5ELAQB9wZIQrSI_x7E-O2fNYUJc=_video_compressed.mp4?sign=1756708873-84464-0-732274b2d29118516a386dfe08591b90,跳过标题获取,成功
-2025-08-22 21:36:00,shizu3,http://tians.06kd.mlkj888.cn/s/shizu3,触发反爬机制,N/A,需要重试
-2025-08-22 21:36:26,shizu3,http://tians.06kd.mlkj888.cn/s/shizu3,http://mtvod.meituan.net/save-video/_-rL5q-NpD7xmbdnh6oHbrwfXI4yaDdG-BUHLg9sqU0=_video_compressed.mp4?sign=1756708873-84464-0-bf5913a27ea7905a868c38ee7b32977c,跳过标题获取,成功
-2025-08-22 21:36:39,shizu4,http://tians.06kd.mlkj888.cn/s/shizu4,触发反爬机制,N/A,需要重试
-2025-08-22 21:36:57,shizu4,http://tians.06kd.mlkj888.cn/s/shizu4,http://mtvod.meituan.net/save-video/qWU4SyHplZ-92QqaoawRkj-lu87bMHrRguD1aa5vOhM=_video_compressed.mp4?sign=1756708873-84464-0-6a272715d1a28df4bca854d496db924d,跳过标题获取,成功
-2025-08-22 21:37:11,shizu5,http://tians.06kd.mlkj888.cn/s/shizu5,触发反爬机制,N/A,需要重试
-2025-08-22 21:37:30,shizu5,http://tians.06kd.mlkj888.cn/s/shizu5,http://mtvod.meituan.net/save-video/MoSjyhLrichQXmvjKkhBfauiYvlWxDN_KRZRTiC11nQ=_video.mp4?sign=1756709014-57889-0-5baef65eb63f3e979f0d6fc93bad10d6,无标题,成功
-2025-08-22 21:38:20,shizu6,http://tians.06kd.mlkj888.cn/s/shizu6,触发反爬机制,N/A,需要重试
-2025-08-22 21:38:45,shizu6,http://tians.06kd.mlkj888.cn/s/shizu6,http://mtvod.meituan.net/save-video/_WI5AeFZ9ZEjJvQyEyDSiF9pidhvmgr2HJ4hqvPzz1s=_video_compressed.mp4?sign=1756719726-78648-0-5987ba29f98881bf94d893269475162f,跳过标题获取,成功
-2025-08-22 21:38:52,shizu7,http://tians.06kd.mlkj888.cn/s/shizu7,触发反爬机制,N/A,需要重试
-2025-08-22 21:39:15,shizu7,http://tians.06kd.mlkj888.cn/s/shizu7,http://mtvod.meituan.net/save-video/e9mkIL_k8bys-wsa21TqGO2GnYjPCa5liykYnKiX4sQ=_video_compressed.mp4?sign=1756719726-78648-0-1bcae4aba153574f9731eddc850a4271,跳过标题获取,成功
-2025-08-22 21:39:27,shizu8,http://tians.06kd.mlkj888.cn/s/shizu8,触发反爬机制,N/A,需要重试
-2025-08-22 21:39:46,shizu8,http://tians.06kd.mlkj888.cn/s/shizu8,http://mtvod.meituan.net/save-video/Z6GVBJhwyg1Fa6iyvvSsrnQoYdlOjVArVoXIFmD1piE=_video.mp4?sign=1756719726-78648-0-36fc15d6e024e230c4523948d6ac02b9,跳过标题获取,成功
-2025-08-22 21:39:56,shizu9,http://tians.06kd.mlkj888.cn/s/shizu9,触发反爬机制,N/A,需要重试
-2025-08-22 21:40:24,shizu9,http://tians.06kd.mlkj888.cn/s/shizu9,http://mtvod.meituan.net/save-video/M3xnIBfktF6WU0kWNVuYRzAzTqWPUZNfVD3HzA4rkFo=_video_compressed.mp4?sign=1756719726-78648-0-3335875c166fd873b906f906a83e44bc,跳过标题获取,成功
-2025-08-22 21:40:38,shizu10,http://tians.06kd.mlkj888.cn/s/shizu10,触发反爬机制,N/A,需要重试
-2025-08-22 21:41:05,shizu10,http://tians.06kd.mlkj888.cn/s/shizu10,http://mtvod.meituan.net/save-video/IwROoTTX6IZlE-ufKuj_vfce30qoft-BZuOLnmHTsN8=_video.mp4?sign=1756719726-78648-0-140429c7fe7b39a0ba7d58bf97b844f9,无标题,成功
-2025-08-22 21:41:14,shizu11,http://tians.06kd.mlkj888.cn/s/shizu11,触发反爬机制,N/A,需要重试
-2025-08-22 21:41:40,shizu11,http://tians.06kd.mlkj888.cn/s/shizu11,http://mtvod.meituan.net/save-video/WNnF56yV-o3fvjgFMj8IndUtHZCETcLU2k72taNTFvg=_video.mp4?sign=1756453432-84823-0-90289dab7eee6c319a9580d5b0ec22c8,跳过标题获取,成功
-2025-08-22 21:41:55,shizu12,http://tians.06kd.mlkj888.cn/s/shizu12,触发反爬机制,N/A,需要重试
-2025-08-22 21:42:25,shizu12,http://tians.06kd.mlkj888.cn/s/shizu12,https://docs.qingque.cn/file/eZQAvmS21pkRBhJVEXS_oBcNq,跳过标题获取,成功
-2025-08-22 21:42:37,shizu13,http://tians.06kd.mlkj888.cn/s/shizu13,触发反爬机制,N/A,需要重试
-2025-08-22 21:43:01,shizu13,http://tians.06kd.mlkj888.cn/s/shizu13,https://docs.qingque.cn/file/eZQDxDwXnUZNaWiwNsJtZocGO,跳过标题获取,成功
-2025-08-22 21:43:14,shizu14,http://tians.06kd.mlkj888.cn/s/shizu14,触发反爬机制,N/A,需要重试
-2025-08-22 21:43:29,shizu14,http://tians.06kd.mlkj888.cn/s/shizu14,https://docs.qingque.cn/file/eZQCm9T4K0WPiioUqqwq39I-w,跳过标题获取,成功
-2025-08-22 21:43:36,shizu15,http://tians.06kd.mlkj888.cn/s/shizu15,触发反爬机制,N/A,需要重试
-2025-08-22 21:43:58,shizu15,http://tians.06kd.mlkj888.cn/s/shizu15,http://mtvod.meituan.net/save-video/cbzO2nAIXGfstINk8ozwflktaOIF2qLPBrYwSFGUwKA=_video.mp4?sign=1756453548-1243-0-4c3dea9845df743f1c89acc2c77dcaee,获取标题失败,成功
-2025-08-22 21:44:05,shizu16,http://tians.06kd.mlkj888.cn/s/shizu16,触发反爬机制,N/A,需要重试
-2025-08-22 21:44:27,shizu16,http://tians.06kd.mlkj888.cn/s/shizu16,http://mtvod.meituan.net/save-video/Y539H8RgVJiLtuuKkhqZGuvx4QbDsY8XmXQzE3OyX9s=_video_compressed.mp4?sign=1756517155-3062-0-6a38fc65ce2e4fa02ec3feeb474d925a,跳过标题获取,成功
-2025-08-22 21:44:40,shizu17,http://tians.06kd.mlkj888.cn/s/shizu17,触发反爬机制,N/A,需要重试
-2025-08-22 21:44:56,shizu17,http://tians.06kd.mlkj888.cn/s/shizu17,http://mtvod.meituan.net/save-video/fsOeALq6UVV1Wgd5qrfCdG0QPXVv4lCVM28bQqn1a0o=_video_compressed.mp4?sign=1756517155-3062-0-26cefbbb7011309bb5f9aaba11904141,跳过标题获取,成功
-2025-08-22 21:45:09,shizu18,http://tians.06kd.mlkj888.cn/s/shizu18,触发反爬机制,N/A,需要重试
-2025-08-22 21:45:24,shizu18,http://tians.06kd.mlkj888.cn/s/shizu18,http://mtvod.meituan.net/save-video/vJBJgtZhuSdCH1eTy9d5QzzJFDCG3DRhIOsGNIT6M8s=_video_compressed.mp4?sign=1756517155-3062-0-efea9a4b4bdf0482618e9438a37309ec,跳过标题获取,成功
-2025-08-22 21:45:32,shizu19,http://tians.06kd.mlkj888.cn/s/shizu19,触发反爬机制,N/A,需要重试
-2025-08-22 21:45:49,shizu19,http://tians.06kd.mlkj888.cn/s/shizu19,http://mtvod.meituan.net/save-video/Dnj1MP2h5bWAV5sj6YIPn-cUt18ku6mc3h1GvShXaJM=_video_compressed.mp4?sign=1756517155-3062-0-aa1f700884feb20fb756ee193c3a07ce,跳过标题获取,成功
-2025-08-22 21:46:03,shizu20,http://tians.06kd.mlkj888.cn/s/shizu20,触发反爬机制,N/A,需要重试
-2025-08-22 21:46:33,shizu20,http://tians.06kd.mlkj888.cn/s/shizu20,http://mtvod.meituan.net/save-video/ot9Q43tLbSsyrHFW30L-rm81ednvXq38r9JSMFxK8xg=_video.mp4?sign=1756547017-63736-0-c5e9db6529cdba3413f84154d05920d6,获取标题失败,成功
-2025-08-22 21:46:46,shizu21,http://tians.06kd.mlkj888.cn/s/shizu21,触发反爬机制,N/A,需要重试
-2025-08-22 21:47:13,shizu21,http://tians.06kd.mlkj888.cn/s/shizu21,http://mtvod.meituan.net/save-video/U5ItGZWThdW-KYFS19m6ncxQIrdRg1Qdb21llUDqhjI=_video_compressed.mp4?sign=1756537186-38722-0-8511f4ff599cdff42e8bf8ac6565aba5,跳过标题获取,成功
-2025-08-22 21:47:20,shizu22,http://tians.06kd.mlkj888.cn/s/shizu22,触发反爬机制,N/A,需要重试
-2025-08-22 21:47:43,shizu22,http://tians.06kd.mlkj888.cn/s/shizu22,http://mtvod.meituan.net/save-video/hWbC80BTF_YNBnPQR9rjAKmppffu0WFzn9xUfw0iX_k=_video_compressed.mp4?sign=1756537186-38722-0-62c29f7a1293a06d961bb1faab6b5ee8,跳过标题获取,成功
-2025-08-22 21:47:57,shizu23,http://tians.06kd.mlkj888.cn/s/shizu23,触发反爬机制,N/A,需要重试
-2025-08-22 21:48:25,shizu23,http://tians.06kd.mlkj888.cn/s/shizu23,http://mtvod.meituan.net/save-video/HgMb34Lf3UX0zD5RziIc3t0PT0NTcUhoPxco4Ql73qc=_video.mp4?sign=1756547017-63736-0-29fcf6d8d2b6a74f153f5e285d4d590b,跳过标题获取,成功
-2025-08-22 21:48:34,shizu24,http://tians.06kd.mlkj888.cn/s/shizu24,触发反爬机制,N/A,需要重试
-2025-08-22 21:48:49,shizu24,http://tians.06kd.mlkj888.cn/s/shizu24,http://mtvod.meituan.net/save-video/n3M33RATxJcX_aPNGrrtRNwrUKc6_1_10NpeM3WeLlw=_video.mp4?sign=1756537186-38722-0-52428fb30f16ee60aaa1be9c82e5c0e2,跳过标题获取,成功
-2025-08-22 21:48:59,shizu25,http://tians.06kd.mlkj888.cn/s/shizu25,触发反爬机制,N/A,需要重试
-2025-08-22 21:49:16,shizu25,http://tians.06kd.mlkj888.cn/s/shizu25,http://mtvod.meituan.net/save-video/BaaDflflzh_XMncsx_RHIbCLlkmojL419raRgziPc-U=_video_compressed.mp4?sign=1756537186-38722-0-98d9f7455477cca6dd6eece053955d4b,获取标题失败,成功
-2025-08-22 21:49:24,shizu26,http://tians.06kd.mlkj888.cn/s/shizu26,触发反爬机制,N/A,需要重试
-2025-08-22 21:49:40,shizu26,http://tians.06kd.mlkj888.cn/s/shizu26,http://mtvod.meituan.net/save-video/d0xsbIOOGMSCPBh66JGkc-u-5EBx1Z_HnD0RYbKxfpc=_video.mp4?sign=1756601802-3759-0-0cad06adbc6c1a4da09f1bac34311282,跳过标题获取,成功
-2025-08-22 21:49:49,shizu27,http://tians.06kd.mlkj888.cn/s/shizu27,触发反爬机制,N/A,需要重试
-2025-08-22 21:50:10,shizu27,http://tians.06kd.mlkj888.cn/s/shizu27,http://mtvod.meituan.net/save-video/EInQgppXh6IHREAaYyfszV1Ys5Gj6sVENLKN3-5MNFE=_video.mp4?sign=1756546107-22944-0-bee65028725e1b0170c65be87da00844,跳过标题获取,成功
-2025-08-22 21:50:20,shizu28,http://tians.06kd.mlkj888.cn/s/shizu28,触发反爬机制,N/A,需要重试
-2025-08-22 21:50:35,shizu28,http://tians.06kd.mlkj888.cn/s/shizu28,http://mtvod.meituan.net/save-video/U9z5w0-0vyRRhHzPe-mfS29M4Ms79FJ5dinb0f0C7jY=_video.mp4?sign=1756602039-3434-0-9223d8c255a27e56a073e4a7c92f41d9,跳过标题获取,成功
-2025-08-22 21:50:42,shizu29,http://tians.06kd.mlkj888.cn/s/shizu29,触发反爬机制,N/A,需要重试
-2025-08-22 21:51:09,shizu29,http://tians.06kd.mlkj888.cn/s/shizu29,http://mtvod.meituan.net/save-video/q5sI3vonHjEV2pl_BI4iHBo-zfYp0CWlbMve0lvgCRo=_video.mp4?sign=1756546345-22405-0-ac8910e75868d010ff311d5ed7d080f8,跳过标题获取,成功
-2025-08-22 21:51:20,shizu30,http://tians.06kd.mlkj888.cn/s/shizu30,触发反爬机制,N/A,需要重试
-2025-08-22 21:51:35,shizu30,http://tians.06kd.mlkj888.cn/s/shizu30,http://mtvod.meituan.net/save-video/xhdxIRbgcUrMALNx46SoHOwTGWNw9Rf2xY12PhNAPRk=_video.mp4?sign=1756546711-62554-0-b0a455164cfa341d9bf047aae594ff4b,获取标题失败,成功
-2025-08-22 21:51:46,shizu31,http://tians.06kd.mlkj888.cn/s/shizu31,触发反爬机制,N/A,需要重试
-2025-08-22 21:52:11,shizu31,http://tians.06kd.mlkj888.cn/s/shizu31,http://mtvod.meituan.net/save-video/i2m_TNSDbTC3PJjm2grUvcYHkngbqw2gRVFlpH3FjsA=_video.mp4?sign=1756605124-54949-0-6c67a9a966d842592e6e48410eae233f,跳过标题获取,成功
-2025-08-22 21:52:26,shizu32,http://tians.06kd.mlkj888.cn/s/shizu32,触发反爬机制,N/A,需要重试
-2025-08-22 21:52:54,shizu32,http://tians.06kd.mlkj888.cn/s/shizu32,http://mtvod.meituan.net/save-video/bZytUpaQTv-Rt-OR8wQfmlPNi-itcGAYNGEr231WUgQ=_video.mp4?sign=1756605171-22097-0-d8ffb08fdc4dd8e9b9d0c08e1efe9d71,跳过标题获取,成功
-2025-08-22 21:53:03,shizu33,http://tians.06kd.mlkj888.cn/s/shizu33,触发反爬机制,N/A,需要重试
-2025-08-22 21:53:23,shizu33,http://tians.06kd.mlkj888.cn/s/shizu33,http://mtvod.meituan.net/save-video/faE2xfkKX_Z56fgnvEhX0XWjyZx4RoYqCvhCUumGh7Q=_video.mp4?sign=1756605249-54489-0-f75f9b71df72fe3986437c7ecdafdc59,跳过标题获取,成功
-2025-08-22 21:53:32,shizu34,http://tians.06kd.mlkj888.cn/s/shizu34,触发反爬机制,N/A,需要重试
-2025-08-22 21:53:53,shizu34,http://tians.06kd.mlkj888.cn/s/shizu34,http://mtvod.meituan.net/save-video/tHTeKpSJRNjDVvxiPf8EMoOmCSLLRSMZ-sTz7QMPolQ=_video.mp4?sign=1756605590-53768-0-969a4a338f8ae015cde62aae7670326a,跳过标题获取,成功
-2025-08-22 21:54:03,shizu35,http://tians.06kd.mlkj888.cn/s/shizu35,触发反爬机制,N/A,需要重试
-2025-08-22 21:54:22,shizu35,http://tians.06kd.mlkj888.cn/s/shizu35,http://mtvod.meituan.net/save-video/1fQFhnR7g9bBdTMvmctdQxIvKgoSUVpDRGgqug1wYpE=_video.mp4?sign=1756605660-67639-0-cd20184ffa10772b853272ed7d7ce74b,无标题,成功
-2025-08-22 21:54:35,shizu36,http://tians.06kd.mlkj888.cn/s/shizu36,触发反爬机制,N/A,需要重试
-2025-08-22 21:54:56,shizu36,http://tians.06kd.mlkj888.cn/s/shizu36,https://ocn6im4pu01o.feishu.cn/file/CIRmbIMkIorHKGx3xFdcGdj4nZR?from=from_copylink,跳过标题获取,成功
-2025-08-22 21:55:10,shizu37,http://tians.06kd.mlkj888.cn/s/shizu37,触发反爬机制,N/A,需要重试
-2025-08-22 21:55:36,shizu37,http://tians.06kd.mlkj888.cn/s/shizu37,https://ocn6im4pu01o.feishu.cn/file/GlrwbF2ZgoMLwIxgBfFcIlAFnKe?from=from_copylink,跳过标题获取,成功
-2025-08-22 21:55:49,shizu38,http://tians.06kd.mlkj888.cn/s/shizu38,触发反爬机制,N/A,需要重试
-2025-08-22 21:56:18,shizu38,http://tians.06kd.mlkj888.cn/s/shizu38,http://mtvod.meituan.net/save-video/UVniTkP0m-RmfQ4xXSdqs1K4R9O8sbnwpuMKj4SPjUg=_video.mp4?sign=1756627366-46012-0-006e4bb80e7b2e8df3bcaaa9f10c4c2d,跳过标题获取,成功
-2025-08-22 21:56:28,shizu39,http://tians.06kd.mlkj888.cn/s/shizu39,触发反爬机制,N/A,需要重试
-2025-08-22 21:56:54,shizu39,http://tians.06kd.mlkj888.cn/s/shizu39,https://ocn6im4pu01o.feishu.cn/file/AcI9ba2tuoA2utxpR1yc6GprnRh?from=from_copylink,跳过标题获取,成功
-2025-08-22 21:57:05,shizu40,http://tians.06kd.mlkj888.cn/s/shizu40,触发反爬机制,N/A,需要重试
-2025-08-22 21:57:26,shizu40,http://tians.06kd.mlkj888.cn/s/shizu40,http://mtvod.meituan.net/save-video/Q5U3afTOkfRfSYtVPu6KqfSuKBmwvKimdTL5yH5aE8c=_video.mp4?sign=1756627493-64473-0-f781653515b3f496e83bd1c93e29383b,无标题,成功
-2025-08-22 21:57:36,shizu41,http://tians.06kd.mlkj888.cn/s/shizu41,触发反爬机制,N/A,需要重试
-2025-08-22 21:58:03,shizu41,http://tians.06kd.mlkj888.cn/s/shizu41,http://mtvod.meituan.net/save-video/OFbcJnke38jJlluAu-UqRAtDRAVQ7RfeqZmwG7QYJEg=_video.mp4?sign=1756641654-18518-0-27d10b50caa10b10e688c16aba9dbce2,跳过标题获取,成功
-2025-08-22 21:58:17,shizu42,http://tians.06kd.mlkj888.cn/s/shizu42,触发反爬机制,N/A,需要重试
-2025-08-22 21:58:41,shizu42,http://tians.06kd.mlkj888.cn/s/shizu42,http://mtvod.meituan.net/save-video/ghhl_55ygh32rarj5IwthAD2AXoBh-I2MNQVZ3UZrRI=_video.mp4?sign=1756641729-7955-0-949484d15b5ea97406aca9577da57346,跳过标题获取,成功
-2025-08-22 21:58:55,shizu43,http://tians.06kd.mlkj888.cn/s/shizu43,触发反爬机制,N/A,需要重试
-2025-08-22 21:59:25,shizu43,http://tians.06kd.mlkj888.cn/s/shizu43,https://ocn6im4pu01o.feishu.cn/file/SFsxbGGRAoBiNpx7vHOcXDXtnFc?from=from_copylink,跳过标题获取,成功
-2025-08-22 21:59:40,shizu44,http://tians.06kd.mlkj888.cn/s/shizu44,触发反爬机制,N/A,需要重试
-2025-08-22 22:00:05,shizu44,http://tians.06kd.mlkj888.cn/s/shizu44,http://mtvod-bd.meituan.net/save-video/icikNkUlvl0wHQ6M7kojS4GEwXyYdF7xZkfFN75xVE8=_video_compressed.mp4?sign=1756642125-12339-0-bc5c7b4377be2d3e3a858ab9039a180f,跳过标题获取,成功
-2025-08-22 22:00:18,shizu45,http://tians.06kd.mlkj888.cn/s/shizu45,触发反爬机制,N/A,需要重试
-2025-08-22 22:00:38,shizu45,http://tians.06kd.mlkj888.cn/s/shizu45,http://mtvod.meituan.net/save-video/EN2CAbe0n2fhIjkwH8_EKyvEKVgAnWeL6Kn9rhkNuSg=_video.mp4?sign=1756642176-30240-0-488af586aecc284bbe4bf5bc35a81b74,无标题,成功
-2025-08-22 22:00:52,shizu46,http://tians.06kd.mlkj888.cn/s/shizu46,触发反爬机制,N/A,需要重试
-2025-08-22 22:01:14,shizu46,http://tians.06kd.mlkj888.cn/s/shizu46,http://mtvod.meituan.net/save-video/iXb9MyUVo5HHgoiHMv5mDE-gFPd4Wg-Pi0aKmST-qBw=_video_compressed.mp4?sign=1756689748-97402-0-6a04f20e7b0b56dbb3e29a65126586ef,跳过标题获取,成功
-2025-08-22 22:01:23,shizu47,http://tians.06kd.mlkj888.cn/s/shizu47,触发反爬机制,N/A,需要重试
-2025-08-22 22:01:48,shizu47,http://tians.06kd.mlkj888.cn/s/shizu47,http://mtvod.meituan.net/save-video/86042yuXGpk04dC-iU8fAy3J9SKrlEvsN-BgCwYX6Mo=_video.mp4?sign=1756689798-43385-0-172e2d19970ea0af30893ea3901ff289,跳过标题获取,成功
-2025-08-22 22:02:02,shizu48,http://tians.06kd.mlkj888.cn/s/shizu48,触发反爬机制,N/A,需要重试
-2025-08-22 22:02:23,shizu48,http://tians.06kd.mlkj888.cn/s/shizu48,http://mtvod.meituan.net/save-video/6xiBOhDTb3X87ACtwmPXcYm7hQczNp6XzNN4UmWgWzI=_video.mp4?sign=1756689856-67209-0-3e8565faa74684f1d7e4e4a7fd1d121e,跳过标题获取,成功
-2025-08-22 22:02:30,shizu49,http://tians.06kd.mlkj888.cn/s/shizu49,触发反爬机制,N/A,需要重试
-2025-08-22 22:02:47,shizu49,http://tians.06kd.mlkj888.cn/s/shizu49,http://mtvod.meituan.net/save-video/z6yjp6ENRLHu8hUbNAVxmbiFRhym72Z462Nx7be55Do=_video.mp4?sign=1756689907-66095-0-9988ae372ae0d324aba3622358dc9264,跳过标题获取,成功
-2025-08-22 22:03:01,shizu50,http://tians.06kd.mlkj888.cn/s/shizu50,触发反爬机制,N/A,需要重试
-2025-08-22 22:03:29,shizu50,http://tians.06kd.mlkj888.cn/s/shizu50,http://mtvod.meituan.net/save-video/I2gd9jlKE23vYNRK0R9hA6M24-EQ1xIkG2TwIPbqDuQ=_video.mp4?sign=1756689964-80802-0-b939dbfea57a92d1c33621b5e74260bb,无标题,成功
-2025-08-26 00:14:09,shizu1,http://tians.06kd.mlkj888.cn/s/shizu1,触发反爬机制,N/A,需要重试
-2025-08-26 00:14:33,shizu1,http://tians.06kd.mlkj888.cn/s/shizu1,http://mtvod.meituan.net/save-video/a6S7fFDRSv5fG4Wql89WB044OIvWNPJNQL97NacRO7U=_video_compressed.mp4?sign=1756990894-94291-0-8a0fdcdd9ef45fc29ffffdd3f07b4fc3,跳过标题获取,成功
-2025-08-26 00:14:44,shizu2,http://tians.06kd.mlkj888.cn/s/shizu2,http://mtvod.meituan.net/save-video/3pKKiNTk-TuQXWZp-lc66Y2JIa0iw3vNFnW6wehW67w=_video_compressed.mp4?sign=1756990894-94291-0-7b7e2d36681b4edac418a658ca1f8589,跳过标题获取,成功
-2025-08-26 00:14:58,shizu3,http://tians.06kd.mlkj888.cn/s/shizu3,http://mtvod.meituan.net/save-video/AFCZZENu1saRKum7RwxeYt9LljHMINUrzr6-l5TiwR0=_video_compressed.mp4?sign=1756990894-94291-0-8e7cb174fe7eae8802b9b1a2af4fba73,跳过标题获取,成功
-2025-08-26 00:15:06,shizu4,http://tians.06kd.mlkj888.cn/s/shizu4,http://mtvod.meituan.net/save-video/qEXcwC1gyLX23PRY0Hh8YQCHVI79O6bTTt_xjZJdLVE=_video_compressed.mp4?sign=1756990894-94291-0-3e9154a53602703992a432dfc8dc801b,跳过标题获取,成功
-2025-08-26 00:15:19,shizu5,http://tians.06kd.mlkj888.cn/s/shizu5,触发反爬机制,N/A,需要重试
-2025-08-26 00:15:37,shizu5,http://tians.06kd.mlkj888.cn/s/shizu5,http://mtvod.meituan.net/save-video/F94aSRSgPNuPHqqQUNDxRoFBtFOjluy5Uu8DjGYh2DQ=_video_compressed.mp4?sign=1756991050-42572-0-cccf27b2b7737abcd48e17910dde8200,无标题,成功
-2025-08-26 00:15:59,shizu6,http://tians.06kd.mlkj888.cn/s/shizu6,http://mtvod.meituan.net/save-video/2ko6ki24HMMgINtK8K2EJMAoPTwlXRQ-wErhkn_Zwu8=_video.mp4?sign=1756998307-4396-0-274ccfa6622dbc382f0522a6d00f80cb,跳过标题获取,成功
-2025-08-26 00:16:07,shizu7,http://tians.06kd.mlkj888.cn/s/shizu7,触发反爬机制,N/A,需要重试
-2025-08-26 00:16:29,shizu7,http://tians.06kd.mlkj888.cn/s/shizu7,http://mtvod.meituan.net/save-video/wJb3421R85qTgbfVq-N6yHadG4ahn2FLpzMBQV4W8Ms=_video_compressed.mp4?sign=1756998486-51216-0-534d839a63af61fcf48328838d42ac6f,跳过标题获取,成功
-2025-08-26 00:16:38,shizu8,http://tians.06kd.mlkj888.cn/s/shizu8,触发反爬机制,N/A,需要重试
-2025-08-26 00:17:07,shizu8,http://tians.06kd.mlkj888.cn/s/shizu8,http://mtvod.meituan.net/save-video/yt2DRQV2qvtu-3BJ-dke_h_KPlUGMzd-_mxXYfb8u1Y=_video_compressed.mp4?sign=1756998543-4712-0-3dd5922e1e6342df3f6eeca8fbfc8800,跳过标题获取,成功
-2025-08-26 00:17:22,shizu9,http://tians.06kd.mlkj888.cn/s/shizu9,http://mtvod.meituan.net/save-video/3m0Mzhv9TdC4j2kEZ_XsXGUn-wGULEPwnCzBqICCME4=_video.mp4?sign=1756998657-51222-0-d4be9fe1a08c9b36a5e01153aecbaf7d,跳过标题获取,成功
-2025-08-26 00:17:31,shizu10,http://tians.06kd.mlkj888.cn/s/shizu10,http://mtvod.meituan.net/save-video/DgbG5SXD9c48gUzT4XAhpjasLFZXhJhFaXyfeJNnOws=_video.mp4?sign=1756998706-16721-0-0ee33dedd58a1183f015b56da29449ba,无标题,成功
-2025-08-26 00:17:39,shizu11,http://tians.06kd.mlkj888.cn/s/shizu11,https://qw.landou.cc/2025/08/22/%e7%81%af%e7%ae%a1/,跳过标题获取,成功
-2025-08-26 00:17:45,shizu12,http://tians.06kd.mlkj888.cn/s/shizu12,http://mtvod.meituan.net/save-video/10FGcWMRIhs9w0_rD339qB2uALtcIoLKB-wY77R3N1s=_video.mp4?sign=1756812314-86048-0-87307509c0d3b77241db21d30553744f,跳过标题获取,成功
-2025-08-26 00:17:55,shizu13,http://tians.06kd.mlkj888.cn/s/shizu13,http://mtvod.meituan.net/save-video/vQS3RmOrAXafRGuSqzO-zmKKNiM9qj_Jf84feDP-QTo=_video.mp4?sign=1756812388-22690-0-d0188e72d4b3b9250d251d980b2e79a0,跳过标题获取,成功
-2025-08-26 00:18:01,shizu14,http://tians.06kd.mlkj888.cn/s/shizu14,http://mtvod.meituan.net/save-video/NB6qptF1J9wO12tnw66BYeYxnu33OrRjSnCfMgn6-sk=_video_compressed.mp4?sign=1756812444-99516-0-7cc31755e537ef3bb07bf242440ad45e,跳过标题获取,成功
-2025-08-26 00:18:13,shizu15,http://tians.06kd.mlkj888.cn/s/shizu15,触发反爬机制,N/A,需要重试
-2025-08-26 00:18:38,shizu15,http://tians.06kd.mlkj888.cn/s/shizu15,http://mtvod.meituan.net/save-video/_SYO9p_OQsnZlMS3hdFqaMja3Qncqi7JZjAETAVXv8Y=_video.mp4?sign=1756812493-71977-0-6b634fb56bfaa1c4d63a321cdde8cc98,获取标题失败,成功
-2025-08-26 00:18:49,shizu16,http://tians.06kd.mlkj888.cn/s/shizu16,触发反爬机制,N/A,需要重试
-2025-08-26 00:19:06,shizu16,http://tians.06kd.mlkj888.cn/s/shizu16,http://mtvod.meituan.net/save-video/vGpj1FtERhpFP7MwwQl8HUXWbcpElI7fw1l0ABcyh-I=_video.mp4?sign=1756813706-60514-0-ef239ab377c9579727df00ff9a25b84f,跳过标题获取,成功
-2025-08-26 00:19:21,shizu17,http://tians.06kd.mlkj888.cn/s/shizu17,http://mtvod.meituan.net/save-video/dooTZZG7zflqURmMmrNl0AcAyFThy3u1e4IOLU9XItQ=_video.mp4?sign=1756813768-65820-0-15e6b81ba8758d819f77f4f0bbc79742,跳过标题获取,成功
-2025-08-26 00:19:28,shizu18,http://tians.06kd.mlkj888.cn/s/shizu18,http://mtvod.meituan.net/save-video/TpgKjuVEbdEsCHaoCHqmiScq1g-lNl2gmmEf6TxTmjU=_video_compressed.mp4?sign=1756813935-95436-0-d3f3b18622356ab4316641031b2708a0,跳过标题获取,成功
-2025-08-26 00:19:37,shizu19,http://tians.06kd.mlkj888.cn/s/shizu19,http://mtvod.meituan.net/save-video/S_7WLdp7VHcBRtI_sDdV3J8LE_XOaphHQJoYVhllgbY=_video.mp4?sign=1756814085-76494-0-49d6fef7586fd03fd916d96a3b9ee6f1,跳过标题获取,成功
-2025-08-26 00:19:47,shizu20,http://tians.06kd.mlkj888.cn/s/shizu20,http://mtvod.meituan.net/save-video/Nlcu0iGKA4pFGwcOmKUAAqMwalzNyKdelYkEOVCHUko=_video.mp4?sign=1756814085-76494-0-241b6026db6dab4942cdea4c8cd4052a,获取标题失败,成功
-2025-08-26 00:20:02,shizu21,http://tians.06kd.mlkj888.cn/s/shizu21,https://docs.qingque.cn/file/eZQCjghPUw5mlzkrWrurkQrn6,跳过标题获取,成功
-2025-08-26 00:20:14,shizu22,http://tians.06kd.mlkj888.cn/s/shizu22,http://mtvod.meituan.net/save-video/DNx5pxMdiBcC-722taroTFAY-ixuonrsoSiVZeaPHVI=_video.mp4?sign=1756894977-59640-0-356ef9286ec835a6ac2f9b06a9ff2df3,跳过标题获取,成功
-2025-08-26 00:20:21,shizu23,http://tians.06kd.mlkj888.cn/s/shizu23,触发反爬机制,N/A,需要重试
-2025-08-26 00:20:39,shizu23,http://tians.06kd.mlkj888.cn/s/shizu23,http://mtvod.meituan.net/save-video/or-p0qz3L3RAh2fd7rt25AXkc1haOsvYGKKQNvDLTVY=_video.mp4?sign=1756866780-25299-0-20edf8d8e85da89aa299f85d586ad458,跳过标题获取,成功
-2025-08-26 00:20:46,shizu24,http://tians.06kd.mlkj888.cn/s/shizu24,http://mtvod.meituan.net/save-video/iDhHrDjpWa4w05KfZs2hDrST-I516uST3e7F1HMCRBo=_video.mp4?sign=1756866780-25299-0-e6501acc03cd2aaf5847d9f943342c60,跳过标题获取,成功
-2025-08-26 00:21:01,shizu25,http://tians.06kd.mlkj888.cn/s/shizu25,https://docs.qingque.cn/d/home/eZQBUjFARpigaNf87b9rT_zwz,è½»éææ¡£,成功
-2025-08-26 00:21:10,shizu26,http://tians.06kd.mlkj888.cn/s/shizu26,http://mtvod.meituan.net/save-video/0yLQ8qA0yXKwhV1EqZuZw9wtueTN6aQZzQtrTlNKFfc=_video_compressed.mp4?sign=1756895354-40933-0-28c93c48597fb134d7d653c0a834ee88,跳过标题获取,成功
-2025-08-26 00:21:16,shizu27,http://tians.06kd.mlkj888.cn/s/shizu27,触发反爬机制,N/A,需要重试
-2025-08-26 00:21:39,shizu27,http://tians.06kd.mlkj888.cn/s/shizu27,http://mtvod.meituan.net/save-video/fDVDU4OiZBTX-ijXwVoodqC5YndKpw9J3R8Rzzl9qJY=_video_compressed.mp4?sign=1756895354-40933-0-d6b5793009df6a1be7e156ce79047a08,跳过标题获取,成功
-2025-08-26 00:21:49,shizu28,http://tians.06kd.mlkj888.cn/s/shizu28,http://mtvod.meituan.net/save-video/GupPJtKUvu5-1kDNUP0w82lPRjfJrB-DohXQKm1OInM=_video_compressed.mp4?sign=1756895354-40933-0-581dc39fc4ccf67c3be5c548985f770e,跳过标题获取,成功
-2025-08-26 00:22:01,shizu29,http://tians.06kd.mlkj888.cn/s/shizu29,http://mtvod.meituan.net/save-video/G-Jrakgo8pPIoRsyasyO0yW4Cey9pUsWfMePg-1H-Hk=_video_compressed.mp4?sign=1756895472-28946-0-c7300d520096050fc890650ffe9a40e3,跳过标题获取,成功
-2025-08-26 00:22:10,shizu30,http://tians.06kd.mlkj888.cn/s/shizu30,http://mtvod.meituan.net/save-video/qkz0PgfDJZCqkDdV59ladWqScv1lw3eE7BqZsh73gRQ=_video_compressed.mp4?sign=1756895472-28946-0-1c65a81ed7f87eb886340b6b646bda21,获取标题失败,成功
-2025-08-26 00:22:18,shizu31,http://tians.06kd.mlkj888.cn/s/shizu31,http://mtvod.meituan.net/save-video/8-REHTUMsYYQKSrIyYHtAjb76kxLL3_IeFVMQFjlyes=_video_compressed.mp4?sign=1756905117-16068-0-f327060618cc28d84caeef83f7e8ed94,跳过标题获取,成功
-2025-08-26 00:22:29,shizu32,http://tians.06kd.mlkj888.cn/s/shizu32,http://mtvod.meituan.net/save-video/arNSvCZgewLdmi--Yk2I3UuMvThyQ3W4qs6lOx42IkA=_video_compressed.mp4?sign=1756905151-25977-0-1b0cb877c4ece34bb9b64b6b9f48d307,跳过标题获取,成功
-2025-08-26 00:22:39,shizu33,http://tians.06kd.mlkj888.cn/s/shizu33,http://mtvod.meituan.net/save-video/xb_vpxCBumuHQpO6ae9HgDQyFfzyEemba0dHe5xhdVI=_video_compressed.mp4?sign=1756905260-15025-0-dd829ca18fc1f0e0abaac70302491277,跳过标题获取,成功
-2025-08-26 00:22:48,shizu34,http://tians.06kd.mlkj888.cn/s/shizu34,http://mtvod.meituan.net/save-video/mXa52onoCCMRLL_97Wj76JGWl4i7KtfK_o-C50sogLk=_video.mp4?sign=1756905260-15025-0-09bbd46e83865c8e47e31be17b5944c0,跳过标题获取,成功
-2025-08-26 00:22:57,shizu35,http://tians.06kd.mlkj888.cn/s/shizu35,http://mtvod.meituan.net/save-video/fNJV6EbtG-7_sC3oSDUtGQqr_jVnso1_Fc-SKMDBL2U=_video.mp4?sign=1756905458-90112-0-89d098b1b955e347525e394c8ed9e45b,获取标题失败,成功
-2025-08-26 00:23:09,shizu36,http://tians.06kd.mlkj888.cn/s/shizu36,https://ocn6im4pu01o.feishu.cn/file/CIRmbIMkIorHKGx3xFdcGdj4nZR?from=from_copylink,跳过标题获取,成功
-2025-08-26 00:23:18,shizu37,http://tians.06kd.mlkj888.cn/s/shizu37,https://ocn6im4pu01o.feishu.cn/file/GlrwbF2ZgoMLwIxgBfFcIlAFnKe?from=from_copylink,跳过标题获取,成功
-2025-08-26 00:23:30,shizu38,http://tians.06kd.mlkj888.cn/s/shizu38,http://mtvod.meituan.net/save-video/UVniTkP0m-RmfQ4xXSdqs1K4R9O8sbnwpuMKj4SPjUg=_video.mp4?sign=1756627366-46012-0-006e4bb80e7b2e8df3bcaaa9f10c4c2d,跳过标题获取,成功
-2025-08-26 00:23:39,shizu39,http://tians.06kd.mlkj888.cn/s/shizu39,https://ocn6im4pu01o.feishu.cn/file/AcI9ba2tuoA2utxpR1yc6GprnRh?from=from_copylink,跳过标题获取,成功
-2025-08-26 00:23:49,shizu40,http://tians.06kd.mlkj888.cn/s/shizu40,触发反爬机制,N/A,需要重试
-2025-08-26 00:24:12,shizu40,http://tians.06kd.mlkj888.cn/s/shizu40,http://mtvod.meituan.net/save-video/Q5U3afTOkfRfSYtVPu6KqfSuKBmwvKimdTL5yH5aE8c=_video.mp4?sign=1756627493-64473-0-f781653515b3f496e83bd1c93e29383b,获取标题失败,成功
-2025-08-26 00:24:20,shizu41,http://tians.06kd.mlkj888.cn/s/shizu41,http://mtvod.meituan.net/save-video/OFbcJnke38jJlluAu-UqRAtDRAVQ7RfeqZmwG7QYJEg=_video.mp4?sign=1756641654-18518-0-27d10b50caa10b10e688c16aba9dbce2,跳过标题获取,成功
-2025-08-26 00:24:34,shizu42,http://tians.06kd.mlkj888.cn/s/shizu42,http://mtvod.meituan.net/save-video/ghhl_55ygh32rarj5IwthAD2AXoBh-I2MNQVZ3UZrRI=_video.mp4?sign=1756641729-7955-0-949484d15b5ea97406aca9577da57346,跳过标题获取,成功
-2025-08-26 00:24:42,shizu43,http://tians.06kd.mlkj888.cn/s/shizu43,https://ocn6im4pu01o.feishu.cn/file/SFsxbGGRAoBiNpx7vHOcXDXtnFc?from=from_copylink,跳过标题获取,成功
-2025-08-26 00:24:49,shizu44,http://tians.06kd.mlkj888.cn/s/shizu44,触发反爬机制,N/A,需要重试
-2025-08-26 00:25:13,shizu44,http://tians.06kd.mlkj888.cn/s/shizu44,http://mtvod-bd.meituan.net/save-video/icikNkUlvl0wHQ6M7kojS4GEwXyYdF7xZkfFN75xVE8=_video_compressed.mp4?sign=1756642125-12339-0-bc5c7b4377be2d3e3a858ab9039a180f,跳过标题获取,成功
-2025-08-26 00:25:19,shizu45,http://tians.06kd.mlkj888.cn/s/shizu45,触发反爬机制,N/A,需要重试
-2025-08-26 00:25:38,shizu45,http://tians.06kd.mlkj888.cn/s/shizu45,http://mtvod.meituan.net/save-video/EN2CAbe0n2fhIjkwH8_EKyvEKVgAnWeL6Kn9rhkNuSg=_video.mp4?sign=1756642176-30240-0-488af586aecc284bbe4bf5bc35a81b74,获取标题失败,成功
-2025-08-26 00:25:46,shizu46,http://tians.06kd.mlkj888.cn/s/shizu46,http://mtvod.meituan.net/save-video/iXb9MyUVo5HHgoiHMv5mDE-gFPd4Wg-Pi0aKmST-qBw=_video_compressed.mp4?sign=1756689748-97402-0-6a04f20e7b0b56dbb3e29a65126586ef,跳过标题获取,成功
-2025-08-26 00:26:00,shizu47,http://tians.06kd.mlkj888.cn/s/shizu47,触发反爬机制,N/A,需要重试
-2025-08-26 00:26:17,shizu47,http://tians.06kd.mlkj888.cn/s/shizu47,http://mtvod.meituan.net/save-video/86042yuXGpk04dC-iU8fAy3J9SKrlEvsN-BgCwYX6Mo=_video.mp4?sign=1756689798-43385-0-172e2d19970ea0af30893ea3901ff289,跳过标题获取,成功
-2025-08-26 00:26:30,shizu48,http://tians.06kd.mlkj888.cn/s/shizu48,http://mtvod.meituan.net/save-video/6xiBOhDTb3X87ACtwmPXcYm7hQczNp6XzNN4UmWgWzI=_video.mp4?sign=1756689856-67209-0-3e8565faa74684f1d7e4e4a7fd1d121e,跳过标题获取,成功
-2025-08-26 00:26:42,shizu49,http://tians.06kd.mlkj888.cn/s/shizu49,http://mtvod.meituan.net/save-video/z6yjp6ENRLHu8hUbNAVxmbiFRhym72Z462Nx7be55Do=_video.mp4?sign=1756689907-66095-0-9988ae372ae0d324aba3622358dc9264,跳过标题获取,成功
-2025-08-26 00:26:51,shizu50,http://tians.06kd.mlkj888.cn/s/shizu50,触发反爬机制,N/A,需要重试
-2025-08-26 00:27:19,shizu50,http://tians.06kd.mlkj888.cn/s/shizu50,http://mtvod.meituan.net/save-video/I2gd9jlKE23vYNRK0R9hA6M24-EQ1xIkG2TwIPbqDuQ=_video.mp4?sign=1756689964-80802-0-b939dbfea57a92d1c33621b5e74260bb,获取标题失败,成功
-2025-08-26 19:24:33,shizu1,http://tians.06kd.mlkj888.cn/s/shizu1,触发反爬机制,N/A,需要重试
-2025-08-26 19:25:04,shizu1,http://tians.06kd.mlkj888.cn/s/shizu1,http://mtvod.meituan.net/save-video/a6S7fFDRSv5fG4Wql89WB044OIvWNPJNQL97NacRO7U=_video_compressed.mp4?sign=1756990894-94291-0-8a0fdcdd9ef45fc29ffffdd3f07b4fc3,跳过标题获取,成功
-2025-08-26 19:25:10,shizu2,http://tians.06kd.mlkj888.cn/s/shizu2,触发反爬机制,N/A,需要重试
-2025-08-26 19:25:38,shizu2,http://tians.06kd.mlkj888.cn/s/shizu2,http://mtvod.meituan.net/save-video/3pKKiNTk-TuQXWZp-lc66Y2JIa0iw3vNFnW6wehW67w=_video_compressed.mp4?sign=1756990894-94291-0-7b7e2d36681b4edac418a658ca1f8589,跳过标题获取,成功
-2025-08-26 19:25:49,shizu3,http://tians.06kd.mlkj888.cn/s/shizu3,触发反爬机制,N/A,需要重试
-2025-08-26 19:26:14,shizu3,http://tians.06kd.mlkj888.cn/s/shizu3,http://mtvod.meituan.net/save-video/AFCZZENu1saRKum7RwxeYt9LljHMINUrzr6-l5TiwR0=_video_compressed.mp4?sign=1756990894-94291-0-8e7cb174fe7eae8802b9b1a2af4fba73,跳过标题获取,成功
-2025-08-26 19:26:21,shizu4,http://tians.06kd.mlkj888.cn/s/shizu4,触发反爬机制,N/A,需要重试
-2025-08-26 19:26:45,shizu4,http://tians.06kd.mlkj888.cn/s/shizu4,http://mtvod.meituan.net/save-video/qEXcwC1gyLX23PRY0Hh8YQCHVI79O6bTTt_xjZJdLVE=_video_compressed.mp4?sign=1756990894-94291-0-3e9154a53602703992a432dfc8dc801b,跳过标题获取,成功
-2025-08-26 19:26:58,shizu5,http://tians.06kd.mlkj888.cn/s/shizu5,触发反爬机制,N/A,需要重试
-2025-08-27 21:51:11,shizu5,http://tians.06kd.mlkj888.cn/s/shizu5,触发反爬机制,N/A,需要重试
-2025-08-27 21:51:38,shizu5,http://tians.06kd.mlkj888.cn/s/shizu5,http://mtvod.meituan.net/save-video/F94aSRSgPNuPHqqQUNDxRoFBtFOjluy5Uu8DjGYh2DQ=_video_compressed.mp4?sign=1756991050-42572-0-cccf27b2b7737abcd48e17910dde8200,无标题,成功
-2025-08-27 21:51:54,shizu6,http://tians.06kd.mlkj888.cn/s/shizu6,http://mtvod.meituan.net/save-video/2ko6ki24HMMgINtK8K2EJMAoPTwlXRQ-wErhkn_Zwu8=_video.mp4?sign=1756998307-4396-0-274ccfa6622dbc382f0522a6d00f80cb,跳过标题获取,成功
-2025-08-27 21:52:07,shizu7,http://tians.06kd.mlkj888.cn/s/shizu7,http://mtvod.meituan.net/save-video/wJb3421R85qTgbfVq-N6yHadG4ahn2FLpzMBQV4W8Ms=_video_compressed.mp4?sign=1756998486-51216-0-534d839a63af61fcf48328838d42ac6f,跳过标题获取,成功
-2025-08-27 21:52:14,shizu8,http://tians.06kd.mlkj888.cn/s/shizu8,http://mtvod.meituan.net/save-video/yt2DRQV2qvtu-3BJ-dke_h_KPlUGMzd-_mxXYfb8u1Y=_video_compressed.mp4?sign=1756998543-4712-0-3dd5922e1e6342df3f6eeca8fbfc8800,跳过标题获取,成功
-2025-08-27 21:52:26,shizu9,http://tians.06kd.mlkj888.cn/s/shizu9,http://mtvod.meituan.net/save-video/3m0Mzhv9TdC4j2kEZ_XsXGUn-wGULEPwnCzBqICCME4=_video.mp4?sign=1756998657-51222-0-d4be9fe1a08c9b36a5e01153aecbaf7d,跳过标题获取,成功
-2025-08-27 21:52:37,shizu10,http://tians.06kd.mlkj888.cn/s/shizu10,http://mtvod.meituan.net/save-video/DgbG5SXD9c48gUzT4XAhpjasLFZXhJhFaXyfeJNnOws=_video.mp4?sign=1756998706-16721-0-0ee33dedd58a1183f015b56da29449ba,无标题,成功
-2025-08-27 21:52:44,shizu11,http://tians.06kd.mlkj888.cn/s/shizu11,http://mtvod.meituan.net/save-video/xqdvrX0L8r6r0iuQvN30f-2l5ggxhNi7XNB2Xqlsy8Y=_video_compressed.mp4?sign=1757135327-32466-0-659dc237baf6ea035d336006e42564f4,跳过标题获取,成功
-2025-08-27 21:52:54,shizu12,http://tians.06kd.mlkj888.cn/s/shizu12,http://mtvod.meituan.net/save-video/cIL3oUgHqG-zwkEPbbT-3lnO8Ot3EFpg66BI56nv1I4=_video_compressed.mp4?sign=1757135327-32466-0-ee577d929caafef90c6d56f02de39ef3,跳过标题获取,成功
-2025-08-27 21:53:01,shizu13,http://tians.06kd.mlkj888.cn/s/shizu13,http://mtvod.meituan.net/save-video/2o9cdbUkDD8QDnFeXBaj9ugSNgbPaJDLfe_AH58W9O0=_video_compressed.mp4?sign=1757135327-32466-0-b2985c13c49bd7c20fd67e3b9e3a3963,跳过标题获取,成功
-2025-08-27 21:53:09,shizu14,http://tians.06kd.mlkj888.cn/s/shizu14,http://mtvod.meituan.net/save-video/FnPviTjL2TzjgYvDlZfWCJ5jKVDWQKbK5JwIw39sOxk=_video_compressed.mp4?sign=1757135327-32466-0-8b47da82c9cf32cf479ea6a8df8fde92,跳过标题获取,成功
-2025-08-27 21:53:20,shizu15,http://tians.06kd.mlkj888.cn/s/shizu15,触发反爬机制,N/A,需要重试
-2025-08-27 21:53:41,shizu15,http://tians.06kd.mlkj888.cn/s/shizu15,http://mtvod.meituan.net/save-video/AC-N2akGnrluAbMLjSnnWGRApgOhwyH9vZu-dFFevtE=_video_compressed.mp4?sign=1757135431-96034-0-ea74af95ca7c238d2fa2e97f2a512cf2,无标题,成功
-2025-08-27 21:53:56,shizu16,http://tians.06kd.mlkj888.cn/s/shizu16,http://mtvod.meituan.net/save-video/lSw5fQYdA5Gf9Jmtmo31QQw85FqQPJP1KM6nBjJ8FKQ=_video_compressed.mp4?sign=1757145102-1373-0-7ca0af562d55ddab46673df2e1c8a3cd,跳过标题获取,成功
-2025-08-27 21:54:11,shizu17,http://tians.06kd.mlkj888.cn/s/shizu17,触发反爬机制,N/A,需要重试
-2025-08-27 21:54:31,shizu17,http://tians.06kd.mlkj888.cn/s/shizu17,http://mtvod.meituan.net/save-video/2gJNqP-BMQ8lAtbXrPIvMRufXfB3xS68ZMGYXWfyY7Y=_video_compressed.mp4?sign=1757145171-81592-0-8be784b963442b3fb600b57d7e009475,跳过标题获取,成功
-2025-08-27 21:54:41,shizu18,http://tians.06kd.mlkj888.cn/s/shizu18,http://mtvod.meituan.net/save-video/tKyPqBEDsJKfENq2HJLbZPgYGgLNHlDuFlWoKBtkHXk=_video_compressed.mp4?sign=1757145213-37837-0-d1b0eeb5ff3be6f54f57a0d3083ccfc9,跳过标题获取,成功
-2025-08-27 21:54:52,shizu19,http://tians.06kd.mlkj888.cn/s/shizu19,http://mtvod.meituan.net/save-video/bUvTxxp78k2RTEG9BF-imQds7oJN9uU4ZxBjFATOwOU=_video.mp4?sign=1757145289-42949-0-f407a0f85bf3702848549aae76d94017,跳过标题获取,成功
-2025-08-27 21:54:59,shizu20,http://tians.06kd.mlkj888.cn/s/shizu20,触发反爬机制,N/A,需要重试
-2025-08-27 21:55:29,shizu20,http://tians.06kd.mlkj888.cn/s/shizu20,http://mtvod.meituan.net/save-video/UYQmcIT3WUEGWR_gvkcK7gjF1VdSfPW3tdHwx_hRWvc=_video.mp4?sign=1757145403-84446-0-9cf9a70b778c245300babd5ad395aae9,无标题,成功
-2025-08-27 21:55:45,shizu21,http://tians.06kd.mlkj888.cn/s/shizu21,触发反爬机制,N/A,需要重试
-2025-08-27 21:56:07,shizu21,http://tians.06kd.mlkj888.cn/s/shizu21,https://docs.qingque.cn/file/eZQCjghPUw5mlzkrWrurkQrn6,跳过标题获取,成功
-2025-08-27 21:56:22,shizu22,http://tians.06kd.mlkj888.cn/s/shizu22,触发反爬机制,N/A,需要重试
-2025-08-27 21:56:51,shizu22,http://tians.06kd.mlkj888.cn/s/shizu22,http://mtvod.meituan.net/save-video/DNx5pxMdiBcC-722taroTFAY-ixuonrsoSiVZeaPHVI=_video.mp4?sign=1756894977-59640-0-356ef9286ec835a6ac2f9b06a9ff2df3,跳过标题获取,成功
-2025-08-27 21:56:59,shizu23,http://tians.06kd.mlkj888.cn/s/shizu23,http://mtvod.meituan.net/save-video/or-p0qz3L3RAh2fd7rt25AXkc1haOsvYGKKQNvDLTVY=_video.mp4?sign=1756866780-25299-0-20edf8d8e85da89aa299f85d586ad458,跳过标题获取,成功
-2025-08-27 21:57:07,shizu24,http://tians.06kd.mlkj888.cn/s/shizu24,http://mtvod.meituan.net/save-video/iDhHrDjpWa4w05KfZs2hDrST-I516uST3e7F1HMCRBo=_video.mp4?sign=1756866780-25299-0-e6501acc03cd2aaf5847d9f943342c60,跳过标题获取,成功
-2025-08-27 21:57:21,shizu25,http://tians.06kd.mlkj888.cn/s/shizu25,https://docs.qingque.cn/d/home/eZQBUjFARpigaNf87b9rT_zwz,è½»éææ¡£,成功
-2025-08-27 21:57:35,shizu26,http://tians.06kd.mlkj888.cn/s/shizu26,http://mtvod.meituan.net/save-video/0yLQ8qA0yXKwhV1EqZuZw9wtueTN6aQZzQtrTlNKFfc=_video_compressed.mp4?sign=1756895354-40933-0-28c93c48597fb134d7d653c0a834ee88,跳过标题获取,成功
-2025-08-27 21:57:46,shizu27,http://tians.06kd.mlkj888.cn/s/shizu27,http://mtvod.meituan.net/save-video/fDVDU4OiZBTX-ijXwVoodqC5YndKpw9J3R8Rzzl9qJY=_video_compressed.mp4?sign=1756895354-40933-0-d6b5793009df6a1be7e156ce79047a08,跳过标题获取,成功
-2025-08-27 21:57:54,shizu28,http://tians.06kd.mlkj888.cn/s/shizu28,http://mtvod.meituan.net/save-video/GupPJtKUvu5-1kDNUP0w82lPRjfJrB-DohXQKm1OInM=_video_compressed.mp4?sign=1756895354-40933-0-581dc39fc4ccf67c3be5c548985f770e,跳过标题获取,成功
-2025-08-27 21:58:00,shizu29,http://tians.06kd.mlkj888.cn/s/shizu29,http://mtvod.meituan.net/save-video/G-Jrakgo8pPIoRsyasyO0yW4Cey9pUsWfMePg-1H-Hk=_video_compressed.mp4?sign=1756895472-28946-0-c7300d520096050fc890650ffe9a40e3,跳过标题获取,成功
-2025-08-27 21:58:14,shizu30,http://tians.06kd.mlkj888.cn/s/shizu30,触发反爬机制,N/A,需要重试
-2025-08-27 21:58:34,shizu30,http://tians.06kd.mlkj888.cn/s/shizu30,http://mtvod.meituan.net/save-video/qkz0PgfDJZCqkDdV59ladWqScv1lw3eE7BqZsh73gRQ=_video_compressed.mp4?sign=1756895472-28946-0-1c65a81ed7f87eb886340b6b646bda21,获取标题失败,成功
-2025-08-27 21:58:42,shizu31,http://tians.06kd.mlkj888.cn/s/shizu31,http://mtvod.meituan.net/save-video/8-REHTUMsYYQKSrIyYHtAjb76kxLL3_IeFVMQFjlyes=_video_compressed.mp4?sign=1756905117-16068-0-f327060618cc28d84caeef83f7e8ed94,跳过标题获取,成功
-2025-08-27 21:58:55,shizu32,http://tians.06kd.mlkj888.cn/s/shizu32,http://mtvod.meituan.net/save-video/arNSvCZgewLdmi--Yk2I3UuMvThyQ3W4qs6lOx42IkA=_video_compressed.mp4?sign=1756905151-25977-0-1b0cb877c4ece34bb9b64b6b9f48d307,跳过标题获取,成功
-2025-08-27 21:59:03,shizu33,http://tians.06kd.mlkj888.cn/s/shizu33,http://mtvod.meituan.net/save-video/xb_vpxCBumuHQpO6ae9HgDQyFfzyEemba0dHe5xhdVI=_video_compressed.mp4?sign=1756905260-15025-0-dd829ca18fc1f0e0abaac70302491277,跳过标题获取,成功
-2025-08-27 21:59:14,shizu34,http://tians.06kd.mlkj888.cn/s/shizu34,http://mtvod.meituan.net/save-video/mXa52onoCCMRLL_97Wj76JGWl4i7KtfK_o-C50sogLk=_video.mp4?sign=1756905260-15025-0-09bbd46e83865c8e47e31be17b5944c0,跳过标题获取,成功
-2025-08-27 21:59:24,shizu35,http://tians.06kd.mlkj888.cn/s/shizu35,http://mtvod.meituan.net/save-video/fNJV6EbtG-7_sC3oSDUtGQqr_jVnso1_Fc-SKMDBL2U=_video.mp4?sign=1756905458-90112-0-89d098b1b955e347525e394c8ed9e45b,获取标题失败,成功
-2025-08-27 21:59:33,shizu36,http://tians.06kd.mlkj888.cn/s/shizu36,https://ocn6im4pu01o.feishu.cn/file/CIRmbIMkIorHKGx3xFdcGdj4nZR?from=from_copylink,跳过标题获取,成功
-2025-08-27 21:59:44,shizu37,http://tians.06kd.mlkj888.cn/s/shizu37,触发反爬机制,N/A,需要重试
-2025-08-27 22:00:06,shizu37,http://tians.06kd.mlkj888.cn/s/shizu37,https://ocn6im4pu01o.feishu.cn/file/GlrwbF2ZgoMLwIxgBfFcIlAFnKe?from=from_copylink,跳过标题获取,成功
-2025-08-27 22:00:14,shizu38,http://tians.06kd.mlkj888.cn/s/shizu38,http://mtvod.meituan.net/save-video/UVniTkP0m-RmfQ4xXSdqs1K4R9O8sbnwpuMKj4SPjUg=_video.mp4?sign=1756627366-46012-0-006e4bb80e7b2e8df3bcaaa9f10c4c2d,跳过标题获取,成功
-2025-08-27 22:00:24,shizu39,http://tians.06kd.mlkj888.cn/s/shizu39,https://ocn6im4pu01o.feishu.cn/file/AcI9ba2tuoA2utxpR1yc6GprnRh?from=from_copylink,跳过标题获取,成功
-2025-08-27 22:00:31,shizu40,http://tians.06kd.mlkj888.cn/s/shizu40,触发反爬机制,N/A,需要重试
-2025-08-27 22:00:56,shizu40,http://tians.06kd.mlkj888.cn/s/shizu40,http://mtvod.meituan.net/save-video/Q5U3afTOkfRfSYtVPu6KqfSuKBmwvKimdTL5yH5aE8c=_video.mp4?sign=1756627493-64473-0-f781653515b3f496e83bd1c93e29383b,获取标题失败,成功
-2025-08-27 22:01:01,shizu41,http://tians.06kd.mlkj888.cn/s/shizu41,http://mtvod.meituan.net/save-video/OFbcJnke38jJlluAu-UqRAtDRAVQ7RfeqZmwG7QYJEg=_video.mp4?sign=1756641654-18518-0-27d10b50caa10b10e688c16aba9dbce2,跳过标题获取,成功
-2025-08-27 22:01:14,shizu42,http://tians.06kd.mlkj888.cn/s/shizu42,http://mtvod.meituan.net/save-video/ghhl_55ygh32rarj5IwthAD2AXoBh-I2MNQVZ3UZrRI=_video.mp4?sign=1756641729-7955-0-949484d15b5ea97406aca9577da57346,跳过标题获取,成功
-2025-08-27 22:01:22,shizu43,http://tians.06kd.mlkj888.cn/s/shizu43,https://ocn6im4pu01o.feishu.cn/file/SFsxbGGRAoBiNpx7vHOcXDXtnFc?from=from_copylink,跳过标题获取,成功
-2025-08-27 22:01:36,shizu44,http://tians.06kd.mlkj888.cn/s/shizu44,触发反爬机制,N/A,需要重试
-2025-08-27 22:01:58,shizu44,http://tians.06kd.mlkj888.cn/s/shizu44,http://mtvod-bd.meituan.net/save-video/icikNkUlvl0wHQ6M7kojS4GEwXyYdF7xZkfFN75xVE8=_video_compressed.mp4?sign=1756642125-12339-0-bc5c7b4377be2d3e3a858ab9039a180f,跳过标题获取,成功
-2025-08-27 22:02:10,shizu45,http://tians.06kd.mlkj888.cn/s/shizu45,触发反爬机制,N/A,需要重试
-2025-08-27 22:02:26,shizu45,http://tians.06kd.mlkj888.cn/s/shizu45,http://mtvod.meituan.net/save-video/EN2CAbe0n2fhIjkwH8_EKyvEKVgAnWeL6Kn9rhkNuSg=_video.mp4?sign=1756642176-30240-0-488af586aecc284bbe4bf5bc35a81b74,获取标题失败,成功
-2025-08-27 22:02:39,shizu46,http://tians.06kd.mlkj888.cn/s/shizu46,http://mtvod.meituan.net/save-video/iXb9MyUVo5HHgoiHMv5mDE-gFPd4Wg-Pi0aKmST-qBw=_video_compressed.mp4?sign=1756689748-97402-0-6a04f20e7b0b56dbb3e29a65126586ef,跳过标题获取,成功
-2025-08-27 22:02:53,shizu47,http://tians.06kd.mlkj888.cn/s/shizu47,触发反爬机制,N/A,需要重试
-2025-08-27 22:03:17,shizu47,http://tians.06kd.mlkj888.cn/s/shizu47,http://mtvod.meituan.net/save-video/86042yuXGpk04dC-iU8fAy3J9SKrlEvsN-BgCwYX6Mo=_video.mp4?sign=1756689798-43385-0-172e2d19970ea0af30893ea3901ff289,跳过标题获取,成功
-2025-08-27 22:03:27,shizu48,http://tians.06kd.mlkj888.cn/s/shizu48,http://mtvod.meituan.net/save-video/6xiBOhDTb3X87ACtwmPXcYm7hQczNp6XzNN4UmWgWzI=_video.mp4?sign=1756689856-67209-0-3e8565faa74684f1d7e4e4a7fd1d121e,跳过标题获取,成功
-2025-08-27 22:03:33,shizu49,http://tians.06kd.mlkj888.cn/s/shizu49,http://mtvod.meituan.net/save-video/z6yjp6ENRLHu8hUbNAVxmbiFRhym72Z462Nx7be55Do=_video.mp4?sign=1756689907-66095-0-9988ae372ae0d324aba3622358dc9264,跳过标题获取,成功
-2025-08-27 22:03:42,shizu50,http://tians.06kd.mlkj888.cn/s/shizu50,http://mtvod.meituan.net/save-video/I2gd9jlKE23vYNRK0R9hA6M24-EQ1xIkG2TwIPbqDuQ=_video.mp4?sign=1756689964-80802-0-b939dbfea57a92d1c33621b5e74260bb,获取标题失败,成功
+=== 网站跳转结果记录 ===
+
+时间戳: 2025-08-28 15:00:01
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu1
+跳转网站: http://mtvod.meituan.net/save-video/test1.mp4
+shizu编号: shizu1
+---
+时间戳: 2025-08-28 15:00:15
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu2
+跳转网站: 触发反爬机制
+shizu编号: shizu2
+---
+时间戳: 2025-08-28 15:00:30
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu3
+跳转网站: http://mtvod.meituan.net/save-video/test3.mp4
+shizu编号: shizu3
+---
+时间戳: 2025-08-28 00:49:00
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu1
+跳转网站: http://mtvod.meituan.net/save-video/a6S7fFDRSv5fG4Wql89WB044OIvWNPJNQL97NacRO7U=_video_compressed.mp4?sign=1756990894-94291-0-8a0fdcdd9ef45fc29ffffdd3f07b4fc3
+shizu编号: shizu1
+---
+时间戳: 2025-08-28 00:49:11
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu2
+跳转网站: 触发反爬机制
+shizu编号: shizu2
+---
+时间戳: 2025-08-28 00:49:39
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu2
+跳转网站: http://mtvod.meituan.net/save-video/3pKKiNTk-TuQXWZp-lc66Y2JIa0iw3vNFnW6wehW67w=_video_compressed.mp4?sign=1756990894-94291-0-7b7e2d36681b4edac418a658ca1f8589
+shizu编号: shizu2
+---
+时间戳: 2025-08-28 00:49:51
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu3
+跳转网站: http://mtvod.meituan.net/save-video/AFCZZENu1saRKum7RwxeYt9LljHMINUrzr6-l5TiwR0=_video_compressed.mp4?sign=1756990894-94291-0-8e7cb174fe7eae8802b9b1a2af4fba73
+shizu编号: shizu3
+---
+时间戳: 2025-08-28 00:50:06
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu4
+跳转网站: http://mtvod.meituan.net/save-video/qEXcwC1gyLX23PRY0Hh8YQCHVI79O6bTTt_xjZJdLVE=_video_compressed.mp4?sign=1756990894-94291-0-3e9154a53602703992a432dfc8dc801b
+shizu编号: shizu4
+---
+时间戳: 2025-08-28 00:50:15
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu5
+跳转网站: 触发反爬机制
+shizu编号: shizu5
+---
+时间戳: 2025-08-28 00:50:42
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu5
+跳转网站: http://mtvod.meituan.net/save-video/F94aSRSgPNuPHqqQUNDxRoFBtFOjluy5Uu8DjGYh2DQ=_video_compressed.mp4?sign=1756991050-42572-0-cccf27b2b7737abcd48e17910dde8200
+shizu编号: shizu5
+---
+时间戳: 2025-08-28 00:51:00
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu6
+跳转网站: 触发反爬机制
+shizu编号: shizu6
+---
+时间戳: 2025-08-28 00:51:24
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu6
+跳转网站: http://mtvod.meituan.net/save-video/2ko6ki24HMMgINtK8K2EJMAoPTwlXRQ-wErhkn_Zwu8=_video.mp4?sign=1756998307-4396-0-274ccfa6622dbc382f0522a6d00f80cb
+shizu编号: shizu6
+---
+时间戳: 2025-08-28 00:51:38
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu7
+跳转网站: 触发反爬机制
+shizu编号: shizu7
+---
+时间戳: 2025-08-28 00:51:58
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu7
+跳转网站: http://mtvod.meituan.net/save-video/wJb3421R85qTgbfVq-N6yHadG4ahn2FLpzMBQV4W8Ms=_video_compressed.mp4?sign=1756998486-51216-0-534d839a63af61fcf48328838d42ac6f
+shizu编号: shizu7
+---
+时间戳: 2025-08-28 00:52:06
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu8
+跳转网站: 触发反爬机制
+shizu编号: shizu8
+---
+时间戳: 2025-08-28 00:52:32
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu8
+跳转网站: http://mtvod.meituan.net/save-video/yt2DRQV2qvtu-3BJ-dke_h_KPlUGMzd-_mxXYfb8u1Y=_video_compressed.mp4?sign=1756998543-4712-0-3dd5922e1e6342df3f6eeca8fbfc8800
+shizu编号: shizu8
+---
+时间戳: 2025-08-28 00:52:39
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu9
+跳转网站: 触发反爬机制
+shizu编号: shizu9
+---
+时间戳: 2025-08-28 00:52:56
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu9
+跳转网站: http://mtvod.meituan.net/save-video/3m0Mzhv9TdC4j2kEZ_XsXGUn-wGULEPwnCzBqICCME4=_video.mp4?sign=1756998657-51222-0-d4be9fe1a08c9b36a5e01153aecbaf7d
+shizu编号: shizu9
+---
+时间戳: 2025-08-28 00:53:08
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu10
+跳转网站: 触发反爬机制
+shizu编号: shizu10
+---
+时间戳: 2025-08-28 00:53:27
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu10
+跳转网站: http://mtvod.meituan.net/save-video/DgbG5SXD9c48gUzT4XAhpjasLFZXhJhFaXyfeJNnOws=_video.mp4?sign=1756998706-16721-0-0ee33dedd58a1183f015b56da29449ba
+shizu编号: shizu10
+---
+时间戳: 2025-08-28 00:53:39
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu11
+跳转网站: 触发反爬机制
+shizu编号: shizu11
+---
+时间戳: 2025-08-28 00:53:55
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu11
+跳转网站: http://mtvod.meituan.net/save-video/xqdvrX0L8r6r0iuQvN30f-2l5ggxhNi7XNB2Xqlsy8Y=_video_compressed.mp4?sign=1757135327-32466-0-659dc237baf6ea035d336006e42564f4
+shizu编号: shizu11
+---
+时间戳: 2025-08-28 00:54:01
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu12
+跳转网站: 触发反爬机制
+shizu编号: shizu12
+---
+时间戳: 2025-08-28 00:54:30
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu12
+跳转网站: http://mtvod.meituan.net/save-video/cIL3oUgHqG-zwkEPbbT-3lnO8Ot3EFpg66BI56nv1I4=_video_compressed.mp4?sign=1757135327-32466-0-ee577d929caafef90c6d56f02de39ef3
+shizu编号: shizu12
+---
+时间戳: 2025-08-28 00:54:40
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu13
+跳转网站: 触发反爬机制
+shizu编号: shizu13
+---
+时间戳: 2025-08-28 00:55:02
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu13
+跳转网站: http://mtvod.meituan.net/save-video/2o9cdbUkDD8QDnFeXBaj9ugSNgbPaJDLfe_AH58W9O0=_video_compressed.mp4?sign=1757135327-32466-0-b2985c13c49bd7c20fd67e3b9e3a3963
+shizu编号: shizu13
+---
+时间戳: 2025-08-28 00:55:08
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu14
+跳转网站: 触发反爬机制
+shizu编号: shizu14
+---
+时间戳: 2025-08-28 00:55:36
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu14
+跳转网站: http://mtvod.meituan.net/save-video/FnPviTjL2TzjgYvDlZfWCJ5jKVDWQKbK5JwIw39sOxk=_video_compressed.mp4?sign=1757135327-32466-0-8b47da82c9cf32cf479ea6a8df8fde92
+shizu编号: shizu14
+---
+时间戳: 2025-08-28 00:55:50
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu15
+跳转网站: 触发反爬机制
+shizu编号: shizu15
+---
+时间戳: 2025-08-28 00:56:13
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu15
+跳转网站: http://mtvod.meituan.net/save-video/AC-N2akGnrluAbMLjSnnWGRApgOhwyH9vZu-dFFevtE=_video_compressed.mp4?sign=1757135431-96034-0-ea74af95ca7c238d2fa2e97f2a512cf2
+shizu编号: shizu15
+---
+时间戳: 2025-08-28 00:56:22
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu16
+跳转网站: 触发反爬机制
+shizu编号: shizu16
+---
+时间戳: 2025-08-28 00:56:43
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu16
+跳转网站: http://mtvod.meituan.net/save-video/lSw5fQYdA5Gf9Jmtmo31QQw85FqQPJP1KM6nBjJ8FKQ=_video_compressed.mp4?sign=1757145102-1373-0-7ca0af562d55ddab46673df2e1c8a3cd
+shizu编号: shizu16
+---
+时间戳: 2025-08-28 00:56:57
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu17
+跳转网站: 触发反爬机制
+shizu编号: shizu17
+---
+时间戳: 2025-08-28 00:57:21
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu17
+跳转网站: http://mtvod.meituan.net/save-video/2gJNqP-BMQ8lAtbXrPIvMRufXfB3xS68ZMGYXWfyY7Y=_video_compressed.mp4?sign=1757145171-81592-0-8be784b963442b3fb600b57d7e009475
+shizu编号: shizu17
+---
+时间戳: 2025-08-28 00:57:29
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu18
+跳转网站: 触发反爬机制
+shizu编号: shizu18
+---
+时间戳: 2025-08-28 00:57:57
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu18
+跳转网站: http://mtvod.meituan.net/save-video/tKyPqBEDsJKfENq2HJLbZPgYGgLNHlDuFlWoKBtkHXk=_video_compressed.mp4?sign=1757145213-37837-0-d1b0eeb5ff3be6f54f57a0d3083ccfc9
+shizu编号: shizu18
+---
+时间戳: 2025-08-28 00:58:09
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu19
+跳转网站: 触发反爬机制
+shizu编号: shizu19
+---
+时间戳: 2025-08-28 00:58:24
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu19
+跳转网站: http://mtvod.meituan.net/save-video/bUvTxxp78k2RTEG9BF-imQds7oJN9uU4ZxBjFATOwOU=_video.mp4?sign=1757145289-42949-0-f407a0f85bf3702848549aae76d94017
+shizu编号: shizu19
+---
+时间戳: 2025-08-28 00:58:36
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu20
+跳转网站: 触发反爬机制
+shizu编号: shizu20
+---
+时间戳: 2025-08-28 00:58:57
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu20
+跳转网站: http://mtvod.meituan.net/save-video/UYQmcIT3WUEGWR_gvkcK7gjF1VdSfPW3tdHwx_hRWvc=_video.mp4?sign=1757145403-84446-0-9cf9a70b778c245300babd5ad395aae9
+shizu编号: shizu20
+---
+时间戳: 2025-08-28 00:59:10
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu21
+跳转网站: 触发反爬机制
+shizu编号: shizu21
+---
+时间戳: 2025-08-28 00:59:37
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu21
+跳转网站: https://docs.qingque.cn/file/eZQCjghPUw5mlzkrWrurkQrn6
+shizu编号: shizu21
+---
+时间戳: 2025-08-28 00:59:45
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu22
+跳转网站: 触发反爬机制
+shizu编号: shizu22
+---
+时间戳: 2025-08-28 01:00:06
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu22
+跳转网站: http://mtvod.meituan.net/save-video/DNx5pxMdiBcC-722taroTFAY-ixuonrsoSiVZeaPHVI=_video.mp4?sign=1756894977-59640-0-356ef9286ec835a6ac2f9b06a9ff2df3
+shizu编号: shizu22
+---
+时间戳: 2025-08-28 01:00:19
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu23
+跳转网站: 触发反爬机制
+shizu编号: shizu23
+---
+时间戳: 2025-08-28 01:00:43
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu23
+跳转网站: http://mtvod.meituan.net/save-video/or-p0qz3L3RAh2fd7rt25AXkc1haOsvYGKKQNvDLTVY=_video.mp4?sign=1756866780-25299-0-20edf8d8e85da89aa299f85d586ad458
+shizu编号: shizu23
+---
+时间戳: 2025-08-28 01:00:58
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu24
+跳转网站: 触发反爬机制
+shizu编号: shizu24
+---
+时间戳: 2025-08-28 01:01:24
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu24
+跳转网站: http://mtvod.meituan.net/save-video/iDhHrDjpWa4w05KfZs2hDrST-I516uST3e7F1HMCRBo=_video.mp4?sign=1756866780-25299-0-e6501acc03cd2aaf5847d9f943342c60
+shizu编号: shizu24
+---
+时间戳: 2025-08-28 01:01:36
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu25
+跳转网站: 触发反爬机制
+shizu编号: shizu25
+---
+时间戳: 2025-08-28 01:02:06
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu25
+跳转网站: https://docs.qingque.cn/d/home/eZQBUjFARpigaNf87b9rT_zwz
+shizu编号: shizu25
+---
+时间戳: 2025-08-28 01:02:21
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu26
+跳转网站: 触发反爬机制
+shizu编号: shizu26
+---
+时间戳: 2025-08-28 01:02:47
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu26
+跳转网站: http://mtvod.meituan.net/save-video/0yLQ8qA0yXKwhV1EqZuZw9wtueTN6aQZzQtrTlNKFfc=_video_compressed.mp4?sign=1756895354-40933-0-28c93c48597fb134d7d653c0a834ee88
+shizu编号: shizu26
+---
+时间戳: 2025-08-28 01:02:56
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu27
+跳转网站: 触发反爬机制
+shizu编号: shizu27
+---
+时间戳: 2025-08-28 01:03:17
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu27
+跳转网站: http://mtvod.meituan.net/save-video/fDVDU4OiZBTX-ijXwVoodqC5YndKpw9J3R8Rzzl9qJY=_video_compressed.mp4?sign=1756895354-40933-0-d6b5793009df6a1be7e156ce79047a08
+shizu编号: shizu27
+---
+时间戳: 2025-08-28 01:03:29
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu28
+跳转网站: 触发反爬机制
+shizu编号: shizu28
+---
+时间戳: 2025-08-28 01:03:56
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu28
+跳转网站: http://mtvod.meituan.net/save-video/GupPJtKUvu5-1kDNUP0w82lPRjfJrB-DohXQKm1OInM=_video_compressed.mp4?sign=1756895354-40933-0-581dc39fc4ccf67c3be5c548985f770e
+shizu编号: shizu28
+---
+时间戳: 2025-08-28 01:04:04
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu29
+跳转网站: 触发反爬机制
+shizu编号: shizu29
+---
+时间戳: 2025-08-28 01:04:22
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu29
+跳转网站: http://mtvod.meituan.net/save-video/G-Jrakgo8pPIoRsyasyO0yW4Cey9pUsWfMePg-1H-Hk=_video_compressed.mp4?sign=1756895472-28946-0-c7300d520096050fc890650ffe9a40e3
+shizu编号: shizu29
+---
+时间戳: 2025-08-28 01:04:30
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu30
+跳转网站: 触发反爬机制
+shizu编号: shizu30
+---
+时间戳: 2025-08-28 01:04:49
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu30
+跳转网站: http://mtvod.meituan.net/save-video/qkz0PgfDJZCqkDdV59ladWqScv1lw3eE7BqZsh73gRQ=_video_compressed.mp4?sign=1756895472-28946-0-1c65a81ed7f87eb886340b6b646bda21
+shizu编号: shizu30
+---
+时间戳: 2025-08-28 01:05:04
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu31
+跳转网站: 触发反爬机制
+shizu编号: shizu31
+---
+时间戳: 2025-08-28 01:05:29
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu31
+跳转网站: http://mtvod.meituan.net/save-video/8-REHTUMsYYQKSrIyYHtAjb76kxLL3_IeFVMQFjlyes=_video_compressed.mp4?sign=1756905117-16068-0-f327060618cc28d84caeef83f7e8ed94
+shizu编号: shizu31
+---
+时间戳: 2025-08-28 01:05:40
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu32
+跳转网站: 触发反爬机制
+shizu编号: shizu32
+---
+时间戳: 2025-08-28 01:05:58
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu32
+跳转网站: http://mtvod.meituan.net/save-video/arNSvCZgewLdmi--Yk2I3UuMvThyQ3W4qs6lOx42IkA=_video_compressed.mp4?sign=1756905151-25977-0-1b0cb877c4ece34bb9b64b6b9f48d307
+shizu编号: shizu32
+---
+时间戳: 2025-08-28 01:06:05
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu33
+跳转网站: 触发反爬机制
+shizu编号: shizu33
+---
+时间戳: 2025-08-28 01:06:31
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu33
+跳转网站: http://mtvod.meituan.net/save-video/xb_vpxCBumuHQpO6ae9HgDQyFfzyEemba0dHe5xhdVI=_video_compressed.mp4?sign=1756905260-15025-0-dd829ca18fc1f0e0abaac70302491277
+shizu编号: shizu33
+---
+时间戳: 2025-08-28 01:06:36
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu34
+跳转网站: 触发反爬机制
+shizu编号: shizu34
+---
+时间戳: 2025-08-28 01:07:04
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu34
+跳转网站: http://mtvod.meituan.net/save-video/mXa52onoCCMRLL_97Wj76JGWl4i7KtfK_o-C50sogLk=_video.mp4?sign=1756905260-15025-0-09bbd46e83865c8e47e31be17b5944c0
+shizu编号: shizu34
+---
+时间戳: 2025-08-28 01:07:11
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu35
+跳转网站: 触发反爬机制
+shizu编号: shizu35
+---
+时间戳: 2025-08-28 01:07:27
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu35
+跳转网站: http://mtvod.meituan.net/save-video/fNJV6EbtG-7_sC3oSDUtGQqr_jVnso1_Fc-SKMDBL2U=_video.mp4?sign=1756905458-90112-0-89d098b1b955e347525e394c8ed9e45b
+shizu编号: shizu35
+---
+时间戳: 2025-08-28 01:07:38
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu36
+跳转网站: 触发反爬机制
+shizu编号: shizu36
+---
+时间戳: 2025-08-28 01:07:57
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu36
+跳转网站: https://ocn6im4pu01o.feishu.cn/file/CIRmbIMkIorHKGx3xFdcGdj4nZR?from=from_copylink
+shizu编号: shizu36
+---
+时间戳: 2025-08-28 01:08:03
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu37
+跳转网站: 触发反爬机制
+shizu编号: shizu37
+---
+时间戳: 2025-08-28 01:08:31
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu37
+跳转网站: https://ocn6im4pu01o.feishu.cn/file/GlrwbF2ZgoMLwIxgBfFcIlAFnKe?from=from_copylink
+shizu编号: shizu37
+---
+时间戳: 2025-08-28 01:08:39
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu38
+跳转网站: 触发反爬机制
+shizu编号: shizu38
+---
+时间戳: 2025-08-28 01:09:02
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu38
+跳转网站: http://mtvod.meituan.net/save-video/UVniTkP0m-RmfQ4xXSdqs1K4R9O8sbnwpuMKj4SPjUg=_video.mp4?sign=1756627366-46012-0-006e4bb80e7b2e8df3bcaaa9f10c4c2d
+shizu编号: shizu38
+---
+时间戳: 2025-08-28 01:09:08
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu39
+跳转网站: 触发反爬机制
+shizu编号: shizu39
+---
+时间戳: 2025-08-28 01:09:24
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu39
+跳转网站: https://ocn6im4pu01o.feishu.cn/file/AcI9ba2tuoA2utxpR1yc6GprnRh?from=from_copylink
+shizu编号: shizu39
+---
+时间戳: 2025-08-28 01:09:35
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu40
+跳转网站: 触发反爬机制
+shizu编号: shizu40
+---
+时间戳: 2025-08-28 01:09:54
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu40
+跳转网站: http://mtvod.meituan.net/save-video/Q5U3afTOkfRfSYtVPu6KqfSuKBmwvKimdTL5yH5aE8c=_video.mp4?sign=1756627493-64473-0-f781653515b3f496e83bd1c93e29383b
+shizu编号: shizu40
+---
+时间戳: 2025-08-28 01:10:01
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu41
+跳转网站: 触发反爬机制
+shizu编号: shizu41
+---
+时间戳: 2025-08-28 01:10:23
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu41
+跳转网站: http://mtvod.meituan.net/save-video/OFbcJnke38jJlluAu-UqRAtDRAVQ7RfeqZmwG7QYJEg=_video.mp4?sign=1756641654-18518-0-27d10b50caa10b10e688c16aba9dbce2
+shizu编号: shizu41
+---
+时间戳: 2025-08-28 01:10:35
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu42
+跳转网站: 触发反爬机制
+shizu编号: shizu42
+---
+时间戳: 2025-08-28 01:11:02
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu42
+跳转网站: http://mtvod.meituan.net/save-video/ghhl_55ygh32rarj5IwthAD2AXoBh-I2MNQVZ3UZrRI=_video.mp4?sign=1756641729-7955-0-949484d15b5ea97406aca9577da57346
+shizu编号: shizu42
+---
+时间戳: 2025-08-28 01:11:12
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu43
+跳转网站: 触发反爬机制
+shizu编号: shizu43
+---
+时间戳: 2025-08-28 01:11:28
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu43
+跳转网站: https://ocn6im4pu01o.feishu.cn/file/SFsxbGGRAoBiNpx7vHOcXDXtnFc?from=from_copylink
+shizu编号: shizu43
+---
+时间戳: 2025-08-28 01:11:35
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu44
+跳转网站: 触发反爬机制
+shizu编号: shizu44
+---
+时间戳: 2025-08-28 01:11:53
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu44
+跳转网站: http://mtvod-bd.meituan.net/save-video/icikNkUlvl0wHQ6M7kojS4GEwXyYdF7xZkfFN75xVE8=_video_compressed.mp4?sign=1756642125-12339-0-bc5c7b4377be2d3e3a858ab9039a180f
+shizu编号: shizu44
+---
+时间戳: 2025-08-28 01:12:02
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu45
+跳转网站: 触发反爬机制
+shizu编号: shizu45
+---
+时间戳: 2025-08-28 01:12:25
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu45
+跳转网站: http://mtvod.meituan.net/save-video/EN2CAbe0n2fhIjkwH8_EKyvEKVgAnWeL6Kn9rhkNuSg=_video.mp4?sign=1756642176-30240-0-488af586aecc284bbe4bf5bc35a81b74
+shizu编号: shizu45
+---
+时间戳: 2025-08-28 01:12:30
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu46
+跳转网站: 触发反爬机制
+shizu编号: shizu46
+---
+时间戳: 2025-08-28 01:12:55
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu46
+跳转网站: http://mtvod.meituan.net/save-video/iXb9MyUVo5HHgoiHMv5mDE-gFPd4Wg-Pi0aKmST-qBw=_video_compressed.mp4?sign=1756689748-97402-0-6a04f20e7b0b56dbb3e29a65126586ef
+shizu编号: shizu46
+---
+时间戳: 2025-08-28 01:13:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu47
+跳转网站: 触发反爬机制
+shizu编号: shizu47
+---
+时间戳: 2025-08-28 01:13:25
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu47
+跳转网站: http://mtvod.meituan.net/save-video/86042yuXGpk04dC-iU8fAy3J9SKrlEvsN-BgCwYX6Mo=_video.mp4?sign=1756689798-43385-0-172e2d19970ea0af30893ea3901ff289
+shizu编号: shizu47
+---
+时间戳: 2025-08-28 01:13:38
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu48
+跳转网站: 触发反爬机制
+shizu编号: shizu48
+---
+时间戳: 2025-08-28 01:14:04
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu48
+跳转网站: http://mtvod.meituan.net/save-video/6xiBOhDTb3X87ACtwmPXcYm7hQczNp6XzNN4UmWgWzI=_video.mp4?sign=1756689856-67209-0-3e8565faa74684f1d7e4e4a7fd1d121e
+shizu编号: shizu48
+---
+时间戳: 2025-08-28 01:14:17
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu49
+跳转网站: 触发反爬机制
+shizu编号: shizu49
+---
+时间戳: 2025-08-28 01:14:44
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu49
+跳转网站: http://mtvod.meituan.net/save-video/z6yjp6ENRLHu8hUbNAVxmbiFRhym72Z462Nx7be55Do=_video.mp4?sign=1756689907-66095-0-9988ae372ae0d324aba3622358dc9264
+shizu编号: shizu49
+---
+时间戳: 2025-08-28 01:14:54
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu50
+跳转网站: 触发反爬机制
+shizu编号: shizu50
+---
+时间戳: 2025-08-28 01:15:11
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu50
+跳转网站: http://mtvod.meituan.net/save-video/I2gd9jlKE23vYNRK0R9hA6M24-EQ1xIkG2TwIPbqDuQ=_video.mp4?sign=1756689964-80802-0-b939dbfea57a92d1c33621b5e74260bb
+shizu编号: shizu50
+---
+时间戳: 2025-08-28 02:08:00
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu1
+跳转网站: 触发反爬机制
+shizu编号: shizu1
+---
+时间戳: 2025-08-28 02:08:15
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu1
+跳转网站: http://mtvod.meituan.net/save-video/a6S7fFDRSv5fG4Wql89WB044OIvWNPJNQL97NacRO7U=_video_compressed.mp4?sign=1756990894-94291-0-8a0fdcdd9ef45fc29ffffdd3f07b4fc3
+shizu编号: shizu1
+---
+时间戳: 2025-08-28 02:08:29
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu2
+跳转网站: 触发反爬机制
+shizu编号: shizu2
+---
