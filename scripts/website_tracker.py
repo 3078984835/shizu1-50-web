@@ -101,10 +101,38 @@ class NetworkUtils:
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
     ]
     
+    # 反爬机制检测规则
+    ANTI_CRAWL_PATTERNS = [
+        "v.qq.com/txp/iframe/player.html",  # 腾讯视频反爬
+        "mtvod.meituan.net/save-video",     # 美团视频反爬
+    ]
+    
     @staticmethod
     def get_random_user_agent() -> str:
         """获取随机用户代理"""
         return random.choice(NetworkUtils.USER_AGENTS)
+    
+    @staticmethod
+    def is_anti_crawl_url(url: str) -> bool:
+        """检测是否为反爬机制URL"""
+        if not url:
+            return False
+        
+        for pattern in NetworkUtils.ANTI_CRAWL_PATTERNS:
+            if pattern in url:
+                logging.info(f"匹配到反爬模式: {pattern} -> {url}")
+                return True
+        return False
+    
+    @staticmethod
+    def log_anti_crawl_url(url: str):
+        """记录反爬URL到单独的日志文件"""
+        try:
+            with open("anti_crawl_urls.log", "a", encoding="utf-8") as f:
+                timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                f.write(f"{timestamp} - {url}\n")
+        except Exception as e:
+            logging.error(f"记录反爬URL时出错: {e}")
     
     @staticmethod
     def get_redirect_url(url: str) -> Optional[str]:
@@ -123,8 +151,9 @@ class NetworkUtils:
                 logging.info(f"重定向URL: {redirect_url}")
                 
                 # 检查反爬机制
-                if redirect_url and "v.qq.com/txp/iframe/player.html" in redirect_url:
-                    logging.warning("检测到反爬机制！")
+                if NetworkUtils.is_anti_crawl_url(redirect_url):
+                    NetworkUtils.log_anti_crawl_url(redirect_url)
+                    logging.warning(f"检测到反爬机制！跳转到: {redirect_url}")
                     return "ANTI_CRAWL_DETECTED"
                 
                 # 处理相对URL

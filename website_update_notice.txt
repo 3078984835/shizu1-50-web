@@ -14,3 +14,186 @@ shizu编号: shizu1
 shizu编号: shizu5
 变化说明: 从 http://mtvod.meituan.net/save-video/old_test5.mp4 更新到 https://docs.qingque.cn/file/new_document
 ---
+
+==== 2025-08-31 19:47:07 检测到更新 ====
+
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu1
+跳转网站: http://mtvod.meituan.net/save-video/4Ha0s7QaGnE9nn_kma6PspMgVRDkMt87524RICgjWRk=_video_compressed.mp4?sign=1757479116-39975-0-79b1b54007be46bef32d94216034d508
+shizu编号: shizu1
+变化说明: 从 http://mtvod.meituan.net/save-video/a6S7fFDRSv5fG4Wql89WB044OIvWNPJNQL97NacRO7U=_video_compressed.mp4?sign=1756990894-94291-0-8a0fdcdd9ef45fc29ffffdd3f07b4fc3 更新到 http://mtvod.meituan.net/save-video/4Ha0s7QaGnE9nn_kma6PspMgVRDkMt87524RICgjWRk=_video_compressed.mp4?sign=1757479116-39975-0-79b1b54007be46bef32d94216034d508
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu3
+跳转网站: http://mtvod.meituan.net/save-video/XOauL0j__OQhHcN8jotE9YEtpRUFzfX3jbi7X0DQJjM=_video_compressed.mp4?sign=1757479116-39975-0-ecc0ed78fb84248f24abda3c04a1c858
+shizu编号: shizu3
+变化说明: 从 http://mtvod.meituan.net/save-video/AFCZZENu1saRKum7RwxeYt9LljHMINUrzr6-l5TiwR0=_video_compressed.mp4?sign=1756990894-94291-0-8e7cb174fe7eae8802b9b1a2af4fba73 更新到 http://mtvod.meituan.net/save-video/XOauL0j__OQhHcN8jotE9YEtpRUFzfX3jbi7X0DQJjM=_video_compressed.mp4?sign=1757479116-39975-0-ecc0ed78fb84248f24abda3c04a1c858
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu2
+跳转网站: http://mtvod.meituan.net/save-video/4gFjLdjHnbh77nKjmxCpmO00g0dJAE9xZZ2L4E43Sok=_video_compressed.mp4?sign=1757479116-39975-0-bd84feb21fad4b1ce053f13d17e2c3d6
+shizu编号: shizu2
+变化说明: 从 http://mtvod.meituan.net/save-video/3pKKiNTk-TuQXWZp-lc66Y2JIa0iw3vNFnW6wehW67w=_video_compressed.mp4?sign=1756990894-94291-0-7b7e2d36681b4edac418a658ca1f8589 更新到 http://mtvod.meituan.net/save-video/4gFjLdjHnbh77nKjmxCpmO00g0dJAE9xZZ2L4E43Sok=_video_compressed.mp4?sign=1757479116-39975-0-bd84feb21fad4b1ce053f13d17e2c3d6
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu4
+跳转网站: http://mtvod.meituan.net/save-video/vnu5DtEoGbVHVzivSrPjtUDuyQ26cAr5l0syvgYq34E=_video_compressed.mp4?sign=1757479116-39975-0-8ed467ad6ba9438e17cfa1890fc1b0ac
+shizu编号: shizu4
+变化说明: 从 http://mtvod.meituan.net/save-video/qEXcwC1gyLX23PRY0Hh8YQCHVI79O6bTTt_xjZJdLVE=_video_compressed.mp4?sign=1756990894-94291-0-3e9154a53602703992a432dfc8dc801b 更新到 http://mtvod.meituan.net/save-video/vnu5DtEoGbVHVzivSrPjtUDuyQ26cAr5l0syvgYq34E=_video_compressed.mp4?sign=1757479116-39975-0-8ed467ad6ba9438e17cfa1890fc1b0ac
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu5
+跳转网站: http://mtvod.meituan.net/save-video/O27jpMlXFr9W8g5c_5hbb30Jl3Z6g7UjFpdM7BUo4io=_video_compressed.mp4?sign=1757479116-39975-0-6d84a13ad28565198a0b25a4c9e43e05
+shizu编号: shizu5
+变化说明: 从 http://mtvod.meituan.net/save-video/F94aSRSgPNuPHqqQUNDxRoFBtFOjluy5Uu8DjGYh2DQ=_video_compressed.mp4?sign=1756991050-42572-0-cccf27b2b7737abcd48e17910dde8200 更新到 http://mtvod.meituan.net/save-video/O27jpMlXFr9W8g5c_5hbb30Jl3Z6g7UjFpdM7BUo4io=_video_compressed.mp4?sign=1757479116-39975-0-6d84a13ad28565198a0b25a4c9e43e05
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu6
+跳转网站: http://mtvod.meituan.net/save-video/b9fsj64gunxe6YOHchtPt0DTmPNk_7WdKyAXtmmQznM=_video_compressed.mp4?sign=1757225667-83167-0-faa44b9dfd1b31cdd0ac93a23f6c6190
+shizu编号: shizu6
+变化说明: 从 http://mtvod.meituan.net/save-video/2ko6ki24HMMgINtK8K2EJMAoPTwlXRQ-wErhkn_Zwu8=_video.mp4?sign=1756998307-4396-0-274ccfa6622dbc382f0522a6d00f80cb 更新到 http://mtvod.meituan.net/save-video/b9fsj64gunxe6YOHchtPt0DTmPNk_7WdKyAXtmmQznM=_video_compressed.mp4?sign=1757225667-83167-0-faa44b9dfd1b31cdd0ac93a23f6c6190
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu7
+跳转网站: http://mtvod.meituan.net/save-video/OLFPagLUp92oPU6iue_HCo-1HyfjD8y_O542X92kLbM=_video_compressed.mp4?sign=1757482290-32986-0-bf459e7c41cb1c14dce1fccfa0fb1cba
+shizu编号: shizu7
+变化说明: 从 http://mtvod.meituan.net/save-video/wJb3421R85qTgbfVq-N6yHadG4ahn2FLpzMBQV4W8Ms=_video_compressed.mp4?sign=1756998486-51216-0-534d839a63af61fcf48328838d42ac6f 更新到 http://mtvod.meituan.net/save-video/OLFPagLUp92oPU6iue_HCo-1HyfjD8y_O542X92kLbM=_video_compressed.mp4?sign=1757482290-32986-0-bf459e7c41cb1c14dce1fccfa0fb1cba
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu8
+跳转网站: http://mtvod.meituan.net/save-video/eSCf8P6RoHrInaQSPB56oFTgJh_4Pw60iD4W2OmOyiM=_video_compressed.mp4?sign=1757482290-32986-0-b0815d3bb895a38cc16eb434fb5e5b1b
+shizu编号: shizu8
+变化说明: 从 http://mtvod.meituan.net/save-video/yt2DRQV2qvtu-3BJ-dke_h_KPlUGMzd-_mxXYfb8u1Y=_video_compressed.mp4?sign=1756998543-4712-0-3dd5922e1e6342df3f6eeca8fbfc8800 更新到 http://mtvod.meituan.net/save-video/eSCf8P6RoHrInaQSPB56oFTgJh_4Pw60iD4W2OmOyiM=_video_compressed.mp4?sign=1757482290-32986-0-b0815d3bb895a38cc16eb434fb5e5b1b
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu9
+跳转网站: http://mtvod.meituan.net/save-video/baKs4Iy4w0sGbd0SO8-mx8LhqduUo1Kh__7t_7MmtYc=_video_compressed.mp4?sign=1757482290-32986-0-68a71d2dd8b9c5a28cb4ea64358e850c
+shizu编号: shizu9
+变化说明: 从 http://mtvod.meituan.net/save-video/3m0Mzhv9TdC4j2kEZ_XsXGUn-wGULEPwnCzBqICCME4=_video.mp4?sign=1756998657-51222-0-d4be9fe1a08c9b36a5e01153aecbaf7d 更新到 http://mtvod.meituan.net/save-video/baKs4Iy4w0sGbd0SO8-mx8LhqduUo1Kh__7t_7MmtYc=_video_compressed.mp4?sign=1757482290-32986-0-68a71d2dd8b9c5a28cb4ea64358e850c
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu10
+跳转网站: http://mtvod.meituan.net/save-video/_M9dEEI3QiYJKvxIJjF4RDvA3eHFjofISS3YWO7BdQM=_video_compressed.mp4?sign=1757482290-32986-0-ebe87f0c97d58e8025713c9ff818d443
+shizu编号: shizu10
+变化说明: 从 http://mtvod.meituan.net/save-video/DgbG5SXD9c48gUzT4XAhpjasLFZXhJhFaXyfeJNnOws=_video.mp4?sign=1756998706-16721-0-0ee33dedd58a1183f015b56da29449ba 更新到 http://mtvod.meituan.net/save-video/_M9dEEI3QiYJKvxIJjF4RDvA3eHFjofISS3YWO7BdQM=_video_compressed.mp4?sign=1757482290-32986-0-ebe87f0c97d58e8025713c9ff818d443
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu11
+跳转网站: http://mtvod.meituan.net/save-video/0zflBhwKF-nCs9TKyforML4dcnI_BFbdpDdZQ6McSAg=_video_compressed.mp4?sign=1757326759-73256-0-8e7e4bf7b6696025b514a6162437f6d7
+shizu编号: shizu11
+变化说明: 从 http://mtvod.meituan.net/save-video/xqdvrX0L8r6r0iuQvN30f-2l5ggxhNi7XNB2Xqlsy8Y=_video_compressed.mp4?sign=1757135327-32466-0-659dc237baf6ea035d336006e42564f4 更新到 http://mtvod.meituan.net/save-video/0zflBhwKF-nCs9TKyforML4dcnI_BFbdpDdZQ6McSAg=_video_compressed.mp4?sign=1757326759-73256-0-8e7e4bf7b6696025b514a6162437f6d7
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu12
+跳转网站: http://mtvod.meituan.net/save-video/RBL9DA4vyp_jgrnUoaI25UQcQ91BBP7yI1CofcCMvnI=_video_compressed.mp4?sign=1757326759-73256-0-acbc779e9b3fedc219e5ac0f602b510c
+shizu编号: shizu12
+变化说明: 从 http://mtvod.meituan.net/save-video/cIL3oUgHqG-zwkEPbbT-3lnO8Ot3EFpg66BI56nv1I4=_video_compressed.mp4?sign=1757135327-32466-0-ee577d929caafef90c6d56f02de39ef3 更新到 http://mtvod.meituan.net/save-video/RBL9DA4vyp_jgrnUoaI25UQcQ91BBP7yI1CofcCMvnI=_video_compressed.mp4?sign=1757326759-73256-0-acbc779e9b3fedc219e5ac0f602b510c
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu13
+跳转网站: http://mtvod.meituan.net/save-video/L1kYVaflcKChUuE1MpI3QQXCRWRBVtLiz7fb823_KRI=_video_compressed.mp4?sign=1757326759-73256-0-14e1e64abf76220b0613c065d0c942ad
+shizu编号: shizu13
+变化说明: 从 http://mtvod.meituan.net/save-video/2o9cdbUkDD8QDnFeXBaj9ugSNgbPaJDLfe_AH58W9O0=_video_compressed.mp4?sign=1757135327-32466-0-b2985c13c49bd7c20fd67e3b9e3a3963 更新到 http://mtvod.meituan.net/save-video/L1kYVaflcKChUuE1MpI3QQXCRWRBVtLiz7fb823_KRI=_video_compressed.mp4?sign=1757326759-73256-0-14e1e64abf76220b0613c065d0c942ad
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu14
+跳转网站: http://mtvod.meituan.net/save-video/b9fsj64gunxe6YOHchtPt0DTmPNk_7WdKyAXtmmQznM=_video_compressed.mp4?sign=1757225667-83167-0-faa44b9dfd1b31cdd0ac93a23f6c6190
+shizu编号: shizu14
+变化说明: 从 http://mtvod.meituan.net/save-video/FnPviTjL2TzjgYvDlZfWCJ5jKVDWQKbK5JwIw39sOxk=_video_compressed.mp4?sign=1757135327-32466-0-8b47da82c9cf32cf479ea6a8df8fde92 更新到 http://mtvod.meituan.net/save-video/b9fsj64gunxe6YOHchtPt0DTmPNk_7WdKyAXtmmQznM=_video_compressed.mp4?sign=1757225667-83167-0-faa44b9dfd1b31cdd0ac93a23f6c6190
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu15
+跳转网站: http://mtvod.meituan.net/save-video/HWz__UUpBUcub6Qc0ox-2KkZcAs68Cnal9KzMrGqW3k=_video.mp4?sign=1757326941-15443-0-da4dc6173ac57ed4ecdebe48602bdad0
+shizu编号: shizu15
+变化说明: 从 http://mtvod.meituan.net/save-video/AC-N2akGnrluAbMLjSnnWGRApgOhwyH9vZu-dFFevtE=_video_compressed.mp4?sign=1757135431-96034-0-ea74af95ca7c238d2fa2e97f2a512cf2 更新到 http://mtvod.meituan.net/save-video/HWz__UUpBUcub6Qc0ox-2KkZcAs68Cnal9KzMrGqW3k=_video.mp4?sign=1757326941-15443-0-da4dc6173ac57ed4ecdebe48602bdad0
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu16
+跳转网站: http://mtvod.meituan.net/save-video/Zvfz3_AH-OzcWCqkWYEilgVID99-nEeC-Nalo2vqgoU=_video.mp4?sign=1757339094-18519-0-386ba7f38da89d50f64a72d2b0aed080
+shizu编号: shizu16
+变化说明: 从 http://mtvod.meituan.net/save-video/lSw5fQYdA5Gf9Jmtmo31QQw85FqQPJP1KM6nBjJ8FKQ=_video_compressed.mp4?sign=1757145102-1373-0-7ca0af562d55ddab46673df2e1c8a3cd 更新到 http://mtvod.meituan.net/save-video/Zvfz3_AH-OzcWCqkWYEilgVID99-nEeC-Nalo2vqgoU=_video.mp4?sign=1757339094-18519-0-386ba7f38da89d50f64a72d2b0aed080
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu17
+跳转网站: http://mtvod.meituan.net/save-video/4ObrN2Ez96AdheTDdbVQsX_rU4SK0R3cYA_F17awn0U=_video_compressed.mp4?sign=1757339094-18519-0-21cba5b5b09089c7aadf3720a273a28a
+shizu编号: shizu17
+变化说明: 从 http://mtvod.meituan.net/save-video/2gJNqP-BMQ8lAtbXrPIvMRufXfB3xS68ZMGYXWfyY7Y=_video_compressed.mp4?sign=1757145171-81592-0-8be784b963442b3fb600b57d7e009475 更新到 http://mtvod.meituan.net/save-video/4ObrN2Ez96AdheTDdbVQsX_rU4SK0R3cYA_F17awn0U=_video_compressed.mp4?sign=1757339094-18519-0-21cba5b5b09089c7aadf3720a273a28a
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu18
+跳转网站: http://mtvod.meituan.net/save-video/FYSuvqCI8FRdBwOt3HWOOih-WMOjz729I7z6L1LGFi8=_video_compressed.mp4?sign=1757339094-18519-0-2f0d7d4037708da26b955426206aa614
+shizu编号: shizu18
+变化说明: 从 http://mtvod.meituan.net/save-video/tKyPqBEDsJKfENq2HJLbZPgYGgLNHlDuFlWoKBtkHXk=_video_compressed.mp4?sign=1757145213-37837-0-d1b0eeb5ff3be6f54f57a0d3083ccfc9 更新到 http://mtvod.meituan.net/save-video/FYSuvqCI8FRdBwOt3HWOOih-WMOjz729I7z6L1LGFi8=_video_compressed.mp4?sign=1757339094-18519-0-2f0d7d4037708da26b955426206aa614
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu19
+跳转网站: http://mtvod.meituan.net/save-video/dsWOEI-_nkHo1d5SaAcijvkxAF7JyIRwiUjeqMqMEeU=_video_compressed.mp4?sign=1757339094-18519-0-7708ef802ddacec87feccf3cc9ad5ed0
+shizu编号: shizu19
+变化说明: 从 http://mtvod.meituan.net/save-video/bUvTxxp78k2RTEG9BF-imQds7oJN9uU4ZxBjFATOwOU=_video.mp4?sign=1757145289-42949-0-f407a0f85bf3702848549aae76d94017 更新到 http://mtvod.meituan.net/save-video/dsWOEI-_nkHo1d5SaAcijvkxAF7JyIRwiUjeqMqMEeU=_video_compressed.mp4?sign=1757339094-18519-0-7708ef802ddacec87feccf3cc9ad5ed0
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu20
+跳转网站: http://mtvod.meituan.net/save-video/EyFhCUzEd0GNZ5vy2JzxjxxYGABV-Ky15JDnc50dw9g=_video_compressed.mp4?sign=1757339178-4860-0-298eee50b16650f5b0de38198183f0c5
+shizu编号: shizu20
+变化说明: 从 http://mtvod.meituan.net/save-video/UYQmcIT3WUEGWR_gvkcK7gjF1VdSfPW3tdHwx_hRWvc=_video.mp4?sign=1757145403-84446-0-9cf9a70b778c245300babd5ad395aae9 更新到 http://mtvod.meituan.net/save-video/EyFhCUzEd0GNZ5vy2JzxjxxYGABV-Ky15JDnc50dw9g=_video_compressed.mp4?sign=1757339178-4860-0-298eee50b16650f5b0de38198183f0c5
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu21
+跳转网站: https://qw.landou.cc/2025/08/30/%e5%b1%b1%e4%b8%9c%e6%95%99%e5%b8%88%e4%b8%8e%e5%ad%a6%e7%94%9f/
+shizu编号: shizu21
+变化说明: 从 https://docs.qingque.cn/file/eZQCjghPUw5mlzkrWrurkQrn6 更新到 https://qw.landou.cc/2025/08/30/%e5%b1%b1%e4%b8%9c%e6%95%99%e5%b8%88%e4%b8%8e%e5%ad%a6%e7%94%9f/
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu22
+跳转网站: http://mtvod.meituan.net/save-video/b9fsj64gunxe6YOHchtPt0DTmPNk_7WdKyAXtmmQznM=_video_compressed.mp4?sign=1757225667-83167-0-faa44b9dfd1b31cdd0ac93a23f6c6190
+shizu编号: shizu22
+变化说明: 从 http://mtvod.meituan.net/save-video/DNx5pxMdiBcC-722taroTFAY-ixuonrsoSiVZeaPHVI=_video.mp4?sign=1756894977-59640-0-356ef9286ec835a6ac2f9b06a9ff2df3 更新到 http://mtvod.meituan.net/save-video/b9fsj64gunxe6YOHchtPt0DTmPNk_7WdKyAXtmmQznM=_video_compressed.mp4?sign=1757225667-83167-0-faa44b9dfd1b31cdd0ac93a23f6c6190
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu23
+跳转网站: http://mtvod.meituan.net/save-video/7m8p0ROxCxGZVA0or6ZUrDmAEDjOh7H_wZoJTecWjjo=_video_compressed.mp4?sign=1757410234-3337-0-3d607da245512fb3ddd44e010dd84869
+shizu编号: shizu23
+变化说明: 从 http://mtvod.meituan.net/save-video/or-p0qz3L3RAh2fd7rt25AXkc1haOsvYGKKQNvDLTVY=_video.mp4?sign=1756866780-25299-0-20edf8d8e85da89aa299f85d586ad458 更新到 http://mtvod.meituan.net/save-video/7m8p0ROxCxGZVA0or6ZUrDmAEDjOh7H_wZoJTecWjjo=_video_compressed.mp4?sign=1757410234-3337-0-3d607da245512fb3ddd44e010dd84869
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu24
+跳转网站: http://mtvod.meituan.net/save-video/o0v8G1N9edEQbSoCY3HhGWP3f74ETIORGEFxJablL8k=_video_compressed.mp4?sign=1757410234-3337-0-31af3b87b988cd16e6fd1215666a8aa5
+shizu编号: shizu24
+变化说明: 从 http://mtvod.meituan.net/save-video/iDhHrDjpWa4w05KfZs2hDrST-I516uST3e7F1HMCRBo=_video.mp4?sign=1756866780-25299-0-e6501acc03cd2aaf5847d9f943342c60 更新到 http://mtvod.meituan.net/save-video/o0v8G1N9edEQbSoCY3HhGWP3f74ETIORGEFxJablL8k=_video_compressed.mp4?sign=1757410234-3337-0-31af3b87b988cd16e6fd1215666a8aa5
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu25
+跳转网站: http://mtvod.meituan.net/save-video/b9fsj64gunxe6YOHchtPt0DTmPNk_7WdKyAXtmmQznM=_video_compressed.mp4?sign=1757225667-83167-0-faa44b9dfd1b31cdd0ac93a23f6c6190
+shizu编号: shizu25
+变化说明: 从 https://docs.qingque.cn/d/home/eZQBUjFARpigaNf87b9rT_zwz 更新到 http://mtvod.meituan.net/save-video/b9fsj64gunxe6YOHchtPt0DTmPNk_7WdKyAXtmmQznM=_video_compressed.mp4?sign=1757225667-83167-0-faa44b9dfd1b31cdd0ac93a23f6c6190
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu26
+跳转网站: http://mtvod.meituan.net/save-video/nc-Ep1Xim724xQHEjoHhi80nCmYgnLBoxQ5viKEh3EI=_video_compressed.mp4?sign=1757423613-75332-0-a75348040430fb8d5fadfc9bcfc00003
+shizu编号: shizu26
+变化说明: 从 http://mtvod.meituan.net/save-video/0yLQ8qA0yXKwhV1EqZuZw9wtueTN6aQZzQtrTlNKFfc=_video_compressed.mp4?sign=1756895354-40933-0-28c93c48597fb134d7d653c0a834ee88 更新到 http://mtvod.meituan.net/save-video/nc-Ep1Xim724xQHEjoHhi80nCmYgnLBoxQ5viKEh3EI=_video_compressed.mp4?sign=1757423613-75332-0-a75348040430fb8d5fadfc9bcfc00003
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu27
+跳转网站: http://mtvod.meituan.net/save-video/b9fsj64gunxe6YOHchtPt0DTmPNk_7WdKyAXtmmQznM=_video_compressed.mp4?sign=1757225667-83167-0-faa44b9dfd1b31cdd0ac93a23f6c6190
+shizu编号: shizu27
+变化说明: 从 http://mtvod.meituan.net/save-video/fDVDU4OiZBTX-ijXwVoodqC5YndKpw9J3R8Rzzl9qJY=_video_compressed.mp4?sign=1756895354-40933-0-d6b5793009df6a1be7e156ce79047a08 更新到 http://mtvod.meituan.net/save-video/b9fsj64gunxe6YOHchtPt0DTmPNk_7WdKyAXtmmQznM=_video_compressed.mp4?sign=1757225667-83167-0-faa44b9dfd1b31cdd0ac93a23f6c6190
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu28
+跳转网站: http://mtvod.meituan.net/save-video/YFG4qLskoVxq-46bxFmz3zxMM_whpb1-Jcnp2lbt54g=_video_compressed.mp4?sign=1757423613-75332-0-5ad3959d0bd338e274439c2626c71a22
+shizu编号: shizu28
+变化说明: 从 http://mtvod.meituan.net/save-video/GupPJtKUvu5-1kDNUP0w82lPRjfJrB-DohXQKm1OInM=_video_compressed.mp4?sign=1756895354-40933-0-581dc39fc4ccf67c3be5c548985f770e 更新到 http://mtvod.meituan.net/save-video/YFG4qLskoVxq-46bxFmz3zxMM_whpb1-Jcnp2lbt54g=_video_compressed.mp4?sign=1757423613-75332-0-5ad3959d0bd338e274439c2626c71a22
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu29
+跳转网站: http://mtvod.meituan.net/save-video/-PPb4vPwd5yPg4AxMaS7RfrhCKzNWk7pBkk0UsXIRuA=_video_compressed.mp4?sign=1757423613-75332-0-1557818740a264daaf913f2449bd7fb8
+shizu编号: shizu29
+变化说明: 从 http://mtvod.meituan.net/save-video/G-Jrakgo8pPIoRsyasyO0yW4Cey9pUsWfMePg-1H-Hk=_video_compressed.mp4?sign=1756895472-28946-0-c7300d520096050fc890650ffe9a40e3 更新到 http://mtvod.meituan.net/save-video/-PPb4vPwd5yPg4AxMaS7RfrhCKzNWk7pBkk0UsXIRuA=_video_compressed.mp4?sign=1757423613-75332-0-1557818740a264daaf913f2449bd7fb8
+---
+时间戳: 2025-08-31 19:47:07
+直连网站: http://tians.06kd.mlkj888.cn/s/shizu30
+跳转网站: http://mtvod.meituan.net/save-video/e40w7FNk8JOm0SO6rQPoxZ__OBCsg9IPDlvw7YJn7aY=_video_compressed.mp4?sign=1757423613-75332-0-945582d64ba87b705df22e1d9c9ae357
+shizu编号: shizu30
+变化说明: 从 http://mtvod.meituan.net/save-video/qkz0PgfDJZCqkDdV59ladWqScv1lw3eE7BqZsh73gRQ=_video_compressed.mp4?sign=1756895472-28946-0-1c65a81ed7f87eb886340b6b646bda21 更新到 http://mtvod.meituan.net/save-video/e40w7FNk8JOm0SO6rQPoxZ__OBCsg9IPDlvw7YJn7aY=_video_compressed.mp4?sign=1757423613-75332-0-945582d64ba87b705df22e1d9c9ae357
+---
